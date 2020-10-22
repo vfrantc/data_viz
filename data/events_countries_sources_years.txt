@@ -1,0 +1,4792 @@
+"un_country"	"year"	"source"	"n"
+"1"	""	2010	"TED"	1
+"2"	""	2011	"BEHANCE"	6
+"3"	""	2012	"BEHANCE"	5
+"4"	""	2013	"BEHANCE"	8
+"5"	""	2014	"BEHANCE"	10
+"6"	""	2015	"BEHANCE"	9
+"7"	""	2015	"MEETUP"	5
+"8"	""	2016	"BEHANCE"	22
+"9"	""	2016	"MEETUP"	6
+"10"	""	2016	"MINCULT"	27
+"11"	""	2017	"BEHANCE"	16
+"12"	""	2017	"MEETUP"	18
+"13"	""	2017	"MINCULT"	20
+"14"	""	2017	"TED"	2
+"15"	""	2018	"BEHANCE"	8
+"16"	""	2018	"MEETUP"	19
+"17"	""	2018	"MINCULT"	10
+"18"	""	2018	"TED"	1
+"19"	""	2019	"MEETUP"	5
+"20"	""	2019	"MINCULT"	1
+"21"	"afghanistan"	2012	"TED"	1
+"22"	"afghanistan"	2013	"EFLUX"	2
+"23"	"afghanistan"	2013	"TED"	2
+"24"	"afghanistan"	2014	"TED"	1
+"25"	"afghanistan"	2015	"TED"	1
+"26"	"afghanistan"	2016	"TED"	2
+"27"	"afghanistan"	2018	"TED"	2
+"28"	"albania"	2010	"EFLUX"	1
+"29"	"albania"	2011	"BEHANCE"	3
+"30"	"albania"	2011	"TED"	1
+"31"	"albania"	2012	"BEHANCE"	8
+"32"	"albania"	2013	"BEHANCE"	27
+"33"	"albania"	2013	"EFLUX"	1
+"34"	"albania"	2013	"TED"	4
+"35"	"albania"	2014	"BEHANCE"	24
+"36"	"albania"	2014	"TED"	1
+"37"	"albania"	2015	"BEHANCE"	12
+"38"	"albania"	2015	"EFLUX"	1
+"39"	"albania"	2015	"TED"	6
+"40"	"albania"	2016	"BEHANCE"	10
+"41"	"albania"	2016	"TED"	2
+"42"	"albania"	2017	"ART_EDUCATION"	1
+"43"	"albania"	2017	"BEHANCE"	14
+"44"	"albania"	2017	"TED"	1
+"45"	"albania"	2018	"BEHANCE"	29
+"46"	"albania"	2019	"BEHANCE"	1
+"47"	"algeria"	2010	"BEHANCE"	12
+"48"	"algeria"	2010	"TED"	1
+"49"	"algeria"	2011	"TED"	2
+"50"	"algeria"	2012	"BEHANCE"	14
+"51"	"algeria"	2012	"TED"	4
+"52"	"algeria"	2013	"BEHANCE"	65
+"53"	"algeria"	2013	"TED"	7
+"54"	"algeria"	2014	"BEHANCE"	31
+"55"	"algeria"	2014	"TED"	2
+"56"	"algeria"	2015	"BEHANCE"	28
+"57"	"algeria"	2015	"TED"	4
+"58"	"algeria"	2016	"BEHANCE"	40
+"59"	"algeria"	2016	"TED"	5
+"60"	"algeria"	2017	"BEHANCE"	76
+"61"	"algeria"	2017	"MEETUP"	25
+"62"	"algeria"	2017	"TED"	3
+"63"	"algeria"	2018	"BEHANCE"	67
+"64"	"algeria"	2018	"EFLUX"	1
+"65"	"algeria"	2018	"MEETUP"	41
+"66"	"algeria"	2018	"TED"	3
+"67"	"algeria"	2019	"BEHANCE"	3
+"68"	"algeria"	2019	"MEETUP"	8
+"69"	"algeria"	2019	"TED"	6
+"70"	"andorra"	2010	"TED"	1
+"71"	"andorra"	2011	"MEETUP"	1
+"72"	"andorra"	2011	"TED"	3
+"73"	"andorra"	2012	"TED"	4
+"74"	"andorra"	2013	"BEHANCE"	10
+"75"	"andorra"	2013	"TED"	2
+"76"	"andorra"	2014	"BEHANCE"	13
+"77"	"andorra"	2014	"TED"	1
+"78"	"andorra"	2015	"BEHANCE"	38
+"79"	"andorra"	2015	"TED"	1
+"80"	"andorra"	2016	"BEHANCE"	21
+"81"	"andorra"	2016	"TED"	2
+"82"	"andorra"	2017	"BEHANCE"	8
+"83"	"andorra"	2017	"MEETUP"	1
+"84"	"andorra"	2017	"TED"	1
+"85"	"andorra"	2018	"BEHANCE"	1
+"86"	"angola"	2011	"BEHANCE"	5
+"87"	"angola"	2012	"BEHANCE"	3
+"88"	"angola"	2012	"TED"	1
+"89"	"angola"	2013	"BEHANCE"	5
+"90"	"angola"	2013	"TED"	1
+"91"	"angola"	2014	"BEHANCE"	3
+"92"	"angola"	2014	"TED"	1
+"93"	"angola"	2016	"BEHANCE"	1
+"94"	"angola"	2016	"TED"	1
+"95"	"angola"	2017	"MEETUP"	27
+"96"	"angola"	2018	"BEHANCE"	1
+"97"	"angola"	2018	"MEETUP"	16
+"98"	"angola"	2018	"TED"	1
+"99"	"angola"	2019	"TED"	1
+"100"	"antigua and barbuda"	2013	"BEHANCE"	7
+"101"	"antigua and barbuda"	2015	"BEHANCE"	5
+"102"	"antigua and barbuda"	2015	"TED"	1
+"103"	"antigua and barbuda"	2017	"MEETUP"	2
+"104"	"argentina"	2007	"BEHANCE"	4
+"105"	"argentina"	2008	"BEHANCE"	115
+"106"	"argentina"	2008	"MEETUP"	1
+"107"	"argentina"	2009	"BEHANCE"	410
+"108"	"argentina"	2009	"MEETUP"	1
+"109"	"argentina"	2009	"TED"	1
+"110"	"argentina"	2010	"BEHANCE"	869
+"111"	"argentina"	2010	"EFLUX"	7
+"112"	"argentina"	2010	"TED"	8
+"113"	"argentina"	2011	"BEHANCE"	1291
+"114"	"argentina"	2011	"EFLUX"	5
+"115"	"argentina"	2011	"MEETUP"	43
+"116"	"argentina"	2011	"TED"	14
+"117"	"argentina"	2012	"ART_EDUCATION"	5
+"118"	"argentina"	2012	"BEHANCE"	2649
+"119"	"argentina"	2012	"EFLUX"	7
+"120"	"argentina"	2012	"MEETUP"	73
+"121"	"argentina"	2012	"TED"	23
+"122"	"argentina"	2013	"ART_EDUCATION"	1
+"123"	"argentina"	2013	"BEHANCE"	3748
+"124"	"argentina"	2013	"EFLUX"	9
+"125"	"argentina"	2013	"MEETUP"	126
+"126"	"argentina"	2013	"TED"	26
+"127"	"argentina"	2014	"ART_EDUCATION"	1
+"128"	"argentina"	2014	"BEHANCE"	3833
+"129"	"argentina"	2014	"EFLUX"	10
+"130"	"argentina"	2014	"MEETUP"	245
+"131"	"argentina"	2014	"TED"	28
+"132"	"argentina"	2015	"ART_EDUCATION"	1
+"133"	"argentina"	2015	"BEHANCE"	2972
+"134"	"argentina"	2015	"EFLUX"	18
+"135"	"argentina"	2015	"MEETUP"	518
+"136"	"argentina"	2015	"TED"	35
+"137"	"argentina"	2016	"ART_EDUCATION"	2
+"138"	"argentina"	2016	"BEHANCE"	3335
+"139"	"argentina"	2016	"EFLUX"	6
+"140"	"argentina"	2016	"MEETUP"	797
+"141"	"argentina"	2016	"TED"	42
+"142"	"argentina"	2017	"ART_EDUCATION"	2
+"143"	"argentina"	2017	"BEHANCE"	3005
+"144"	"argentina"	2017	"EFLUX"	9
+"145"	"argentina"	2017	"MEETUP"	791
+"146"	"argentina"	2017	"TED"	46
+"147"	"argentina"	2018	"ART_EDUCATION"	1
+"148"	"argentina"	2018	"BEHANCE"	2765
+"149"	"argentina"	2018	"EFLUX"	7
+"150"	"argentina"	2018	"MEETUP"	1100
+"151"	"argentina"	2018	"TED"	39
+"152"	"argentina"	2019	"BEHANCE"	484
+"153"	"argentina"	2019	"MEETUP"	235
+"154"	"argentina"	2019	"TED"	15
+"155"	"armenia"	2009	"BEHANCE"	18
+"156"	"armenia"	2010	"BEHANCE"	37
+"157"	"armenia"	2010	"TED"	2
+"158"	"armenia"	2011	"BEHANCE"	51
+"159"	"armenia"	2011	"TED"	2
+"160"	"armenia"	2012	"BEHANCE"	54
+"161"	"armenia"	2012	"TED"	7
+"162"	"armenia"	2013	"BEHANCE"	44
+"163"	"armenia"	2013	"TED"	1
+"164"	"armenia"	2013	"TIMEPAD"	3
+"165"	"armenia"	2014	"BEHANCE"	118
+"166"	"armenia"	2014	"TED"	3
+"167"	"armenia"	2014	"TIMEPAD"	5
+"168"	"armenia"	2015	"BEHANCE"	156
+"169"	"armenia"	2015	"TED"	3
+"170"	"armenia"	2015	"TIMEPAD"	3
+"171"	"armenia"	2016	"BEHANCE"	208
+"172"	"armenia"	2016	"EFLUX"	1
+"173"	"armenia"	2016	"TED"	11
+"174"	"armenia"	2016	"TIMEPAD"	2
+"175"	"armenia"	2017	"BEHANCE"	186
+"176"	"armenia"	2017	"TED"	12
+"177"	"armenia"	2017	"TIMEPAD"	14
+"178"	"armenia"	2018	"BEHANCE"	140
+"179"	"armenia"	2018	"MEETUP"	1
+"180"	"armenia"	2018	"TED"	11
+"181"	"armenia"	2018	"TIMEPAD"	15
+"182"	"armenia"	2019	"BEHANCE"	17
+"183"	"armenia"	2019	"TED"	3
+"184"	"armenia"	2019	"TIMEPAD"	2
+"185"	"australia"	2004	"MEETUP"	18
+"186"	"australia"	2005	"MEETUP"	66
+"187"	"australia"	2006	"MEETUP"	152
+"188"	"australia"	2007	"BEHANCE"	10
+"189"	"australia"	2007	"MEETUP"	211
+"190"	"australia"	2008	"BEHANCE"	97
+"191"	"australia"	2008	"MEETUP"	436
+"192"	"australia"	2009	"BEHANCE"	476
+"193"	"australia"	2009	"MEETUP"	976
+"194"	"australia"	2009	"TED"	8
+"195"	"australia"	2010	"ART_EDUCATION"	7
+"196"	"australia"	2010	"BEHANCE"	876
+"197"	"australia"	2010	"EFLUX"	30
+"198"	"australia"	2010	"MEETUP"	1582
+"199"	"australia"	2010	"TED"	28
+"200"	"australia"	2011	"ART_EDUCATION"	8
+"201"	"australia"	2011	"BEHANCE"	1419
+"202"	"australia"	2011	"EFLUX"	20
+"203"	"australia"	2011	"MEETUP"	1910
+"204"	"australia"	2011	"TED"	37
+"205"	"australia"	2012	"ART_EDUCATION"	5
+"206"	"australia"	2012	"BEHANCE"	2440
+"207"	"australia"	2012	"EFLUX"	24
+"208"	"australia"	2012	"MEETUP"	3892
+"209"	"australia"	2012	"TED"	33
+"210"	"australia"	2013	"ART_EDUCATION"	4
+"211"	"australia"	2013	"BEHANCE"	3789
+"212"	"australia"	2013	"EFLUX"	36
+"213"	"australia"	2013	"MEETUP"	4901
+"214"	"australia"	2013	"TED"	55
+"215"	"australia"	2014	"ART_EDUCATION"	5
+"216"	"australia"	2014	"BEHANCE"	3042
+"217"	"australia"	2014	"EFLUX"	30
+"218"	"australia"	2014	"MEETUP"	5817
+"219"	"australia"	2014	"TED"	42
+"220"	"australia"	2015	"ART_EDUCATION"	4
+"221"	"australia"	2015	"BEHANCE"	2120
+"222"	"australia"	2015	"EFLUX"	28
+"223"	"australia"	2015	"MEETUP"	6208
+"224"	"australia"	2015	"TED"	52
+"225"	"australia"	2016	"ART_EDUCATION"	4
+"226"	"australia"	2016	"BEHANCE"	2274
+"227"	"australia"	2016	"EFLUX"	34
+"228"	"australia"	2016	"MEETUP"	6948
+"229"	"australia"	2016	"TED"	45
+"230"	"australia"	2017	"ART_EDUCATION"	9
+"231"	"australia"	2017	"BEHANCE"	2148
+"232"	"australia"	2017	"EFLUX"	35
+"233"	"australia"	2017	"MEETUP"	8135
+"234"	"australia"	2017	"TED"	59
+"235"	"australia"	2017	"TIMEPAD"	1
+"236"	"australia"	2018	"ART_EDUCATION"	6
+"237"	"australia"	2018	"BEHANCE"	1936
+"238"	"australia"	2018	"EFLUX"	36
+"239"	"australia"	2018	"MEETUP"	11215
+"240"	"australia"	2018	"TED"	48
+"241"	"australia"	2019	"BEHANCE"	245
+"242"	"australia"	2019	"MEETUP"	1999
+"243"	"australia"	2019	"TED"	14
+"244"	"austria"	2007	"BEHANCE"	1
+"245"	"austria"	2008	"BEHANCE"	24
+"246"	"austria"	2009	"BEHANCE"	74
+"247"	"austria"	2010	"ART_EDUCATION"	2
+"248"	"austria"	2010	"BEHANCE"	179
+"249"	"austria"	2010	"EFLUX"	16
+"250"	"austria"	2010	"MEETUP"	81
+"251"	"austria"	2010	"TED"	4
+"252"	"austria"	2011	"ART_EDUCATION"	9
+"253"	"austria"	2011	"BEHANCE"	363
+"254"	"austria"	2011	"EFLUX"	15
+"255"	"austria"	2011	"MEETUP"	142
+"256"	"austria"	2011	"TED"	7
+"257"	"austria"	2012	"ART_EDUCATION"	10
+"258"	"austria"	2012	"BEHANCE"	542
+"259"	"austria"	2012	"EFLUX"	20
+"260"	"austria"	2012	"MEETUP"	79
+"261"	"austria"	2012	"TED"	8
+"262"	"austria"	2013	"ART_EDUCATION"	1
+"263"	"austria"	2013	"BEHANCE"	868
+"264"	"austria"	2013	"EFLUX"	28
+"265"	"austria"	2013	"MEETUP"	209
+"266"	"austria"	2013	"TED"	12
+"267"	"austria"	2014	"ART_EDUCATION"	5
+"268"	"austria"	2014	"BEHANCE"	800
+"269"	"austria"	2014	"EFLUX"	35
+"270"	"austria"	2014	"MEETUP"	339
+"271"	"austria"	2014	"TED"	10
+"272"	"austria"	2015	"ART_EDUCATION"	2
+"273"	"austria"	2015	"BEHANCE"	749
+"274"	"austria"	2015	"EFLUX"	42
+"275"	"austria"	2015	"MEETUP"	598
+"276"	"austria"	2015	"TED"	9
+"277"	"austria"	2016	"ART_EDUCATION"	3
+"278"	"austria"	2016	"BEHANCE"	785
+"279"	"austria"	2016	"EFLUX"	37
+"280"	"austria"	2016	"MEETUP"	930
+"281"	"austria"	2016	"TED"	11
+"282"	"austria"	2017	"ART_EDUCATION"	5
+"283"	"austria"	2017	"BEHANCE"	800
+"284"	"austria"	2017	"EFLUX"	34
+"285"	"austria"	2017	"MEETUP"	1342
+"286"	"austria"	2017	"TED"	11
+"287"	"austria"	2018	"ART_EDUCATION"	4
+"288"	"austria"	2018	"BEHANCE"	626
+"289"	"austria"	2018	"EFLUX"	35
+"290"	"austria"	2018	"MEETUP"	1993
+"291"	"austria"	2018	"TED"	12
+"292"	"austria"	2019	"BEHANCE"	109
+"293"	"austria"	2019	"MEETUP"	343
+"294"	"austria"	2019	"TED"	8
+"295"	"azerbaijan"	2009	"BEHANCE"	1
+"296"	"azerbaijan"	2010	"BEHANCE"	2
+"297"	"azerbaijan"	2010	"TED"	1
+"298"	"azerbaijan"	2011	"BEHANCE"	10
+"299"	"azerbaijan"	2011	"TED"	3
+"300"	"azerbaijan"	2012	"BEHANCE"	53
+"301"	"azerbaijan"	2012	"TED"	4
+"302"	"azerbaijan"	2012	"TIMEPAD"	4
+"303"	"azerbaijan"	2013	"BEHANCE"	97
+"304"	"azerbaijan"	2013	"TED"	2
+"305"	"azerbaijan"	2013	"TIMEPAD"	1
+"306"	"azerbaijan"	2014	"BEHANCE"	95
+"307"	"azerbaijan"	2014	"TED"	1
+"308"	"azerbaijan"	2014	"TIMEPAD"	4
+"309"	"azerbaijan"	2015	"BEHANCE"	126
+"310"	"azerbaijan"	2015	"TED"	3
+"311"	"azerbaijan"	2015	"TIMEPAD"	2
+"312"	"azerbaijan"	2016	"ART_EDUCATION"	1
+"313"	"azerbaijan"	2016	"BEHANCE"	100
+"314"	"azerbaijan"	2016	"TED"	3
+"315"	"azerbaijan"	2016	"TIMEPAD"	9
+"316"	"azerbaijan"	2017	"BEHANCE"	102
+"317"	"azerbaijan"	2017	"EFLUX"	1
+"318"	"azerbaijan"	2017	"MEETUP"	2
+"319"	"azerbaijan"	2017	"TED"	4
+"320"	"azerbaijan"	2017	"TIMEPAD"	26
+"321"	"azerbaijan"	2018	"BEHANCE"	101
+"322"	"azerbaijan"	2018	"EFLUX"	2
+"323"	"azerbaijan"	2018	"TED"	5
+"324"	"azerbaijan"	2018	"TIMEPAD"	31
+"325"	"azerbaijan"	2019	"BEHANCE"	17
+"326"	"azerbaijan"	2019	"TIMEPAD"	7
+"327"	"bahrain"	2008	"BEHANCE"	8
+"328"	"bahrain"	2009	"BEHANCE"	13
+"329"	"bahrain"	2010	"BEHANCE"	17
+"330"	"bahrain"	2010	"TED"	2
+"331"	"bahrain"	2011	"BEHANCE"	11
+"332"	"bahrain"	2011	"TED"	2
+"333"	"bahrain"	2012	"BEHANCE"	77
+"334"	"bahrain"	2012	"MEETUP"	1
+"335"	"bahrain"	2013	"BEHANCE"	74
+"336"	"bahrain"	2013	"MEETUP"	1
+"337"	"bahrain"	2014	"BEHANCE"	58
+"338"	"bahrain"	2014	"MEETUP"	7
+"339"	"bahrain"	2014	"TED"	1
+"340"	"bahrain"	2015	"BEHANCE"	63
+"341"	"bahrain"	2015	"MEETUP"	23
+"342"	"bahrain"	2016	"BEHANCE"	45
+"343"	"bahrain"	2016	"MEETUP"	22
+"344"	"bahrain"	2016	"TED"	1
+"345"	"bahrain"	2017	"BEHANCE"	57
+"346"	"bahrain"	2017	"MEETUP"	94
+"347"	"bahrain"	2017	"TED"	1
+"348"	"bahrain"	2018	"BEHANCE"	23
+"349"	"bahrain"	2018	"MEETUP"	205
+"350"	"bahrain"	2018	"TED"	1
+"351"	"bahrain"	2019	"BEHANCE"	7
+"352"	"bahrain"	2019	"MEETUP"	38
+"353"	"bahrain"	2019	"TED"	1
+"354"	"bangladesh"	2008	"BEHANCE"	7
+"355"	"bangladesh"	2009	"BEHANCE"	3
+"356"	"bangladesh"	2009	"TED"	1
+"357"	"bangladesh"	2010	"BEHANCE"	4
+"358"	"bangladesh"	2011	"BEHANCE"	5
+"359"	"bangladesh"	2011	"TED"	1
+"360"	"bangladesh"	2012	"BEHANCE"	11
+"361"	"bangladesh"	2012	"MEETUP"	1
+"362"	"bangladesh"	2012	"TED"	4
+"363"	"bangladesh"	2013	"BEHANCE"	45
+"364"	"bangladesh"	2013	"TED"	3
+"365"	"bangladesh"	2014	"BEHANCE"	134
+"366"	"bangladesh"	2014	"EFLUX"	1
+"367"	"bangladesh"	2014	"MEETUP"	5
+"368"	"bangladesh"	2014	"TED"	3
+"369"	"bangladesh"	2015	"BEHANCE"	149
+"370"	"bangladesh"	2015	"MEETUP"	23
+"371"	"bangladesh"	2015	"TED"	4
+"372"	"bangladesh"	2016	"BEHANCE"	253
+"373"	"bangladesh"	2016	"MEETUP"	109
+"374"	"bangladesh"	2016	"TED"	4
+"375"	"bangladesh"	2017	"BEHANCE"	352
+"376"	"bangladesh"	2017	"EFLUX"	1
+"377"	"bangladesh"	2017	"MEETUP"	123
+"378"	"bangladesh"	2017	"TED"	6
+"379"	"bangladesh"	2018	"BEHANCE"	265
+"380"	"bangladesh"	2018	"EFLUX"	1
+"381"	"bangladesh"	2018	"MEETUP"	96
+"382"	"bangladesh"	2018	"TED"	7
+"383"	"bangladesh"	2019	"BEHANCE"	34
+"384"	"bangladesh"	2019	"MEETUP"	4
+"385"	"bangladesh"	2019	"TED"	3
+"386"	"barbados"	2011	"TED"	1
+"387"	"barbados"	2012	"BEHANCE"	1
+"388"	"barbados"	2012	"TED"	1
+"389"	"barbados"	2013	"BEHANCE"	6
+"390"	"barbados"	2013	"TED"	1
+"391"	"barbados"	2014	"BEHANCE"	1
+"392"	"barbados"	2014	"TED"	1
+"393"	"barbados"	2015	"BEHANCE"	1
+"394"	"barbados"	2016	"BEHANCE"	4
+"395"	"barbados"	2016	"MEETUP"	1
+"396"	"barbados"	2016	"TED"	1
+"397"	"barbados"	2017	"BEHANCE"	3
+"398"	"barbados"	2018	"MEETUP"	1
+"399"	"belarus"	2008	"BEHANCE"	15
+"400"	"belarus"	2009	"BEHANCE"	30
+"401"	"belarus"	2010	"BEHANCE"	76
+"402"	"belarus"	2010	"TED"	2
+"403"	"belarus"	2011	"BEHANCE"	112
+"404"	"belarus"	2011	"TED"	1
+"405"	"belarus"	2012	"BEHANCE"	311
+"406"	"belarus"	2012	"TIMEPAD"	92
+"407"	"belarus"	2013	"BEHANCE"	619
+"408"	"belarus"	2013	"TED"	1
+"409"	"belarus"	2013	"TIMEPAD"	105
+"410"	"belarus"	2014	"BEHANCE"	762
+"411"	"belarus"	2014	"EFLUX"	1
+"412"	"belarus"	2014	"TED"	3
+"413"	"belarus"	2014	"TIMEPAD"	196
+"414"	"belarus"	2015	"BEHANCE"	712
+"415"	"belarus"	2015	"TED"	1
+"416"	"belarus"	2015	"TIMEPAD"	224
+"417"	"belarus"	2016	"BEHANCE"	848
+"418"	"belarus"	2016	"TED"	1
+"419"	"belarus"	2016	"TIMEPAD"	380
+"420"	"belarus"	2017	"BEHANCE"	1062
+"421"	"belarus"	2017	"TED"	2
+"422"	"belarus"	2017	"TIMEPAD"	419
+"423"	"belarus"	2018	"BEHANCE"	895
+"424"	"belarus"	2018	"MEETUP"	1
+"425"	"belarus"	2018	"TED"	6
+"426"	"belarus"	2018	"TIMEPAD"	416
+"427"	"belarus"	2019	"BEHANCE"	137
+"428"	"belarus"	2019	"TED"	2
+"429"	"belarus"	2019	"TIMEPAD"	118
+"430"	"belgium"	2007	"BEHANCE"	7
+"431"	"belgium"	2007	"MEETUP"	24
+"432"	"belgium"	2008	"BEHANCE"	54
+"433"	"belgium"	2008	"MEETUP"	83
+"434"	"belgium"	2009	"BEHANCE"	126
+"435"	"belgium"	2009	"MEETUP"	93
+"436"	"belgium"	2009	"TED"	4
+"437"	"belgium"	2010	"ART_EDUCATION"	1
+"438"	"belgium"	2010	"BEHANCE"	281
+"439"	"belgium"	2010	"EFLUX"	23
+"440"	"belgium"	2010	"MEETUP"	89
+"441"	"belgium"	2010	"TED"	7
+"442"	"belgium"	2011	"BEHANCE"	544
+"443"	"belgium"	2011	"EFLUX"	20
+"444"	"belgium"	2011	"MEETUP"	226
+"445"	"belgium"	2011	"TED"	12
+"446"	"belgium"	2012	"ART_EDUCATION"	5
+"447"	"belgium"	2012	"BEHANCE"	1204
+"448"	"belgium"	2012	"EFLUX"	26
+"449"	"belgium"	2012	"MEETUP"	317
+"450"	"belgium"	2012	"TED"	24
+"451"	"belgium"	2013	"ART_EDUCATION"	4
+"452"	"belgium"	2013	"BEHANCE"	1531
+"453"	"belgium"	2013	"EFLUX"	20
+"454"	"belgium"	2013	"MEETUP"	559
+"455"	"belgium"	2013	"TED"	26
+"456"	"belgium"	2014	"ART_EDUCATION"	1
+"457"	"belgium"	2014	"BEHANCE"	1764
+"458"	"belgium"	2014	"EFLUX"	24
+"459"	"belgium"	2014	"MEETUP"	1160
+"460"	"belgium"	2014	"TED"	29
+"461"	"belgium"	2015	"ART_EDUCATION"	2
+"462"	"belgium"	2015	"BEHANCE"	1239
+"463"	"belgium"	2015	"EFLUX"	25
+"464"	"belgium"	2015	"MEETUP"	1604
+"465"	"belgium"	2015	"TED"	17
+"466"	"belgium"	2016	"ART_EDUCATION"	2
+"467"	"belgium"	2016	"BEHANCE"	1344
+"468"	"belgium"	2016	"EFLUX"	24
+"469"	"belgium"	2016	"MEETUP"	2567
+"470"	"belgium"	2016	"TED"	18
+"471"	"belgium"	2017	"ART_EDUCATION"	1
+"472"	"belgium"	2017	"BEHANCE"	1234
+"473"	"belgium"	2017	"EFLUX"	27
+"474"	"belgium"	2017	"MEETUP"	2986
+"475"	"belgium"	2017	"TED"	18
+"476"	"belgium"	2018	"ART_EDUCATION"	4
+"477"	"belgium"	2018	"BEHANCE"	1050
+"478"	"belgium"	2018	"EFLUX"	25
+"479"	"belgium"	2018	"MEETUP"	3480
+"480"	"belgium"	2018	"TED"	15
+"481"	"belgium"	2019	"BEHANCE"	152
+"482"	"belgium"	2019	"MEETUP"	565
+"483"	"belgium"	2019	"TED"	10
+"484"	"belize"	2011	"MEETUP"	1
+"485"	"belize"	2012	"MEETUP"	3
+"486"	"belize"	2014	"MEETUP"	1
+"487"	"belize"	2015	"MEETUP"	2
+"488"	"belize"	2015	"TED"	1
+"489"	"belize"	2016	"MEETUP"	5
+"490"	"belize"	2017	"MEETUP"	4
+"491"	"belize"	2017	"TED"	1
+"492"	"belize"	2018	"MEETUP"	2
+"493"	"benin"	2012	"EFLUX"	1
+"494"	"benin"	2014	"EFLUX"	1
+"495"	"benin"	2017	"TED"	2
+"496"	"benin"	2018	"MEETUP"	10
+"497"	"benin"	2018	"TED"	1
+"498"	"bhutan"	2011	"TED"	1
+"499"	"bhutan"	2014	"TED"	1
+"500"	"bhutan"	2015	"MEETUP"	1
+"501"	"bhutan"	2015	"TED"	2
+"502"	"bhutan"	2016	"MEETUP"	6
+"503"	"bhutan"	2017	"MEETUP"	5
+"504"	"bhutan"	2018	"MEETUP"	2
+"505"	"bolivia"	2008	"BEHANCE"	6
+"506"	"bolivia"	2009	"BEHANCE"	2
+"507"	"bolivia"	2009	"TED"	1
+"508"	"bolivia"	2010	"TED"	1
+"509"	"bolivia"	2011	"BEHANCE"	7
+"510"	"bolivia"	2012	"BEHANCE"	6
+"511"	"bolivia"	2012	"TED"	1
+"512"	"bolivia"	2013	"BEHANCE"	33
+"513"	"bolivia"	2013	"TED"	2
+"514"	"bolivia"	2014	"BEHANCE"	18
+"515"	"bolivia"	2014	"TED"	1
+"516"	"bolivia"	2015	"BEHANCE"	27
+"517"	"bolivia"	2016	"BEHANCE"	29
+"518"	"bolivia"	2016	"TED"	5
+"519"	"bolivia"	2017	"BEHANCE"	35
+"520"	"bolivia"	2017	"MEETUP"	1
+"521"	"bolivia"	2017	"TED"	7
+"522"	"bolivia"	2018	"BEHANCE"	28
+"523"	"bolivia"	2018	"TED"	12
+"524"	"bolivia"	2019	"BEHANCE"	3
+"525"	"bolivia"	2019	"TED"	1
+"526"	"bosnia and herzegovina"	2008	"BEHANCE"	3
+"527"	"bosnia and herzegovina"	2009	"BEHANCE"	7
+"528"	"bosnia and herzegovina"	2010	"BEHANCE"	23
+"529"	"bosnia and herzegovina"	2010	"TED"	1
+"530"	"bosnia and herzegovina"	2011	"BEHANCE"	28
+"531"	"bosnia and herzegovina"	2011	"TED"	1
+"532"	"bosnia and herzegovina"	2012	"BEHANCE"	71
+"533"	"bosnia and herzegovina"	2012	"TED"	1
+"534"	"bosnia and herzegovina"	2013	"BEHANCE"	155
+"535"	"bosnia and herzegovina"	2013	"TED"	4
+"536"	"bosnia and herzegovina"	2014	"BEHANCE"	100
+"537"	"bosnia and herzegovina"	2014	"TED"	3
+"538"	"bosnia and herzegovina"	2015	"BEHANCE"	120
+"539"	"bosnia and herzegovina"	2016	"BEHANCE"	80
+"540"	"bosnia and herzegovina"	2016	"TED"	1
+"541"	"bosnia and herzegovina"	2017	"BEHANCE"	121
+"542"	"bosnia and herzegovina"	2017	"TED"	3
+"543"	"bosnia and herzegovina"	2018	"BEHANCE"	81
+"544"	"bosnia and herzegovina"	2018	"MEETUP"	1
+"545"	"bosnia and herzegovina"	2018	"TED"	2
+"546"	"bosnia and herzegovina"	2019	"BEHANCE"	22
+"547"	"bosnia and herzegovina"	2019	"TED"	1
+"548"	"botswana"	2015	"BEHANCE"	3
+"549"	"botswana"	2015	"TED"	1
+"550"	"botswana"	2016	"BEHANCE"	3
+"551"	"botswana"	2016	"MEETUP"	1
+"552"	"botswana"	2017	"BEHANCE"	1
+"553"	"botswana"	2017	"TED"	1
+"554"	"botswana"	2018	"BEHANCE"	3
+"555"	"brazil"	2007	"BEHANCE"	14
+"556"	"brazil"	2008	"BEHANCE"	187
+"557"	"brazil"	2009	"BEHANCE"	561
+"558"	"brazil"	2009	"TED"	2
+"559"	"brazil"	2010	"BEHANCE"	878
+"560"	"brazil"	2010	"EFLUX"	4
+"561"	"brazil"	2010	"TED"	12
+"562"	"brazil"	2011	"BEHANCE"	1367
+"563"	"brazil"	2011	"EFLUX"	6
+"564"	"brazil"	2011	"TED"	46
+"565"	"brazil"	2012	"BEHANCE"	2806
+"566"	"brazil"	2012	"EFLUX"	4
+"567"	"brazil"	2012	"MEETUP"	14
+"568"	"brazil"	2012	"TED"	76
+"569"	"brazil"	2013	"ART_EDUCATION"	1
+"570"	"brazil"	2013	"BEHANCE"	4901
+"571"	"brazil"	2013	"EFLUX"	11
+"572"	"brazil"	2013	"MEETUP"	100
+"573"	"brazil"	2013	"TED"	79
+"574"	"brazil"	2014	"ART_EDUCATION"	1
+"575"	"brazil"	2014	"BEHANCE"	6003
+"576"	"brazil"	2014	"EFLUX"	6
+"577"	"brazil"	2014	"MEETUP"	538
+"578"	"brazil"	2014	"TED"	42
+"579"	"brazil"	2015	"ART_EDUCATION"	1
+"580"	"brazil"	2015	"BEHANCE"	5122
+"581"	"brazil"	2015	"EFLUX"	3
+"582"	"brazil"	2015	"MEETUP"	946
+"583"	"brazil"	2015	"TED"	54
+"584"	"brazil"	2016	"BEHANCE"	5871
+"585"	"brazil"	2016	"EFLUX"	5
+"586"	"brazil"	2016	"MEETUP"	1809
+"587"	"brazil"	2016	"TED"	74
+"588"	"brazil"	2017	"ART_EDUCATION"	1
+"589"	"brazil"	2017	"BEHANCE"	5627
+"590"	"brazil"	2017	"EFLUX"	5
+"591"	"brazil"	2017	"MEETUP"	2735
+"592"	"brazil"	2017	"TED"	76
+"593"	"brazil"	2018	"BEHANCE"	4938
+"594"	"brazil"	2018	"EFLUX"	12
+"595"	"brazil"	2018	"MEETUP"	4143
+"596"	"brazil"	2018	"TED"	73
+"597"	"brazil"	2019	"BEHANCE"	867
+"598"	"brazil"	2019	"MEETUP"	786
+"599"	"brazil"	2019	"TED"	31
+"600"	"brunei"	2012	"BEHANCE"	3
+"601"	"brunei"	2014	"TED"	1
+"602"	"brunei"	2015	"BEHANCE"	1
+"603"	"brunei"	2015	"TED"	2
+"604"	"brunei"	2016	"BEHANCE"	1
+"605"	"brunei"	2016	"TED"	1
+"606"	"brunei"	2017	"BEHANCE"	5
+"607"	"bulgaria"	2007	"BEHANCE"	17
+"608"	"bulgaria"	2008	"BEHANCE"	127
+"609"	"bulgaria"	2009	"BEHANCE"	231
+"610"	"bulgaria"	2009	"MEETUP"	1
+"611"	"bulgaria"	2010	"BEHANCE"	322
+"612"	"bulgaria"	2010	"TED"	2
+"613"	"bulgaria"	2011	"BEHANCE"	369
+"614"	"bulgaria"	2011	"EFLUX"	1
+"615"	"bulgaria"	2011	"TED"	3
+"616"	"bulgaria"	2012	"ART_EDUCATION"	1
+"617"	"bulgaria"	2012	"BEHANCE"	489
+"618"	"bulgaria"	2012	"MEETUP"	5
+"619"	"bulgaria"	2012	"TED"	8
+"620"	"bulgaria"	2012	"TIMEPAD"	2
+"621"	"bulgaria"	2013	"BEHANCE"	704
+"622"	"bulgaria"	2013	"EFLUX"	1
+"623"	"bulgaria"	2013	"MEETUP"	11
+"624"	"bulgaria"	2013	"TED"	5
+"625"	"bulgaria"	2013	"TIMEPAD"	1
+"626"	"bulgaria"	2014	"BEHANCE"	960
+"627"	"bulgaria"	2014	"MEETUP"	24
+"628"	"bulgaria"	2014	"TED"	3
+"629"	"bulgaria"	2014	"TIMEPAD"	2
+"630"	"bulgaria"	2015	"BEHANCE"	806
+"631"	"bulgaria"	2015	"MEETUP"	97
+"632"	"bulgaria"	2015	"TED"	6
+"633"	"bulgaria"	2015	"TIMEPAD"	1
+"634"	"bulgaria"	2016	"BEHANCE"	851
+"635"	"bulgaria"	2016	"MEETUP"	314
+"636"	"bulgaria"	2016	"TED"	5
+"637"	"bulgaria"	2016	"TIMEPAD"	7
+"638"	"bulgaria"	2017	"BEHANCE"	738
+"639"	"bulgaria"	2017	"MEETUP"	358
+"640"	"bulgaria"	2017	"TED"	11
+"641"	"bulgaria"	2017	"TIMEPAD"	4
+"642"	"bulgaria"	2018	"BEHANCE"	425
+"643"	"bulgaria"	2018	"EFLUX"	2
+"644"	"bulgaria"	2018	"MEETUP"	580
+"645"	"bulgaria"	2018	"TED"	13
+"646"	"bulgaria"	2018	"TIMEPAD"	18
+"647"	"bulgaria"	2019	"BEHANCE"	98
+"648"	"bulgaria"	2019	"MEETUP"	86
+"649"	"bulgaria"	2019	"TED"	8
+"650"	"bulgaria"	2019	"TIMEPAD"	7
+"651"	"burkina faso"	2016	"MEETUP"	1
+"652"	"burkina faso"	2017	"TED"	1
+"653"	"burkina faso"	2018	"TED"	3
+"654"	"burundi"	2012	"TED"	1
+"655"	"burundi"	2013	"TED"	1
+"656"	"cambodia"	2009	"BEHANCE"	27
+"657"	"cambodia"	2010	"BEHANCE"	17
+"658"	"cambodia"	2010	"MEETUP"	1
+"659"	"cambodia"	2011	"BEHANCE"	16
+"660"	"cambodia"	2011	"TED"	2
+"661"	"cambodia"	2012	"BEHANCE"	18
+"662"	"cambodia"	2012	"TED"	1
+"663"	"cambodia"	2013	"ART_EDUCATION"	2
+"664"	"cambodia"	2013	"BEHANCE"	9
+"665"	"cambodia"	2014	"BEHANCE"	22
+"666"	"cambodia"	2014	"MEETUP"	4
+"667"	"cambodia"	2014	"TED"	1
+"668"	"cambodia"	2015	"BEHANCE"	30
+"669"	"cambodia"	2015	"TED"	1
+"670"	"cambodia"	2016	"BEHANCE"	9
+"671"	"cambodia"	2016	"MEETUP"	2
+"672"	"cambodia"	2016	"TED"	2
+"673"	"cambodia"	2017	"BEHANCE"	9
+"674"	"cambodia"	2017	"MEETUP"	13
+"675"	"cambodia"	2017	"TED"	1
+"676"	"cambodia"	2018	"ART_EDUCATION"	2
+"677"	"cambodia"	2018	"BEHANCE"	7
+"678"	"cambodia"	2018	"MEETUP"	7
+"679"	"cambodia"	2018	"TED"	4
+"680"	"cambodia"	2019	"MEETUP"	1
+"681"	"cambodia"	2019	"TED"	1
+"682"	"cameroon"	2011	"BEHANCE"	4
+"683"	"cameroon"	2012	"BEHANCE"	3
+"684"	"cameroon"	2013	"BEHANCE"	4
+"685"	"cameroon"	2013	"TED"	1
+"686"	"cameroon"	2014	"BEHANCE"	18
+"687"	"cameroon"	2015	"TED"	1
+"688"	"cameroon"	2016	"BEHANCE"	1
+"689"	"cameroon"	2017	"BEHANCE"	1
+"690"	"cameroon"	2018	"BEHANCE"	13
+"691"	"cameroon"	2018	"TED"	2
+"692"	"cameroon"	2019	"BEHANCE"	3
+"693"	"canada"	2004	"MEETUP"	64
+"694"	"canada"	2005	"MEETUP"	317
+"695"	"canada"	2006	"MEETUP"	688
+"696"	"canada"	2007	"BEHANCE"	37
+"697"	"canada"	2007	"MEETUP"	1087
+"698"	"canada"	2008	"BEHANCE"	248
+"699"	"canada"	2008	"MEETUP"	1635
+"700"	"canada"	2009	"BEHANCE"	751
+"701"	"canada"	2009	"MEETUP"	2901
+"702"	"canada"	2009	"TED"	10
+"703"	"canada"	2010	"ART_EDUCATION"	21
+"704"	"canada"	2010	"BEHANCE"	1409
+"705"	"canada"	2010	"EFLUX"	28
+"706"	"canada"	2010	"MEETUP"	4234
+"707"	"canada"	2010	"TED"	46
+"708"	"canada"	2011	"ART_EDUCATION"	28
+"709"	"canada"	2011	"BEHANCE"	2024
+"710"	"canada"	2011	"EFLUX"	23
+"711"	"canada"	2011	"MEETUP"	4098
+"712"	"canada"	2011	"TED"	79
+"713"	"canada"	2012	"ART_EDUCATION"	28
+"714"	"canada"	2012	"BEHANCE"	3392
+"715"	"canada"	2012	"EFLUX"	36
+"716"	"canada"	2012	"MEETUP"	7686
+"717"	"canada"	2012	"TED"	118
+"718"	"canada"	2013	"ART_EDUCATION"	17
+"719"	"canada"	2013	"BEHANCE"	5231
+"720"	"canada"	2013	"EFLUX"	36
+"721"	"canada"	2013	"MEETUP"	5652
+"722"	"canada"	2013	"TED"	141
+"723"	"canada"	2014	"ART_EDUCATION"	17
+"724"	"canada"	2014	"BEHANCE"	5700
+"725"	"canada"	2014	"EFLUX"	40
+"726"	"canada"	2014	"MEETUP"	7366
+"727"	"canada"	2014	"TED"	95
+"728"	"canada"	2015	"ART_EDUCATION"	10
+"729"	"canada"	2015	"BEHANCE"	4224
+"730"	"canada"	2015	"EFLUX"	38
+"731"	"canada"	2015	"MEETUP"	10745
+"732"	"canada"	2015	"TED"	109
+"733"	"canada"	2016	"ART_EDUCATION"	13
+"734"	"canada"	2016	"BEHANCE"	4210
+"735"	"canada"	2016	"EFLUX"	37
+"736"	"canada"	2016	"MEETUP"	14713
+"737"	"canada"	2016	"TED"	106
+"738"	"canada"	2017	"ART_EDUCATION"	13
+"739"	"canada"	2017	"BEHANCE"	4314
+"740"	"canada"	2017	"EFLUX"	46
+"741"	"canada"	2017	"MEETUP"	19665
+"742"	"canada"	2017	"TED"	110
+"743"	"canada"	2018	"ART_EDUCATION"	10
+"744"	"canada"	2018	"BEHANCE"	4032
+"745"	"canada"	2018	"EFLUX"	33
+"746"	"canada"	2018	"MEETUP"	25493
+"747"	"canada"	2018	"TED"	129
+"748"	"canada"	2019	"BEHANCE"	621
+"749"	"canada"	2019	"MEETUP"	4215
+"750"	"canada"	2019	"TED"	52
+"751"	"cape verde"	2014	"MEETUP"	2
+"752"	"cape verde"	2017	"TED"	1
+"753"	"cape verde"	2018	"EFLUX"	1
+"754"	"cape verde"	2018	"TED"	1
+"755"	"cape verde"	2019	"TED"	1
+"756"	"chile"	2008	"BEHANCE"	16
+"757"	"chile"	2009	"BEHANCE"	82
+"758"	"chile"	2009	"TED"	5
+"759"	"chile"	2010	"BEHANCE"	146
+"760"	"chile"	2010	"EFLUX"	3
+"761"	"chile"	2010	"MEETUP"	8
+"762"	"chile"	2010	"TED"	7
+"763"	"chile"	2011	"BEHANCE"	239
+"764"	"chile"	2011	"MEETUP"	77
+"765"	"chile"	2011	"TED"	6
+"766"	"chile"	2012	"ART_EDUCATION"	1
+"767"	"chile"	2012	"BEHANCE"	546
+"768"	"chile"	2012	"EFLUX"	3
+"769"	"chile"	2012	"MEETUP"	188
+"770"	"chile"	2012	"TED"	6
+"771"	"chile"	2013	"BEHANCE"	1108
+"772"	"chile"	2013	"EFLUX"	2
+"773"	"chile"	2013	"MEETUP"	123
+"774"	"chile"	2013	"TED"	10
+"775"	"chile"	2014	"BEHANCE"	1270
+"776"	"chile"	2014	"EFLUX"	1
+"777"	"chile"	2014	"MEETUP"	192
+"778"	"chile"	2014	"TED"	10
+"779"	"chile"	2015	"BEHANCE"	1124
+"780"	"chile"	2015	"EFLUX"	3
+"781"	"chile"	2015	"MEETUP"	355
+"782"	"chile"	2015	"TED"	8
+"783"	"chile"	2016	"ART_EDUCATION"	1
+"784"	"chile"	2016	"BEHANCE"	1198
+"785"	"chile"	2016	"EFLUX"	4
+"786"	"chile"	2016	"MEETUP"	544
+"787"	"chile"	2016	"TED"	9
+"788"	"chile"	2017	"BEHANCE"	1163
+"789"	"chile"	2017	"EFLUX"	3
+"790"	"chile"	2017	"MEETUP"	793
+"791"	"chile"	2017	"TED"	12
+"792"	"chile"	2018	"ART_EDUCATION"	1
+"793"	"chile"	2018	"BEHANCE"	1043
+"794"	"chile"	2018	"EFLUX"	1
+"795"	"chile"	2018	"MEETUP"	807
+"796"	"chile"	2018	"TED"	13
+"797"	"chile"	2019	"BEHANCE"	137
+"798"	"chile"	2019	"MEETUP"	163
+"799"	"chile"	2019	"TED"	6
+"800"	"china"	2006	"MEETUP"	9
+"801"	"china"	2007	"BEHANCE"	6
+"802"	"china"	2008	"BEHANCE"	85
+"803"	"china"	2008	"MEETUP"	1
+"804"	"china"	2009	"BEHANCE"	364
+"805"	"china"	2009	"MEETUP"	6
+"806"	"china"	2009	"TED"	9
+"807"	"china"	2010	"ART_EDUCATION"	2
+"808"	"china"	2010	"BEHANCE"	511
+"809"	"china"	2010	"EFLUX"	20
+"810"	"china"	2010	"MEETUP"	51
+"811"	"china"	2010	"TED"	30
+"812"	"china"	2011	"ART_EDUCATION"	1
+"813"	"china"	2011	"BEHANCE"	876
+"814"	"china"	2011	"EFLUX"	17
+"815"	"china"	2011	"MEETUP"	111
+"816"	"china"	2011	"TED"	90
+"817"	"china"	2012	"ART_EDUCATION"	2
+"818"	"china"	2012	"BEHANCE"	1862
+"819"	"china"	2012	"EFLUX"	31
+"820"	"china"	2012	"MEETUP"	478
+"821"	"china"	2012	"TED"	125
+"822"	"china"	2013	"ART_EDUCATION"	6
+"823"	"china"	2013	"BEHANCE"	3971
+"824"	"china"	2013	"EFLUX"	29
+"825"	"china"	2013	"MEETUP"	1504
+"826"	"china"	2013	"TED"	168
+"827"	"china"	2014	"ART_EDUCATION"	3
+"828"	"china"	2014	"BEHANCE"	5472
+"829"	"china"	2014	"EFLUX"	37
+"830"	"china"	2014	"MEETUP"	3656
+"831"	"china"	2014	"TED"	150
+"832"	"china"	2014	"TIMEPAD"	3
+"833"	"china"	2015	"ART_EDUCATION"	6
+"834"	"china"	2015	"BEHANCE"	4817
+"835"	"china"	2015	"EFLUX"	37
+"836"	"china"	2015	"MEETUP"	4741
+"837"	"china"	2015	"TED"	177
+"838"	"china"	2015	"TIMEPAD"	3
+"839"	"china"	2016	"ART_EDUCATION"	8
+"840"	"china"	2016	"BEHANCE"	6166
+"841"	"china"	2016	"EFLUX"	42
+"842"	"china"	2016	"MEETUP"	5779
+"843"	"china"	2016	"TED"	224
+"844"	"china"	2016	"TIMEPAD"	4
+"845"	"china"	2017	"ART_EDUCATION"	6
+"846"	"china"	2017	"BEHANCE"	6324
+"847"	"china"	2017	"EFLUX"	43
+"848"	"china"	2017	"MEETUP"	7001
+"849"	"china"	2017	"TED"	254
+"850"	"china"	2017	"TIMEPAD"	3
+"851"	"china"	2018	"ART_EDUCATION"	8
+"852"	"china"	2018	"BEHANCE"	6117
+"853"	"china"	2018	"EFLUX"	47
+"854"	"china"	2018	"MEETUP"	8256
+"855"	"china"	2018	"TED"	184
+"856"	"china"	2018	"TIMEPAD"	11
+"857"	"china"	2019	"BEHANCE"	959
+"858"	"china"	2019	"MEETUP"	1411
+"859"	"china"	2019	"TED"	63
+"860"	"colombia"	2008	"BEHANCE"	9
+"861"	"colombia"	2008	"MEETUP"	3
+"862"	"colombia"	2009	"BEHANCE"	118
+"863"	"colombia"	2009	"MEETUP"	15
+"864"	"colombia"	2009	"TED"	1
+"865"	"colombia"	2010	"BEHANCE"	262
+"866"	"colombia"	2010	"EFLUX"	1
+"867"	"colombia"	2010	"MEETUP"	5
+"868"	"colombia"	2010	"TED"	4
+"869"	"colombia"	2011	"BEHANCE"	460
+"870"	"colombia"	2011	"EFLUX"	1
+"871"	"colombia"	2011	"MEETUP"	22
+"872"	"colombia"	2011	"TED"	9
+"873"	"colombia"	2012	"BEHANCE"	1060
+"874"	"colombia"	2012	"MEETUP"	64
+"875"	"colombia"	2012	"TED"	16
+"876"	"colombia"	2013	"BEHANCE"	2332
+"877"	"colombia"	2013	"EFLUX"	2
+"878"	"colombia"	2013	"MEETUP"	229
+"879"	"colombia"	2013	"TED"	11
+"880"	"colombia"	2014	"ART_EDUCATION"	1
+"881"	"colombia"	2014	"BEHANCE"	2742
+"882"	"colombia"	2014	"MEETUP"	367
+"883"	"colombia"	2014	"TED"	11
+"884"	"colombia"	2015	"BEHANCE"	2280
+"885"	"colombia"	2015	"EFLUX"	2
+"886"	"colombia"	2015	"MEETUP"	906
+"887"	"colombia"	2015	"TED"	27
+"888"	"colombia"	2016	"BEHANCE"	2332
+"889"	"colombia"	2016	"MEETUP"	1407
+"890"	"colombia"	2016	"TED"	30
+"891"	"colombia"	2017	"BEHANCE"	2399
+"892"	"colombia"	2017	"EFLUX"	4
+"893"	"colombia"	2017	"MEETUP"	1514
+"894"	"colombia"	2017	"TED"	32
+"895"	"colombia"	2018	"BEHANCE"	2136
+"896"	"colombia"	2018	"MEETUP"	1972
+"897"	"colombia"	2018	"TED"	30
+"898"	"colombia"	2019	"BEHANCE"	403
+"899"	"colombia"	2019	"MEETUP"	447
+"900"	"colombia"	2019	"TED"	9
+"901"	"costa rica"	2007	"BEHANCE"	5
+"902"	"costa rica"	2008	"BEHANCE"	1
+"903"	"costa rica"	2009	"BEHANCE"	17
+"904"	"costa rica"	2010	"BEHANCE"	84
+"905"	"costa rica"	2010	"TED"	2
+"906"	"costa rica"	2011	"BEHANCE"	74
+"907"	"costa rica"	2011	"MEETUP"	16
+"908"	"costa rica"	2011	"TED"	4
+"909"	"costa rica"	2012	"BEHANCE"	215
+"910"	"costa rica"	2012	"MEETUP"	15
+"911"	"costa rica"	2012	"TED"	6
+"912"	"costa rica"	2013	"BEHANCE"	336
+"913"	"costa rica"	2013	"MEETUP"	37
+"914"	"costa rica"	2013	"TED"	4
+"915"	"costa rica"	2014	"BEHANCE"	445
+"916"	"costa rica"	2014	"MEETUP"	31
+"917"	"costa rica"	2014	"TED"	2
+"918"	"costa rica"	2015	"BEHANCE"	347
+"919"	"costa rica"	2015	"MEETUP"	76
+"920"	"costa rica"	2015	"TED"	10
+"921"	"costa rica"	2016	"BEHANCE"	320
+"922"	"costa rica"	2016	"MEETUP"	173
+"923"	"costa rica"	2016	"TED"	7
+"924"	"costa rica"	2017	"BEHANCE"	184
+"925"	"costa rica"	2017	"MEETUP"	252
+"926"	"costa rica"	2017	"TED"	8
+"927"	"costa rica"	2018	"BEHANCE"	154
+"928"	"costa rica"	2018	"MEETUP"	309
+"929"	"costa rica"	2018	"TED"	6
+"930"	"costa rica"	2019	"BEHANCE"	17
+"931"	"costa rica"	2019	"MEETUP"	41
+"932"	"costa rica"	2019	"TED"	5
+"933"	"côte d'ivoire"	2009	"MEETUP"	10
+"934"	"côte d'ivoire"	2010	"MEETUP"	8
+"935"	"côte d'ivoire"	2011	"MEETUP"	2
+"936"	"côte d'ivoire"	2012	"MEETUP"	12
+"937"	"côte d'ivoire"	2013	"MEETUP"	1
+"938"	"côte d'ivoire"	2013	"TED"	1
+"939"	"côte d'ivoire"	2014	"BEHANCE"	2
+"940"	"côte d'ivoire"	2014	"TED"	1
+"941"	"côte d'ivoire"	2015	"BEHANCE"	6
+"942"	"côte d'ivoire"	2015	"MEETUP"	26
+"943"	"côte d'ivoire"	2015	"TED"	1
+"944"	"côte d'ivoire"	2016	"BEHANCE"	3
+"945"	"côte d'ivoire"	2016	"MEETUP"	21
+"946"	"côte d'ivoire"	2016	"TED"	4
+"947"	"côte d'ivoire"	2017	"BEHANCE"	6
+"948"	"côte d'ivoire"	2017	"MEETUP"	45
+"949"	"côte d'ivoire"	2017	"TED"	4
+"950"	"côte d'ivoire"	2018	"BEHANCE"	5
+"951"	"côte d'ivoire"	2018	"MEETUP"	52
+"952"	"côte d'ivoire"	2018	"TED"	5
+"953"	"côte d'ivoire"	2019	"MEETUP"	14
+"954"	"côte d'ivoire"	2019	"TED"	1
+"955"	"croatia"	2008	"BEHANCE"	6
+"956"	"croatia"	2008	"MEETUP"	3
+"957"	"croatia"	2009	"BEHANCE"	65
+"958"	"croatia"	2009	"MEETUP"	25
+"959"	"croatia"	2010	"BEHANCE"	126
+"960"	"croatia"	2010	"EFLUX"	2
+"961"	"croatia"	2010	"MEETUP"	29
+"962"	"croatia"	2010	"TED"	6
+"963"	"croatia"	2011	"BEHANCE"	216
+"964"	"croatia"	2011	"MEETUP"	12
+"965"	"croatia"	2011	"TED"	6
+"966"	"croatia"	2012	"BEHANCE"	266
+"967"	"croatia"	2012	"EFLUX"	1
+"968"	"croatia"	2012	"MEETUP"	27
+"969"	"croatia"	2012	"TED"	6
+"970"	"croatia"	2013	"ART_EDUCATION"	5
+"971"	"croatia"	2013	"BEHANCE"	399
+"972"	"croatia"	2013	"EFLUX"	1
+"973"	"croatia"	2013	"MEETUP"	57
+"974"	"croatia"	2013	"TED"	10
+"975"	"croatia"	2014	"BEHANCE"	559
+"976"	"croatia"	2014	"EFLUX"	4
+"977"	"croatia"	2014	"MEETUP"	133
+"978"	"croatia"	2014	"TED"	8
+"979"	"croatia"	2015	"BEHANCE"	408
+"980"	"croatia"	2015	"EFLUX"	2
+"981"	"croatia"	2015	"MEETUP"	214
+"982"	"croatia"	2015	"TED"	16
+"983"	"croatia"	2016	"BEHANCE"	442
+"984"	"croatia"	2016	"EFLUX"	1
+"985"	"croatia"	2016	"MEETUP"	256
+"986"	"croatia"	2016	"TED"	11
+"987"	"croatia"	2017	"ART_EDUCATION"	1
+"988"	"croatia"	2017	"BEHANCE"	363
+"989"	"croatia"	2017	"EFLUX"	3
+"990"	"croatia"	2017	"MEETUP"	384
+"991"	"croatia"	2017	"TED"	20
+"992"	"croatia"	2018	"BEHANCE"	316
+"993"	"croatia"	2018	"EFLUX"	3
+"994"	"croatia"	2018	"MEETUP"	447
+"995"	"croatia"	2018	"TED"	11
+"996"	"croatia"	2019	"BEHANCE"	53
+"997"	"croatia"	2019	"MEETUP"	76
+"998"	"croatia"	2019	"TED"	2
+"999"	"cuba"	2008	"BEHANCE"	1
+"1000"	"cuba"	2009	"BEHANCE"	3
+"1001"	"cuba"	2011	"BEHANCE"	1
+"1002"	"cuba"	2012	"ART_EDUCATION"	1
+"1003"	"cuba"	2012	"BEHANCE"	10
+"1004"	"cuba"	2012	"EFLUX"	1
+"1005"	"cuba"	2013	"ART_EDUCATION"	1
+"1006"	"cuba"	2013	"BEHANCE"	53
+"1007"	"cuba"	2013	"MEETUP"	1
+"1008"	"cuba"	2014	"ART_EDUCATION"	2
+"1009"	"cuba"	2014	"BEHANCE"	27
+"1010"	"cuba"	2014	"MEETUP"	2
+"1011"	"cuba"	2014	"TED"	1
+"1012"	"cuba"	2015	"BEHANCE"	1
+"1013"	"cuba"	2015	"EFLUX"	3
+"1014"	"cuba"	2015	"MEETUP"	15
+"1015"	"cuba"	2015	"TED"	1
+"1016"	"cuba"	2016	"ART_EDUCATION"	1
+"1017"	"cuba"	2016	"BEHANCE"	4
+"1018"	"cuba"	2016	"EFLUX"	1
+"1019"	"cuba"	2016	"MEETUP"	10
+"1020"	"cuba"	2017	"MEETUP"	10
+"1021"	"cuba"	2018	"EFLUX"	2
+"1022"	"cuba"	2018	"MEETUP"	11
+"1023"	"cuba"	2019	"MEETUP"	2
+"1024"	"cyprus"	2008	"BEHANCE"	5
+"1025"	"cyprus"	2009	"BEHANCE"	22
+"1026"	"cyprus"	2010	"BEHANCE"	44
+"1027"	"cyprus"	2011	"BEHANCE"	67
+"1028"	"cyprus"	2011	"TED"	1
+"1029"	"cyprus"	2012	"BEHANCE"	85
+"1030"	"cyprus"	2012	"MEETUP"	2
+"1031"	"cyprus"	2012	"TED"	1
+"1032"	"cyprus"	2013	"BEHANCE"	125
+"1033"	"cyprus"	2013	"EFLUX"	1
+"1034"	"cyprus"	2013	"MEETUP"	3
+"1035"	"cyprus"	2013	"TED"	3
+"1036"	"cyprus"	2013	"TIMEPAD"	2
+"1037"	"cyprus"	2014	"BEHANCE"	81
+"1038"	"cyprus"	2014	"TED"	3
+"1039"	"cyprus"	2014	"TIMEPAD"	1
+"1040"	"cyprus"	2015	"BEHANCE"	144
+"1041"	"cyprus"	2015	"EFLUX"	1
+"1042"	"cyprus"	2015	"MEETUP"	24
+"1043"	"cyprus"	2015	"TED"	4
+"1044"	"cyprus"	2015	"TIMEPAD"	3
+"1045"	"cyprus"	2016	"BEHANCE"	110
+"1046"	"cyprus"	2016	"EFLUX"	1
+"1047"	"cyprus"	2016	"MEETUP"	20
+"1048"	"cyprus"	2016	"TED"	8
+"1049"	"cyprus"	2016	"TIMEPAD"	5
+"1050"	"cyprus"	2017	"BEHANCE"	94
+"1051"	"cyprus"	2017	"MEETUP"	28
+"1052"	"cyprus"	2017	"TED"	7
+"1053"	"cyprus"	2017	"TIMEPAD"	15
+"1054"	"cyprus"	2018	"BEHANCE"	94
+"1055"	"cyprus"	2018	"MEETUP"	104
+"1056"	"cyprus"	2018	"TED"	3
+"1057"	"cyprus"	2018	"TIMEPAD"	8
+"1058"	"cyprus"	2019	"BEHANCE"	15
+"1059"	"cyprus"	2019	"MEETUP"	18
+"1060"	"cyprus"	2019	"TED"	4
+"1061"	"cyprus"	2019	"TIMEPAD"	5
+"1062"	"democratic republic of the congo"	2013	"TED"	1
+"1063"	"democratic republic of the congo"	2017	"TED"	1
+"1064"	"democratic republic of the congo"	2018	"TED"	2
+"1065"	"denmark"	2004	"MEETUP"	10
+"1066"	"denmark"	2005	"MEETUP"	21
+"1067"	"denmark"	2006	"MEETUP"	44
+"1068"	"denmark"	2007	"BEHANCE"	1
+"1069"	"denmark"	2007	"MEETUP"	151
+"1070"	"denmark"	2008	"BEHANCE"	49
+"1071"	"denmark"	2008	"MEETUP"	161
+"1072"	"denmark"	2009	"BEHANCE"	154
+"1073"	"denmark"	2009	"MEETUP"	244
+"1074"	"denmark"	2009	"TED"	2
+"1075"	"denmark"	2010	"ART_EDUCATION"	1
+"1076"	"denmark"	2010	"BEHANCE"	327
+"1077"	"denmark"	2010	"EFLUX"	6
+"1078"	"denmark"	2010	"MEETUP"	238
+"1079"	"denmark"	2010	"TED"	1
+"1080"	"denmark"	2010	"THEORY_PRACTICE"	634
+"1081"	"denmark"	2011	"ART_EDUCATION"	1
+"1082"	"denmark"	2011	"BEHANCE"	654
+"1083"	"denmark"	2011	"EFLUX"	4
+"1084"	"denmark"	2011	"MEETUP"	292
+"1085"	"denmark"	2011	"THEORY_PRACTICE"	567
+"1086"	"denmark"	2012	"BEHANCE"	1067
+"1087"	"denmark"	2012	"EFLUX"	5
+"1088"	"denmark"	2012	"MEETUP"	357
+"1089"	"denmark"	2012	"TED"	3
+"1090"	"denmark"	2012	"THEORY_PRACTICE"	74
+"1091"	"denmark"	2013	"BEHANCE"	1483
+"1092"	"denmark"	2013	"EFLUX"	5
+"1093"	"denmark"	2013	"MEETUP"	423
+"1094"	"denmark"	2013	"TED"	4
+"1095"	"denmark"	2014	"ART_EDUCATION"	1
+"1096"	"denmark"	2014	"BEHANCE"	1160
+"1097"	"denmark"	2014	"EFLUX"	9
+"1098"	"denmark"	2014	"MEETUP"	512
+"1099"	"denmark"	2014	"TED"	8
+"1100"	"denmark"	2015	"BEHANCE"	968
+"1101"	"denmark"	2015	"EFLUX"	7
+"1102"	"denmark"	2015	"MEETUP"	746
+"1103"	"denmark"	2015	"TED"	5
+"1104"	"denmark"	2016	"ART_EDUCATION"	1
+"1105"	"denmark"	2016	"BEHANCE"	911
+"1106"	"denmark"	2016	"EFLUX"	2
+"1107"	"denmark"	2016	"MEETUP"	796
+"1108"	"denmark"	2016	"TED"	7
+"1109"	"denmark"	2016	"THEORY_PRACTICE"	18
+"1110"	"denmark"	2017	"ART_EDUCATION"	1
+"1111"	"denmark"	2017	"BEHANCE"	862
+"1112"	"denmark"	2017	"EFLUX"	11
+"1113"	"denmark"	2017	"MEETUP"	1120
+"1114"	"denmark"	2017	"TED"	7
+"1115"	"denmark"	2018	"ART_EDUCATION"	2
+"1116"	"denmark"	2018	"BEHANCE"	751
+"1117"	"denmark"	2018	"EFLUX"	9
+"1118"	"denmark"	2018	"MEETUP"	1735
+"1119"	"denmark"	2018	"TED"	5
+"1120"	"denmark"	2019	"BEHANCE"	119
+"1121"	"denmark"	2019	"MEETUP"	180
+"1122"	"denmark"	2019	"TED"	3
+"1123"	"dominican republic"	2009	"BEHANCE"	22
+"1124"	"dominican republic"	2009	"TED"	1
+"1125"	"dominican republic"	2010	"BEHANCE"	17
+"1126"	"dominican republic"	2010	"TED"	2
+"1127"	"dominican republic"	2011	"BEHANCE"	15
+"1128"	"dominican republic"	2011	"MEETUP"	1
+"1129"	"dominican republic"	2011	"TED"	3
+"1130"	"dominican republic"	2012	"BEHANCE"	76
+"1131"	"dominican republic"	2012	"TED"	7
+"1132"	"dominican republic"	2013	"BEHANCE"	142
+"1133"	"dominican republic"	2013	"TED"	3
+"1134"	"dominican republic"	2014	"BEHANCE"	58
+"1135"	"dominican republic"	2014	"MEETUP"	1
+"1136"	"dominican republic"	2014	"TED"	2
+"1137"	"dominican republic"	2015	"BEHANCE"	75
+"1138"	"dominican republic"	2015	"MEETUP"	3
+"1139"	"dominican republic"	2015	"TED"	1
+"1140"	"dominican republic"	2016	"BEHANCE"	73
+"1141"	"dominican republic"	2016	"MEETUP"	9
+"1142"	"dominican republic"	2016	"TED"	1
+"1143"	"dominican republic"	2017	"BEHANCE"	64
+"1144"	"dominican republic"	2017	"MEETUP"	11
+"1145"	"dominican republic"	2017	"TED"	4
+"1146"	"dominican republic"	2018	"BEHANCE"	63
+"1147"	"dominican republic"	2018	"MEETUP"	2
+"1148"	"dominican republic"	2018	"TED"	3
+"1149"	"dominican republic"	2019	"BEHANCE"	15
+"1150"	"ecuador"	2007	"MEETUP"	1
+"1151"	"ecuador"	2009	"BEHANCE"	4
+"1152"	"ecuador"	2010	"BEHANCE"	40
+"1153"	"ecuador"	2010	"TED"	1
+"1154"	"ecuador"	2011	"BEHANCE"	74
+"1155"	"ecuador"	2011	"TED"	2
+"1156"	"ecuador"	2012	"BEHANCE"	165
+"1157"	"ecuador"	2012	"MEETUP"	1
+"1158"	"ecuador"	2012	"TED"	5
+"1159"	"ecuador"	2013	"BEHANCE"	378
+"1160"	"ecuador"	2013	"TED"	2
+"1161"	"ecuador"	2014	"BEHANCE"	477
+"1162"	"ecuador"	2014	"MEETUP"	10
+"1163"	"ecuador"	2014	"TED"	4
+"1164"	"ecuador"	2015	"BEHANCE"	442
+"1165"	"ecuador"	2015	"EFLUX"	1
+"1166"	"ecuador"	2015	"MEETUP"	12
+"1167"	"ecuador"	2015	"TED"	7
+"1168"	"ecuador"	2016	"ART_EDUCATION"	1
+"1169"	"ecuador"	2016	"BEHANCE"	574
+"1170"	"ecuador"	2016	"MEETUP"	6
+"1171"	"ecuador"	2016	"TED"	8
+"1172"	"ecuador"	2017	"BEHANCE"	325
+"1173"	"ecuador"	2017	"EFLUX"	1
+"1174"	"ecuador"	2017	"MEETUP"	16
+"1175"	"ecuador"	2017	"TED"	8
+"1176"	"ecuador"	2018	"BEHANCE"	308
+"1177"	"ecuador"	2018	"MEETUP"	59
+"1178"	"ecuador"	2018	"TED"	8
+"1179"	"ecuador"	2019	"BEHANCE"	45
+"1180"	"ecuador"	2019	"MEETUP"	6
+"1181"	"ecuador"	2019	"TED"	5
+"1182"	"egypt"	2008	"BEHANCE"	4
+"1183"	"egypt"	2009	"BEHANCE"	23
+"1184"	"egypt"	2009	"MEETUP"	1
+"1185"	"egypt"	2010	"BEHANCE"	76
+"1186"	"egypt"	2010	"MEETUP"	8
+"1187"	"egypt"	2010	"TED"	4
+"1188"	"egypt"	2011	"BEHANCE"	179
+"1189"	"egypt"	2011	"MEETUP"	6
+"1190"	"egypt"	2011	"TED"	10
+"1191"	"egypt"	2012	"ART_EDUCATION"	6
+"1192"	"egypt"	2012	"BEHANCE"	440
+"1193"	"egypt"	2012	"EFLUX"	1
+"1194"	"egypt"	2012	"MEETUP"	12
+"1195"	"egypt"	2012	"TED"	36
+"1196"	"egypt"	2012	"TIMEPAD"	1
+"1197"	"egypt"	2013	"BEHANCE"	969
+"1198"	"egypt"	2013	"EFLUX"	2
+"1199"	"egypt"	2013	"MEETUP"	12
+"1200"	"egypt"	2013	"TED"	28
+"1201"	"egypt"	2013	"TIMEPAD"	3
+"1202"	"egypt"	2014	"BEHANCE"	1129
+"1203"	"egypt"	2014	"MEETUP"	60
+"1204"	"egypt"	2014	"TED"	23
+"1205"	"egypt"	2014	"TIMEPAD"	1
+"1206"	"egypt"	2015	"BEHANCE"	1237
+"1207"	"egypt"	2015	"EFLUX"	1
+"1208"	"egypt"	2015	"MEETUP"	89
+"1209"	"egypt"	2015	"TED"	21
+"1210"	"egypt"	2015	"TIMEPAD"	4
+"1211"	"egypt"	2016	"BEHANCE"	1467
+"1212"	"egypt"	2016	"EFLUX"	1
+"1213"	"egypt"	2016	"MEETUP"	169
+"1214"	"egypt"	2016	"TED"	28
+"1215"	"egypt"	2017	"BEHANCE"	1908
+"1216"	"egypt"	2017	"EFLUX"	3
+"1217"	"egypt"	2017	"MEETUP"	200
+"1218"	"egypt"	2017	"TED"	31
+"1219"	"egypt"	2017	"TIMEPAD"	1
+"1220"	"egypt"	2018	"ART_EDUCATION"	2
+"1221"	"egypt"	2018	"BEHANCE"	1623
+"1222"	"egypt"	2018	"EFLUX"	2
+"1223"	"egypt"	2018	"MEETUP"	353
+"1224"	"egypt"	2018	"TED"	45
+"1225"	"egypt"	2018	"TIMEPAD"	1
+"1226"	"egypt"	2019	"BEHANCE"	223
+"1227"	"egypt"	2019	"MEETUP"	120
+"1228"	"egypt"	2019	"TED"	17
+"1229"	"egypt"	2019	"TIMEPAD"	3
+"1230"	"el salvador"	2010	"BEHANCE"	5
+"1231"	"el salvador"	2011	"BEHANCE"	25
+"1232"	"el salvador"	2012	"BEHANCE"	54
+"1233"	"el salvador"	2012	"TED"	3
+"1234"	"el salvador"	2013	"BEHANCE"	112
+"1235"	"el salvador"	2013	"TED"	1
+"1236"	"el salvador"	2014	"BEHANCE"	88
+"1237"	"el salvador"	2014	"TED"	2
+"1238"	"el salvador"	2015	"BEHANCE"	59
+"1239"	"el salvador"	2015	"TED"	2
+"1240"	"el salvador"	2016	"BEHANCE"	44
+"1241"	"el salvador"	2016	"TED"	2
+"1242"	"el salvador"	2017	"BEHANCE"	55
+"1243"	"el salvador"	2017	"TED"	1
+"1244"	"el salvador"	2018	"BEHANCE"	78
+"1245"	"el salvador"	2018	"TED"	1
+"1246"	"el salvador"	2019	"BEHANCE"	7
+"1247"	"el salvador"	2019	"TED"	1
+"1248"	"eritrea"	2011	"TED"	2
+"1249"	"estonia"	2008	"BEHANCE"	19
+"1250"	"estonia"	2009	"BEHANCE"	67
+"1251"	"estonia"	2009	"TED"	1
+"1252"	"estonia"	2010	"BEHANCE"	47
+"1253"	"estonia"	2010	"TED"	4
+"1254"	"estonia"	2011	"BEHANCE"	138
+"1255"	"estonia"	2011	"TED"	6
+"1256"	"estonia"	2012	"BEHANCE"	153
+"1257"	"estonia"	2012	"TED"	9
+"1258"	"estonia"	2013	"BEHANCE"	222
+"1259"	"estonia"	2013	"TED"	9
+"1260"	"estonia"	2013	"TIMEPAD"	3
+"1261"	"estonia"	2014	"BEHANCE"	223
+"1262"	"estonia"	2014	"EFLUX"	1
+"1263"	"estonia"	2014	"TED"	11
+"1264"	"estonia"	2014	"TIMEPAD"	6
+"1265"	"estonia"	2015	"BEHANCE"	207
+"1266"	"estonia"	2015	"EFLUX"	1
+"1267"	"estonia"	2015	"TED"	9
+"1268"	"estonia"	2016	"BEHANCE"	196
+"1269"	"estonia"	2016	"TED"	6
+"1270"	"estonia"	2016	"TIMEPAD"	7
+"1271"	"estonia"	2017	"BEHANCE"	213
+"1272"	"estonia"	2017	"EFLUX"	2
+"1273"	"estonia"	2017	"TED"	3
+"1274"	"estonia"	2017	"TIMEPAD"	97
+"1275"	"estonia"	2018	"ART_EDUCATION"	1
+"1276"	"estonia"	2018	"BEHANCE"	203
+"1277"	"estonia"	2018	"EFLUX"	1
+"1278"	"estonia"	2018	"TED"	3
+"1279"	"estonia"	2018	"TIMEPAD"	3
+"1280"	"estonia"	2019	"BEHANCE"	23
+"1281"	"estonia"	2019	"TED"	1
+"1282"	"estonia"	2019	"TIMEPAD"	3
+"1283"	"eswatini"	2015	"TED"	1
+"1284"	"eswatini"	2016	"TED"	1
+"1285"	"eswatini"	2017	"TED"	1
+"1286"	"eswatini"	2018	"TED"	1
+"1287"	"ethiopia"	2008	"BEHANCE"	5
+"1288"	"ethiopia"	2009	"BEHANCE"	5
+"1289"	"ethiopia"	2010	"BEHANCE"	3
+"1290"	"ethiopia"	2010	"TED"	2
+"1291"	"ethiopia"	2011	"BEHANCE"	1
+"1292"	"ethiopia"	2011	"TED"	3
+"1293"	"ethiopia"	2012	"BEHANCE"	5
+"1294"	"ethiopia"	2012	"TED"	3
+"1295"	"ethiopia"	2013	"BEHANCE"	6
+"1296"	"ethiopia"	2013	"TED"	2
+"1297"	"ethiopia"	2014	"BEHANCE"	2
+"1298"	"ethiopia"	2014	"EFLUX"	1
+"1299"	"ethiopia"	2014	"TED"	9
+"1300"	"ethiopia"	2015	"MEETUP"	2
+"1301"	"ethiopia"	2015	"TED"	2
+"1302"	"ethiopia"	2016	"BEHANCE"	2
+"1303"	"ethiopia"	2016	"EFLUX"	1
+"1304"	"ethiopia"	2017	"BEHANCE"	3
+"1305"	"ethiopia"	2018	"TED"	1
+"1306"	"federated states of micronesia"	2007	"MEETUP"	1
+"1307"	"federated states of micronesia"	2009	"MEETUP"	1
+"1308"	"federated states of micronesia"	2014	"MEETUP"	1
+"1309"	"fiji"	2016	"TED"	1
+"1310"	"fiji"	2017	"TED"	1
+"1311"	"fiji"	2018	"MEETUP"	2
+"1312"	"finland"	2008	"BEHANCE"	28
+"1313"	"finland"	2009	"BEHANCE"	77
+"1314"	"finland"	2009	"TED"	2
+"1315"	"finland"	2010	"BEHANCE"	105
+"1316"	"finland"	2010	"EFLUX"	3
+"1317"	"finland"	2010	"TED"	5
+"1318"	"finland"	2011	"BEHANCE"	199
+"1319"	"finland"	2011	"EFLUX"	6
+"1320"	"finland"	2011	"TED"	4
+"1321"	"finland"	2012	"BEHANCE"	255
+"1322"	"finland"	2012	"MEETUP"	2
+"1323"	"finland"	2012	"TED"	3
+"1324"	"finland"	2013	"ART_EDUCATION"	2
+"1325"	"finland"	2013	"BEHANCE"	652
+"1326"	"finland"	2013	"EFLUX"	5
+"1327"	"finland"	2013	"TED"	2
+"1328"	"finland"	2014	"ART_EDUCATION"	1
+"1329"	"finland"	2014	"BEHANCE"	626
+"1330"	"finland"	2014	"EFLUX"	6
+"1331"	"finland"	2014	"MEETUP"	1
+"1332"	"finland"	2014	"TED"	2
+"1333"	"finland"	2015	"ART_EDUCATION"	2
+"1334"	"finland"	2015	"BEHANCE"	621
+"1335"	"finland"	2015	"EFLUX"	3
+"1336"	"finland"	2015	"MEETUP"	3
+"1337"	"finland"	2015	"TED"	4
+"1338"	"finland"	2016	"ART_EDUCATION"	1
+"1339"	"finland"	2016	"BEHANCE"	644
+"1340"	"finland"	2016	"EFLUX"	1
+"1341"	"finland"	2016	"MEETUP"	7
+"1342"	"finland"	2016	"TED"	4
+"1343"	"finland"	2016	"TIMEPAD"	5
+"1344"	"finland"	2017	"BEHANCE"	499
+"1345"	"finland"	2017	"EFLUX"	2
+"1346"	"finland"	2017	"MEETUP"	3
+"1347"	"finland"	2017	"TED"	6
+"1348"	"finland"	2017	"TIMEPAD"	6
+"1349"	"finland"	2018	"BEHANCE"	432
+"1350"	"finland"	2018	"EFLUX"	5
+"1351"	"finland"	2018	"MEETUP"	17
+"1352"	"finland"	2018	"TED"	3
+"1353"	"finland"	2018	"TIMEPAD"	8
+"1354"	"finland"	2019	"BEHANCE"	105
+"1355"	"finland"	2019	"TED"	1
+"1356"	"finland"	2019	"TIMEPAD"	1
+"1357"	"france"	2005	"MEETUP"	8
+"1358"	"france"	2006	"MEETUP"	30
+"1359"	"france"	2007	"BEHANCE"	21
+"1360"	"france"	2007	"MEETUP"	32
+"1361"	"france"	2008	"BEHANCE"	273
+"1362"	"france"	2008	"MEETUP"	33
+"1363"	"france"	2009	"BEHANCE"	826
+"1364"	"france"	2009	"MEETUP"	142
+"1365"	"france"	2009	"TED"	2
+"1366"	"france"	2010	"ART_EDUCATION"	14
+"1367"	"france"	2010	"BEHANCE"	1304
+"1368"	"france"	2010	"EFLUX"	41
+"1369"	"france"	2010	"MEETUP"	351
+"1370"	"france"	2010	"TED"	6
+"1371"	"france"	2011	"ART_EDUCATION"	5
+"1372"	"france"	2011	"BEHANCE"	1999
+"1373"	"france"	2011	"EFLUX"	45
+"1374"	"france"	2011	"MEETUP"	380
+"1375"	"france"	2011	"TED"	10
+"1376"	"france"	2012	"ART_EDUCATION"	6
+"1377"	"france"	2012	"BEHANCE"	4259
+"1378"	"france"	2012	"EFLUX"	43
+"1379"	"france"	2012	"MEETUP"	525
+"1380"	"france"	2012	"TED"	31
+"1381"	"france"	2013	"ART_EDUCATION"	19
+"1382"	"france"	2013	"BEHANCE"	6733
+"1383"	"france"	2013	"EFLUX"	40
+"1384"	"france"	2013	"MEETUP"	977
+"1385"	"france"	2013	"TED"	45
+"1386"	"france"	2013	"TIMEPAD"	2
+"1387"	"france"	2014	"ART_EDUCATION"	5
+"1388"	"france"	2014	"BEHANCE"	8519
+"1389"	"france"	2014	"EFLUX"	49
+"1390"	"france"	2014	"MEETUP"	2430
+"1391"	"france"	2014	"TED"	43
+"1392"	"france"	2014	"TIMEPAD"	6
+"1393"	"france"	2015	"ART_EDUCATION"	9
+"1394"	"france"	2015	"BEHANCE"	6666
+"1395"	"france"	2015	"EFLUX"	55
+"1396"	"france"	2015	"MEETUP"	3555
+"1397"	"france"	2015	"TED"	64
+"1398"	"france"	2015	"TIMEPAD"	8
+"1399"	"france"	2016	"ART_EDUCATION"	6
+"1400"	"france"	2016	"BEHANCE"	6914
+"1401"	"france"	2016	"EFLUX"	52
+"1402"	"france"	2016	"MEETUP"	5177
+"1403"	"france"	2016	"TED"	71
+"1404"	"france"	2016	"TIMEPAD"	7
+"1405"	"france"	2017	"ART_EDUCATION"	7
+"1406"	"france"	2017	"BEHANCE"	6389
+"1407"	"france"	2017	"EFLUX"	45
+"1408"	"france"	2017	"MEETUP"	7686
+"1409"	"france"	2017	"TED"	78
+"1410"	"france"	2017	"TIMEPAD"	4
+"1411"	"france"	2018	"ART_EDUCATION"	9
+"1412"	"france"	2018	"BEHANCE"	5969
+"1413"	"france"	2018	"EFLUX"	53
+"1414"	"france"	2018	"MEETUP"	11266
+"1415"	"france"	2018	"TED"	90
+"1416"	"france"	2018	"TIMEPAD"	17
+"1417"	"france"	2019	"BEHANCE"	973
+"1418"	"france"	2019	"MEETUP"	2028
+"1419"	"france"	2019	"TED"	40
+"1420"	"france"	2019	"TIMEPAD"	6
+"1421"	"france"	2020	"TIMEPAD"	1
+"1422"	"gabon"	2016	"MEETUP"	1
+"1423"	"gabon"	2016	"TED"	1
+"1424"	"georgia"	2008	"BEHANCE"	12
+"1425"	"georgia"	2009	"BEHANCE"	35
+"1426"	"georgia"	2010	"BEHANCE"	27
+"1427"	"georgia"	2011	"BEHANCE"	65
+"1428"	"georgia"	2012	"BEHANCE"	99
+"1429"	"georgia"	2012	"EFLUX"	2
+"1430"	"georgia"	2012	"TED"	3
+"1431"	"georgia"	2013	"ART_EDUCATION"	1
+"1432"	"georgia"	2013	"BEHANCE"	229
+"1433"	"georgia"	2013	"TED"	5
+"1434"	"georgia"	2014	"BEHANCE"	161
+"1435"	"georgia"	2014	"MEETUP"	6
+"1436"	"georgia"	2014	"TED"	3
+"1437"	"georgia"	2014	"TIMEPAD"	8
+"1438"	"georgia"	2015	"BEHANCE"	152
+"1439"	"georgia"	2015	"MEETUP"	6
+"1440"	"georgia"	2015	"TED"	2
+"1441"	"georgia"	2015	"TIMEPAD"	3
+"1442"	"georgia"	2016	"BEHANCE"	241
+"1443"	"georgia"	2016	"EFLUX"	1
+"1444"	"georgia"	2016	"MEETUP"	27
+"1445"	"georgia"	2016	"TED"	4
+"1446"	"georgia"	2016	"TIMEPAD"	18
+"1447"	"georgia"	2017	"BEHANCE"	188
+"1448"	"georgia"	2017	"MEETUP"	51
+"1449"	"georgia"	2017	"TED"	2
+"1450"	"georgia"	2017	"TIMEPAD"	19
+"1451"	"georgia"	2018	"ART_EDUCATION"	1
+"1452"	"georgia"	2018	"BEHANCE"	190
+"1453"	"georgia"	2018	"EFLUX"	1
+"1454"	"georgia"	2018	"MEETUP"	65
+"1455"	"georgia"	2018	"TED"	2
+"1456"	"georgia"	2018	"TIMEPAD"	522
+"1457"	"georgia"	2019	"BEHANCE"	29
+"1458"	"georgia"	2019	"MEETUP"	8
+"1459"	"georgia"	2019	"TED"	1
+"1460"	"georgia"	2019	"TIMEPAD"	84
+"1461"	"germany"	2004	"MEETUP"	10
+"1462"	"germany"	2005	"MEETUP"	32
+"1463"	"germany"	2006	"MEETUP"	28
+"1464"	"germany"	2007	"BEHANCE"	27
+"1465"	"germany"	2007	"MEETUP"	64
+"1466"	"germany"	2008	"BEHANCE"	367
+"1467"	"germany"	2008	"MEETUP"	53
+"1468"	"germany"	2009	"BEHANCE"	1278
+"1469"	"germany"	2009	"MEETUP"	47
+"1470"	"germany"	2009	"TED"	2
+"1471"	"germany"	2010	"ART_EDUCATION"	10
+"1472"	"germany"	2010	"BEHANCE"	1796
+"1473"	"germany"	2010	"EFLUX"	69
+"1474"	"germany"	2010	"MEETUP"	363
+"1475"	"germany"	2010	"TED"	8
+"1476"	"germany"	2011	"ART_EDUCATION"	15
+"1477"	"germany"	2011	"BEHANCE"	2463
+"1478"	"germany"	2011	"EFLUX"	59
+"1479"	"germany"	2011	"MEETUP"	482
+"1480"	"germany"	2011	"TED"	15
+"1481"	"germany"	2012	"ART_EDUCATION"	13
+"1482"	"germany"	2012	"BEHANCE"	3994
+"1483"	"germany"	2012	"EFLUX"	62
+"1484"	"germany"	2012	"MEETUP"	458
+"1485"	"germany"	2012	"TED"	18
+"1486"	"germany"	2012	"TIMEPAD"	1
+"1487"	"germany"	2013	"ART_EDUCATION"	9
+"1488"	"germany"	2013	"BEHANCE"	6681
+"1489"	"germany"	2013	"EFLUX"	61
+"1490"	"germany"	2013	"MEETUP"	826
+"1491"	"germany"	2013	"TED"	28
+"1492"	"germany"	2014	"ART_EDUCATION"	5
+"1493"	"germany"	2014	"BEHANCE"	8006
+"1494"	"germany"	2014	"EFLUX"	74
+"1495"	"germany"	2014	"MEETUP"	1867
+"1496"	"germany"	2014	"TED"	26
+"1497"	"germany"	2014	"TIMEPAD"	3
+"1498"	"germany"	2015	"ART_EDUCATION"	10
+"1499"	"germany"	2015	"BEHANCE"	6575
+"1500"	"germany"	2015	"EFLUX"	78
+"1501"	"germany"	2015	"MEETUP"	3066
+"1502"	"germany"	2015	"TED"	43
+"1503"	"germany"	2015	"TIMEPAD"	26
+"1504"	"germany"	2016	"ART_EDUCATION"	5
+"1505"	"germany"	2016	"BEHANCE"	6685
+"1506"	"germany"	2016	"EFLUX"	79
+"1507"	"germany"	2016	"MEETUP"	4654
+"1508"	"germany"	2016	"TED"	56
+"1509"	"germany"	2016	"TIMEPAD"	15
+"1510"	"germany"	2017	"ART_EDUCATION"	11
+"1511"	"germany"	2017	"BEHANCE"	6317
+"1512"	"germany"	2017	"EFLUX"	80
+"1513"	"germany"	2017	"MEETUP"	7309
+"1514"	"germany"	2017	"TED"	57
+"1515"	"germany"	2017	"TIMEPAD"	16
+"1516"	"germany"	2018	"ART_EDUCATION"	10
+"1517"	"germany"	2018	"BEHANCE"	5799
+"1518"	"germany"	2018	"EFLUX"	96
+"1519"	"germany"	2018	"MEETUP"	9942
+"1520"	"germany"	2018	"TED"	56
+"1521"	"germany"	2018	"TIMEPAD"	43
+"1522"	"germany"	2019	"BEHANCE"	1135
+"1523"	"germany"	2019	"MEETUP"	1512
+"1524"	"germany"	2019	"TED"	16
+"1525"	"germany"	2019	"TIMEPAD"	4
+"1526"	"ghana"	2009	"TED"	1
+"1527"	"ghana"	2010	"TED"	6
+"1528"	"ghana"	2011	"TED"	3
+"1529"	"ghana"	2012	"EFLUX"	1
+"1530"	"ghana"	2012	"TED"	3
+"1531"	"ghana"	2013	"BEHANCE"	8
+"1532"	"ghana"	2013	"EFLUX"	1
+"1533"	"ghana"	2013	"TED"	4
+"1534"	"ghana"	2014	"TED"	1
+"1535"	"ghana"	2015	"BEHANCE"	4
+"1536"	"ghana"	2015	"EFLUX"	1
+"1537"	"ghana"	2015	"TED"	5
+"1538"	"ghana"	2016	"ART_EDUCATION"	1
+"1539"	"ghana"	2016	"BEHANCE"	26
+"1540"	"ghana"	2016	"EFLUX"	1
+"1541"	"ghana"	2016	"TED"	8
+"1542"	"ghana"	2017	"BEHANCE"	41
+"1543"	"ghana"	2017	"EFLUX"	3
+"1544"	"ghana"	2017	"TED"	8
+"1545"	"ghana"	2018	"ART_EDUCATION"	1
+"1546"	"ghana"	2018	"BEHANCE"	46
+"1547"	"ghana"	2018	"MEETUP"	3
+"1548"	"ghana"	2018	"TED"	5
+"1549"	"ghana"	2019	"BEHANCE"	6
+"1550"	"ghana"	2019	"MEETUP"	1
+"1551"	"ghana"	2019	"TED"	1
+"1552"	"greece"	2008	"BEHANCE"	35
+"1553"	"greece"	2009	"BEHANCE"	172
+"1554"	"greece"	2009	"TED"	4
+"1555"	"greece"	2010	"BEHANCE"	237
+"1556"	"greece"	2010	"EFLUX"	4
+"1557"	"greece"	2010	"TED"	7
+"1558"	"greece"	2011	"BEHANCE"	418
+"1559"	"greece"	2011	"EFLUX"	9
+"1560"	"greece"	2011	"MEETUP"	15
+"1561"	"greece"	2011	"TED"	7
+"1562"	"greece"	2012	"BEHANCE"	790
+"1563"	"greece"	2012	"EFLUX"	3
+"1564"	"greece"	2012	"MEETUP"	23
+"1565"	"greece"	2012	"TED"	13
+"1566"	"greece"	2013	"BEHANCE"	1042
+"1567"	"greece"	2013	"EFLUX"	3
+"1568"	"greece"	2013	"MEETUP"	34
+"1569"	"greece"	2013	"TED"	18
+"1570"	"greece"	2014	"BEHANCE"	1140
+"1571"	"greece"	2014	"EFLUX"	2
+"1572"	"greece"	2014	"MEETUP"	110
+"1573"	"greece"	2014	"TED"	15
+"1574"	"greece"	2015	"ART_EDUCATION"	1
+"1575"	"greece"	2015	"BEHANCE"	1077
+"1576"	"greece"	2015	"EFLUX"	4
+"1577"	"greece"	2015	"MEETUP"	232
+"1578"	"greece"	2015	"TED"	22
+"1579"	"greece"	2016	"ART_EDUCATION"	2
+"1580"	"greece"	2016	"BEHANCE"	1153
+"1581"	"greece"	2016	"EFLUX"	6
+"1582"	"greece"	2016	"MEETUP"	314
+"1583"	"greece"	2016	"TED"	25
+"1584"	"greece"	2017	"ART_EDUCATION"	2
+"1585"	"greece"	2017	"BEHANCE"	1029
+"1586"	"greece"	2017	"EFLUX"	8
+"1587"	"greece"	2017	"MEETUP"	493
+"1588"	"greece"	2017	"TED"	23
+"1589"	"greece"	2018	"BEHANCE"	798
+"1590"	"greece"	2018	"EFLUX"	12
+"1591"	"greece"	2018	"MEETUP"	683
+"1592"	"greece"	2018	"TED"	23
+"1593"	"greece"	2018	"TIMEPAD"	2
+"1594"	"greece"	2019	"BEHANCE"	139
+"1595"	"greece"	2019	"MEETUP"	89
+"1596"	"greece"	2019	"TED"	10
+"1597"	"guatemala"	2008	"BEHANCE"	1
+"1598"	"guatemala"	2009	"BEHANCE"	1
+"1599"	"guatemala"	2010	"BEHANCE"	35
+"1600"	"guatemala"	2010	"TED"	1
+"1601"	"guatemala"	2011	"BEHANCE"	73
+"1602"	"guatemala"	2011	"TED"	2
+"1603"	"guatemala"	2012	"BEHANCE"	104
+"1604"	"guatemala"	2012	"MEETUP"	1
+"1605"	"guatemala"	2012	"TED"	8
+"1606"	"guatemala"	2013	"BEHANCE"	105
+"1607"	"guatemala"	2013	"TED"	7
+"1608"	"guatemala"	2014	"BEHANCE"	86
+"1609"	"guatemala"	2014	"TED"	1
+"1610"	"guatemala"	2015	"BEHANCE"	88
+"1611"	"guatemala"	2015	"MEETUP"	6
+"1612"	"guatemala"	2015	"TED"	7
+"1613"	"guatemala"	2016	"BEHANCE"	130
+"1614"	"guatemala"	2016	"MEETUP"	1
+"1615"	"guatemala"	2016	"TED"	4
+"1616"	"guatemala"	2017	"ART_EDUCATION"	1
+"1617"	"guatemala"	2017	"BEHANCE"	102
+"1618"	"guatemala"	2017	"MEETUP"	3
+"1619"	"guatemala"	2017	"TED"	2
+"1620"	"guatemala"	2018	"BEHANCE"	68
+"1621"	"guatemala"	2018	"EFLUX"	1
+"1622"	"guatemala"	2018	"MEETUP"	1
+"1623"	"guatemala"	2018	"TED"	6
+"1624"	"guatemala"	2019	"BEHANCE"	12
+"1625"	"guatemala"	2019	"TED"	2
+"1626"	"guinea"	2018	"TED"	1
+"1627"	"guyana"	2015	"TED"	1
+"1628"	"haiti"	2011	"TED"	3
+"1629"	"haiti"	2012	"TED"	4
+"1630"	"haiti"	2013	"EFLUX"	1
+"1631"	"haiti"	2013	"TED"	7
+"1632"	"haiti"	2014	"TED"	2
+"1633"	"haiti"	2015	"TED"	1
+"1634"	"holy see"	2007	"MEETUP"	1
+"1635"	"holy see"	2014	"ART_EDUCATION"	2
+"1636"	"honduras"	2009	"BEHANCE"	1
+"1637"	"honduras"	2009	"MEETUP"	1
+"1638"	"honduras"	2012	"BEHANCE"	15
+"1639"	"honduras"	2012	"TED"	1
+"1640"	"honduras"	2013	"BEHANCE"	52
+"1641"	"honduras"	2013	"MEETUP"	1
+"1642"	"honduras"	2013	"TED"	2
+"1643"	"honduras"	2014	"BEHANCE"	85
+"1644"	"honduras"	2014	"TED"	2
+"1645"	"honduras"	2015	"BEHANCE"	46
+"1646"	"honduras"	2015	"MEETUP"	3
+"1647"	"honduras"	2015	"TED"	4
+"1648"	"honduras"	2016	"BEHANCE"	19
+"1649"	"honduras"	2016	"MEETUP"	2
+"1650"	"honduras"	2016	"TED"	3
+"1651"	"honduras"	2017	"BEHANCE"	21
+"1652"	"honduras"	2017	"MEETUP"	2
+"1653"	"honduras"	2017	"TED"	5
+"1654"	"honduras"	2018	"BEHANCE"	22
+"1655"	"honduras"	2018	"TED"	4
+"1656"	"honduras"	2019	"BEHANCE"	2
+"1657"	"hungary"	2007	"BEHANCE"	1
+"1658"	"hungary"	2007	"MEETUP"	12
+"1659"	"hungary"	2008	"BEHANCE"	30
+"1660"	"hungary"	2008	"MEETUP"	16
+"1661"	"hungary"	2009	"BEHANCE"	169
+"1662"	"hungary"	2009	"MEETUP"	20
+"1663"	"hungary"	2009	"TED"	1
+"1664"	"hungary"	2010	"BEHANCE"	358
+"1665"	"hungary"	2010	"EFLUX"	1
+"1666"	"hungary"	2010	"MEETUP"	48
+"1667"	"hungary"	2010	"TED"	5
+"1668"	"hungary"	2011	"BEHANCE"	502
+"1669"	"hungary"	2011	"EFLUX"	2
+"1670"	"hungary"	2011	"MEETUP"	90
+"1671"	"hungary"	2011	"TED"	5
+"1672"	"hungary"	2012	"ART_EDUCATION"	2
+"1673"	"hungary"	2012	"BEHANCE"	1164
+"1674"	"hungary"	2012	"MEETUP"	91
+"1675"	"hungary"	2012	"TED"	8
+"1676"	"hungary"	2013	"BEHANCE"	1527
+"1677"	"hungary"	2013	"MEETUP"	193
+"1678"	"hungary"	2013	"TED"	7
+"1679"	"hungary"	2014	"BEHANCE"	1697
+"1680"	"hungary"	2014	"MEETUP"	394
+"1681"	"hungary"	2014	"TED"	6
+"1682"	"hungary"	2015	"BEHANCE"	1232
+"1683"	"hungary"	2015	"EFLUX"	1
+"1684"	"hungary"	2015	"MEETUP"	712
+"1685"	"hungary"	2015	"TED"	5
+"1686"	"hungary"	2016	"BEHANCE"	1393
+"1687"	"hungary"	2016	"EFLUX"	2
+"1688"	"hungary"	2016	"MEETUP"	794
+"1689"	"hungary"	2016	"TED"	7
+"1690"	"hungary"	2017	"BEHANCE"	1343
+"1691"	"hungary"	2017	"EFLUX"	4
+"1692"	"hungary"	2017	"MEETUP"	946
+"1693"	"hungary"	2017	"TED"	11
+"1694"	"hungary"	2018	"BEHANCE"	1144
+"1695"	"hungary"	2018	"EFLUX"	3
+"1696"	"hungary"	2018	"MEETUP"	1267
+"1697"	"hungary"	2018	"TED"	12
+"1698"	"hungary"	2019	"BEHANCE"	209
+"1699"	"hungary"	2019	"MEETUP"	251
+"1700"	"hungary"	2019	"TED"	6
+"1701"	"iceland"	2008	"BEHANCE"	1
+"1702"	"iceland"	2009	"BEHANCE"	49
+"1703"	"iceland"	2009	"MEETUP"	1
+"1704"	"iceland"	2009	"TED"	1
+"1705"	"iceland"	2010	"BEHANCE"	80
+"1706"	"iceland"	2010	"TED"	1
+"1707"	"iceland"	2011	"BEHANCE"	110
+"1708"	"iceland"	2011	"MEETUP"	1
+"1709"	"iceland"	2011	"TED"	1
+"1710"	"iceland"	2012	"BEHANCE"	184
+"1711"	"iceland"	2012	"MEETUP"	2
+"1712"	"iceland"	2013	"BEHANCE"	205
+"1713"	"iceland"	2013	"MEETUP"	1
+"1714"	"iceland"	2013	"TED"	2
+"1715"	"iceland"	2014	"BEHANCE"	324
+"1716"	"iceland"	2014	"MEETUP"	7
+"1717"	"iceland"	2014	"TED"	1
+"1718"	"iceland"	2015	"BEHANCE"	130
+"1719"	"iceland"	2015	"MEETUP"	9
+"1720"	"iceland"	2015	"TED"	2
+"1721"	"iceland"	2016	"BEHANCE"	110
+"1722"	"iceland"	2016	"MEETUP"	9
+"1723"	"iceland"	2016	"TED"	1
+"1724"	"iceland"	2017	"BEHANCE"	88
+"1725"	"iceland"	2017	"MEETUP"	21
+"1726"	"iceland"	2017	"TED"	4
+"1727"	"iceland"	2018	"BEHANCE"	177
+"1728"	"iceland"	2018	"MEETUP"	32
+"1729"	"iceland"	2018	"TED"	1
+"1730"	"iceland"	2019	"BEHANCE"	37
+"1731"	"india"	2004	"MEETUP"	4
+"1732"	"india"	2005	"MEETUP"	22
+"1733"	"india"	2006	"MEETUP"	34
+"1734"	"india"	2007	"BEHANCE"	6
+"1735"	"india"	2007	"MEETUP"	53
+"1736"	"india"	2008	"BEHANCE"	26
+"1737"	"india"	2008	"MEETUP"	163
+"1738"	"india"	2009	"BEHANCE"	221
+"1739"	"india"	2009	"MEETUP"	315
+"1740"	"india"	2009	"TED"	11
+"1741"	"india"	2010	"ART_EDUCATION"	2
+"1742"	"india"	2010	"BEHANCE"	341
+"1743"	"india"	2010	"MEETUP"	289
+"1744"	"india"	2010	"TED"	57
+"1745"	"india"	2011	"BEHANCE"	604
+"1746"	"india"	2011	"EFLUX"	1
+"1747"	"india"	2011	"MEETUP"	416
+"1748"	"india"	2011	"TED"	72
+"1749"	"india"	2012	"BEHANCE"	1278
+"1750"	"india"	2012	"EFLUX"	3
+"1751"	"india"	2012	"MEETUP"	992
+"1752"	"india"	2012	"TED"	110
+"1753"	"india"	2013	"ART_EDUCATION"	1
+"1754"	"india"	2013	"BEHANCE"	2258
+"1755"	"india"	2013	"EFLUX"	1
+"1756"	"india"	2013	"MEETUP"	1507
+"1757"	"india"	2013	"TED"	93
+"1758"	"india"	2014	"BEHANCE"	2516
+"1759"	"india"	2014	"EFLUX"	2
+"1760"	"india"	2014	"MEETUP"	3255
+"1761"	"india"	2014	"TED"	91
+"1762"	"india"	2015	"BEHANCE"	2020
+"1763"	"india"	2015	"EFLUX"	1
+"1764"	"india"	2015	"MEETUP"	4652
+"1765"	"india"	2015	"TED"	132
+"1766"	"india"	2016	"BEHANCE"	2157
+"1767"	"india"	2016	"EFLUX"	2
+"1768"	"india"	2016	"MEETUP"	6820
+"1769"	"india"	2016	"TED"	182
+"1770"	"india"	2017	"ART_EDUCATION"	5
+"1771"	"india"	2017	"BEHANCE"	2314
+"1772"	"india"	2017	"MEETUP"	10344
+"1773"	"india"	2017	"TED"	307
+"1774"	"india"	2018	"BEHANCE"	2220
+"1775"	"india"	2018	"EFLUX"	1
+"1776"	"india"	2018	"MEETUP"	11622
+"1777"	"india"	2018	"TED"	354
+"1778"	"india"	2019	"BEHANCE"	404
+"1779"	"india"	2019	"MEETUP"	2300
+"1780"	"india"	2019	"TED"	143
+"1781"	"indonesia"	2007	"BEHANCE"	4
+"1782"	"indonesia"	2008	"BEHANCE"	32
+"1783"	"indonesia"	2009	"BEHANCE"	151
+"1784"	"indonesia"	2009	"TED"	6
+"1785"	"indonesia"	2010	"BEHANCE"	285
+"1786"	"indonesia"	2010	"MEETUP"	1
+"1787"	"indonesia"	2010	"TED"	7
+"1788"	"indonesia"	2011	"BEHANCE"	522
+"1789"	"indonesia"	2011	"MEETUP"	2
+"1790"	"indonesia"	2011	"TED"	19
+"1791"	"indonesia"	2012	"BEHANCE"	981
+"1792"	"indonesia"	2012	"MEETUP"	11
+"1793"	"indonesia"	2012	"TED"	22
+"1794"	"indonesia"	2013	"BEHANCE"	1355
+"1795"	"indonesia"	2013	"MEETUP"	132
+"1796"	"indonesia"	2013	"TED"	16
+"1797"	"indonesia"	2014	"BEHANCE"	1780
+"1798"	"indonesia"	2014	"MEETUP"	256
+"1799"	"indonesia"	2014	"TED"	9
+"1800"	"indonesia"	2015	"BEHANCE"	1288
+"1801"	"indonesia"	2015	"MEETUP"	562
+"1802"	"indonesia"	2015	"TED"	14
+"1803"	"indonesia"	2016	"BEHANCE"	1230
+"1804"	"indonesia"	2016	"MEETUP"	962
+"1805"	"indonesia"	2016	"TED"	19
+"1806"	"indonesia"	2016	"TIMEPAD"	3
+"1807"	"indonesia"	2017	"BEHANCE"	1054
+"1808"	"indonesia"	2017	"MEETUP"	1003
+"1809"	"indonesia"	2017	"TED"	17
+"1810"	"indonesia"	2017	"TIMEPAD"	9
+"1811"	"indonesia"	2018	"BEHANCE"	807
+"1812"	"indonesia"	2018	"MEETUP"	1174
+"1813"	"indonesia"	2018	"TED"	24
+"1814"	"indonesia"	2018	"TIMEPAD"	7
+"1815"	"indonesia"	2019	"BEHANCE"	150
+"1816"	"indonesia"	2019	"MEETUP"	217
+"1817"	"indonesia"	2019	"TED"	5
+"1818"	"indonesia"	2019	"TIMEPAD"	5
+"1819"	"iran"	2008	"BEHANCE"	7
+"1820"	"iran"	2009	"BEHANCE"	10
+"1821"	"iran"	2010	"BEHANCE"	14
+"1822"	"iran"	2011	"BEHANCE"	25
+"1823"	"iran"	2011	"EFLUX"	1
+"1824"	"iran"	2012	"BEHANCE"	103
+"1825"	"iran"	2012	"EFLUX"	1
+"1826"	"iran"	2013	"BEHANCE"	178
+"1827"	"iran"	2013	"EFLUX"	2
+"1828"	"iran"	2013	"TED"	3
+"1829"	"iran"	2014	"ART_EDUCATION"	2
+"1830"	"iran"	2014	"BEHANCE"	144
+"1831"	"iran"	2014	"EFLUX"	1
+"1832"	"iran"	2014	"TED"	7
+"1833"	"iran"	2015	"BEHANCE"	89
+"1834"	"iran"	2015	"EFLUX"	1
+"1835"	"iran"	2015	"TED"	7
+"1836"	"iran"	2016	"BEHANCE"	70
+"1837"	"iran"	2016	"EFLUX"	2
+"1838"	"iran"	2016	"TED"	11
+"1839"	"iran"	2017	"ART_EDUCATION"	1
+"1840"	"iran"	2017	"BEHANCE"	115
+"1841"	"iran"	2017	"TED"	15
+"1842"	"iran"	2018	"ART_EDUCATION"	1
+"1843"	"iran"	2018	"BEHANCE"	151
+"1844"	"iran"	2018	"TED"	14
+"1845"	"iran"	2019	"BEHANCE"	24
+"1846"	"iran"	2019	"TED"	7
+"1847"	"iraq"	2011	"TED"	2
+"1848"	"iraq"	2012	"TED"	11
+"1849"	"iraq"	2013	"BEHANCE"	27
+"1850"	"iraq"	2013	"TED"	5
+"1851"	"iraq"	2014	"BEHANCE"	16
+"1852"	"iraq"	2014	"TED"	3
+"1853"	"iraq"	2015	"BEHANCE"	49
+"1854"	"iraq"	2015	"TED"	3
+"1855"	"iraq"	2016	"ART_EDUCATION"	1
+"1856"	"iraq"	2016	"BEHANCE"	31
+"1857"	"iraq"	2016	"TED"	3
+"1858"	"iraq"	2017	"BEHANCE"	197
+"1859"	"iraq"	2017	"EFLUX"	1
+"1860"	"iraq"	2017	"TED"	7
+"1861"	"iraq"	2018	"BEHANCE"	49
+"1862"	"iraq"	2018	"TED"	7
+"1863"	"iraq"	2019	"BEHANCE"	7
+"1864"	"iraq"	2019	"TED"	1
+"1865"	"ireland"	2006	"MEETUP"	1
+"1866"	"ireland"	2007	"BEHANCE"	1
+"1867"	"ireland"	2007	"MEETUP"	78
+"1868"	"ireland"	2008	"BEHANCE"	23
+"1869"	"ireland"	2008	"MEETUP"	222
+"1870"	"ireland"	2009	"BEHANCE"	87
+"1871"	"ireland"	2009	"MEETUP"	261
+"1872"	"ireland"	2009	"TED"	4
+"1873"	"ireland"	2010	"ART_EDUCATION"	1
+"1874"	"ireland"	2010	"BEHANCE"	121
+"1875"	"ireland"	2010	"EFLUX"	6
+"1876"	"ireland"	2010	"MEETUP"	476
+"1877"	"ireland"	2010	"TED"	11
+"1878"	"ireland"	2011	"BEHANCE"	257
+"1879"	"ireland"	2011	"EFLUX"	11
+"1880"	"ireland"	2011	"MEETUP"	529
+"1881"	"ireland"	2011	"TED"	4
+"1882"	"ireland"	2012	"ART_EDUCATION"	6
+"1883"	"ireland"	2012	"BEHANCE"	434
+"1884"	"ireland"	2012	"EFLUX"	11
+"1885"	"ireland"	2012	"MEETUP"	1000
+"1886"	"ireland"	2012	"TED"	8
+"1887"	"ireland"	2013	"ART_EDUCATION"	4
+"1888"	"ireland"	2013	"BEHANCE"	895
+"1889"	"ireland"	2013	"EFLUX"	11
+"1890"	"ireland"	2013	"MEETUP"	1307
+"1891"	"ireland"	2013	"TED"	9
+"1892"	"ireland"	2014	"ART_EDUCATION"	2
+"1893"	"ireland"	2014	"BEHANCE"	714
+"1894"	"ireland"	2014	"EFLUX"	7
+"1895"	"ireland"	2014	"MEETUP"	1789
+"1896"	"ireland"	2014	"TED"	6
+"1897"	"ireland"	2015	"BEHANCE"	520
+"1898"	"ireland"	2015	"EFLUX"	3
+"1899"	"ireland"	2015	"MEETUP"	2225
+"1900"	"ireland"	2015	"TED"	5
+"1901"	"ireland"	2016	"ART_EDUCATION"	2
+"1902"	"ireland"	2016	"BEHANCE"	572
+"1903"	"ireland"	2016	"EFLUX"	10
+"1904"	"ireland"	2016	"MEETUP"	2548
+"1905"	"ireland"	2016	"TED"	18
+"1906"	"ireland"	2017	"ART_EDUCATION"	2
+"1907"	"ireland"	2017	"BEHANCE"	449
+"1908"	"ireland"	2017	"EFLUX"	3
+"1909"	"ireland"	2017	"MEETUP"	2987
+"1910"	"ireland"	2017	"TED"	17
+"1911"	"ireland"	2018	"ART_EDUCATION"	3
+"1912"	"ireland"	2018	"BEHANCE"	402
+"1913"	"ireland"	2018	"EFLUX"	8
+"1914"	"ireland"	2018	"MEETUP"	3266
+"1915"	"ireland"	2018	"TED"	6
+"1916"	"ireland"	2018	"TIMEPAD"	3
+"1917"	"ireland"	2019	"BEHANCE"	63
+"1918"	"ireland"	2019	"MEETUP"	594
+"1919"	"ireland"	2019	"TED"	6
+"1920"	"israel"	2007	"BEHANCE"	10
+"1921"	"israel"	2007	"MEETUP"	23
+"1922"	"israel"	2008	"BEHANCE"	40
+"1923"	"israel"	2008	"MEETUP"	39
+"1924"	"israel"	2009	"BEHANCE"	169
+"1925"	"israel"	2009	"MEETUP"	36
+"1926"	"israel"	2010	"ART_EDUCATION"	6
+"1927"	"israel"	2010	"BEHANCE"	307
+"1928"	"israel"	2010	"EFLUX"	3
+"1929"	"israel"	2010	"MEETUP"	62
+"1930"	"israel"	2010	"TED"	4
+"1931"	"israel"	2011	"BEHANCE"	365
+"1932"	"israel"	2011	"EFLUX"	3
+"1933"	"israel"	2011	"MEETUP"	153
+"1934"	"israel"	2011	"TED"	5
+"1935"	"israel"	2012	"ART_EDUCATION"	1
+"1936"	"israel"	2012	"BEHANCE"	596
+"1937"	"israel"	2012	"EFLUX"	10
+"1938"	"israel"	2012	"MEETUP"	326
+"1939"	"israel"	2012	"TED"	6
+"1940"	"israel"	2013	"ART_EDUCATION"	3
+"1941"	"israel"	2013	"BEHANCE"	953
+"1942"	"israel"	2013	"EFLUX"	4
+"1943"	"israel"	2013	"MEETUP"	641
+"1944"	"israel"	2013	"TED"	8
+"1945"	"israel"	2014	"ART_EDUCATION"	1
+"1946"	"israel"	2014	"BEHANCE"	924
+"1947"	"israel"	2014	"EFLUX"	9
+"1948"	"israel"	2014	"MEETUP"	889
+"1949"	"israel"	2014	"TED"	7
+"1950"	"israel"	2015	"ART_EDUCATION"	4
+"1951"	"israel"	2015	"BEHANCE"	711
+"1952"	"israel"	2015	"EFLUX"	4
+"1953"	"israel"	2015	"MEETUP"	919
+"1954"	"israel"	2015	"TED"	7
+"1955"	"israel"	2015	"TIMEPAD"	1
+"1956"	"israel"	2016	"ART_EDUCATION"	1
+"1957"	"israel"	2016	"BEHANCE"	571
+"1958"	"israel"	2016	"EFLUX"	5
+"1959"	"israel"	2016	"MEETUP"	1858
+"1960"	"israel"	2016	"TED"	14
+"1961"	"israel"	2016	"TIMEPAD"	7
+"1962"	"israel"	2017	"ART_EDUCATION"	5
+"1963"	"israel"	2017	"BEHANCE"	527
+"1964"	"israel"	2017	"EFLUX"	7
+"1965"	"israel"	2017	"MEETUP"	1612
+"1966"	"israel"	2017	"TED"	11
+"1967"	"israel"	2017	"TIMEPAD"	5
+"1968"	"israel"	2018	"ART_EDUCATION"	2
+"1969"	"israel"	2018	"BEHANCE"	585
+"1970"	"israel"	2018	"EFLUX"	3
+"1971"	"israel"	2018	"MEETUP"	1712
+"1972"	"israel"	2018	"TED"	14
+"1973"	"israel"	2018	"TIMEPAD"	18
+"1974"	"israel"	2019	"BEHANCE"	73
+"1975"	"israel"	2019	"MEETUP"	318
+"1976"	"israel"	2019	"TED"	5
+"1977"	"israel"	2019	"TIMEPAD"	2
+"1978"	"italy"	2005	"MEETUP"	91
+"1979"	"italy"	2006	"MEETUP"	820
+"1980"	"italy"	2007	"BEHANCE"	20
+"1981"	"italy"	2007	"MEETUP"	1589
+"1982"	"italy"	2008	"BEHANCE"	294
+"1983"	"italy"	2008	"MEETUP"	1705
+"1984"	"italy"	2009	"BEHANCE"	760
+"1985"	"italy"	2009	"MEETUP"	1497
+"1986"	"italy"	2009	"TED"	1
+"1987"	"italy"	2010	"ART_EDUCATION"	11
+"1988"	"italy"	2010	"BEHANCE"	1586
+"1989"	"italy"	2010	"EFLUX"	36
+"1990"	"italy"	2010	"MEETUP"	1604
+"1991"	"italy"	2010	"TED"	6
+"1992"	"italy"	2011	"ART_EDUCATION"	13
+"1993"	"italy"	2011	"BEHANCE"	2774
+"1994"	"italy"	2011	"EFLUX"	96
+"1995"	"italy"	2011	"MEETUP"	1608
+"1996"	"italy"	2011	"TED"	26
+"1997"	"italy"	2012	"ART_EDUCATION"	5
+"1998"	"italy"	2012	"BEHANCE"	5043
+"1999"	"italy"	2012	"EFLUX"	51
+"2000"	"italy"	2012	"MEETUP"	3075
+"2001"	"italy"	2012	"TED"	28
+"2002"	"italy"	2013	"ART_EDUCATION"	11
+"2003"	"italy"	2013	"BEHANCE"	8373
+"2004"	"italy"	2013	"EFLUX"	95
+"2005"	"italy"	2013	"MEETUP"	8633
+"2006"	"italy"	2013	"TED"	38
+"2007"	"italy"	2014	"ART_EDUCATION"	8
+"2008"	"italy"	2014	"BEHANCE"	8522
+"2009"	"italy"	2014	"EFLUX"	41
+"2010"	"italy"	2014	"MEETUP"	8381
+"2011"	"italy"	2014	"TED"	25
+"2012"	"italy"	2015	"ART_EDUCATION"	9
+"2013"	"italy"	2015	"BEHANCE"	7083
+"2014"	"italy"	2015	"EFLUX"	105
+"2015"	"italy"	2015	"MEETUP"	6504
+"2016"	"italy"	2015	"TED"	49
+"2017"	"italy"	2016	"ART_EDUCATION"	9
+"2018"	"italy"	2016	"BEHANCE"	7442
+"2019"	"italy"	2016	"EFLUX"	49
+"2020"	"italy"	2016	"MEETUP"	6502
+"2021"	"italy"	2016	"TED"	53
+"2022"	"italy"	2016	"TIMEPAD"	4
+"2023"	"italy"	2017	"ART_EDUCATION"	12
+"2024"	"italy"	2017	"BEHANCE"	7109
+"2025"	"italy"	2017	"EFLUX"	90
+"2026"	"italy"	2017	"MEETUP"	5363
+"2027"	"italy"	2017	"TED"	68
+"2028"	"italy"	2017	"TIMEPAD"	8
+"2029"	"italy"	2018	"ART_EDUCATION"	11
+"2030"	"italy"	2018	"BEHANCE"	6270
+"2031"	"italy"	2018	"EFLUX"	45
+"2032"	"italy"	2018	"MEETUP"	6551
+"2033"	"italy"	2018	"TED"	86
+"2034"	"italy"	2018	"TIMEPAD"	26
+"2035"	"italy"	2019	"BEHANCE"	968
+"2036"	"italy"	2019	"MEETUP"	1141
+"2037"	"italy"	2019	"TED"	44
+"2038"	"italy"	2019	"TIMEPAD"	6
+"2039"	"jamaica"	2007	"MEETUP"	1
+"2040"	"jamaica"	2009	"BEHANCE"	4
+"2041"	"jamaica"	2010	"BEHANCE"	13
+"2042"	"jamaica"	2010	"MEETUP"	1
+"2043"	"jamaica"	2010	"TED"	1
+"2044"	"jamaica"	2011	"BEHANCE"	16
+"2045"	"jamaica"	2011	"TED"	2
+"2046"	"jamaica"	2012	"BEHANCE"	27
+"2047"	"jamaica"	2012	"TED"	1
+"2048"	"jamaica"	2013	"BEHANCE"	11
+"2049"	"jamaica"	2013	"MEETUP"	3
+"2050"	"jamaica"	2013	"TED"	1
+"2051"	"jamaica"	2014	"BEHANCE"	22
+"2052"	"jamaica"	2014	"MEETUP"	1
+"2053"	"jamaica"	2015	"BEHANCE"	6
+"2054"	"jamaica"	2016	"BEHANCE"	4
+"2055"	"jamaica"	2016	"MEETUP"	1
+"2056"	"jamaica"	2017	"BEHANCE"	7
+"2057"	"jamaica"	2017	"MEETUP"	17
+"2058"	"jamaica"	2018	"BEHANCE"	9
+"2059"	"jamaica"	2018	"MEETUP"	35
+"2060"	"jamaica"	2019	"BEHANCE"	2
+"2061"	"jamaica"	2019	"MEETUP"	5
+"2062"	"jamaica"	2019	"TED"	1
+"2063"	"japan"	2007	"BEHANCE"	1
+"2064"	"japan"	2008	"BEHANCE"	35
+"2065"	"japan"	2009	"BEHANCE"	182
+"2066"	"japan"	2009	"TED"	4
+"2067"	"japan"	2010	"BEHANCE"	183
+"2068"	"japan"	2010	"EFLUX"	10
+"2069"	"japan"	2010	"MEETUP"	9
+"2070"	"japan"	2010	"TED"	9
+"2071"	"japan"	2011	"ART_EDUCATION"	1
+"2072"	"japan"	2011	"BEHANCE"	327
+"2073"	"japan"	2011	"EFLUX"	14
+"2074"	"japan"	2011	"MEETUP"	8
+"2075"	"japan"	2011	"TED"	12
+"2076"	"japan"	2012	"ART_EDUCATION"	1
+"2077"	"japan"	2012	"BEHANCE"	485
+"2078"	"japan"	2012	"EFLUX"	15
+"2079"	"japan"	2012	"MEETUP"	9
+"2080"	"japan"	2012	"TED"	32
+"2081"	"japan"	2013	"ART_EDUCATION"	1
+"2082"	"japan"	2013	"BEHANCE"	1124
+"2083"	"japan"	2013	"EFLUX"	18
+"2084"	"japan"	2013	"MEETUP"	119
+"2085"	"japan"	2013	"TED"	41
+"2086"	"japan"	2014	"ART_EDUCATION"	1
+"2087"	"japan"	2014	"BEHANCE"	1648
+"2088"	"japan"	2014	"EFLUX"	28
+"2089"	"japan"	2014	"MEETUP"	474
+"2090"	"japan"	2014	"TED"	34
+"2091"	"japan"	2015	"ART_EDUCATION"	3
+"2092"	"japan"	2015	"BEHANCE"	1350
+"2093"	"japan"	2015	"EFLUX"	20
+"2094"	"japan"	2015	"MEETUP"	1799
+"2095"	"japan"	2015	"TED"	53
+"2096"	"japan"	2016	"BEHANCE"	1522
+"2097"	"japan"	2016	"EFLUX"	30
+"2098"	"japan"	2016	"MEETUP"	4149
+"2099"	"japan"	2016	"TED"	75
+"2100"	"japan"	2017	"ART_EDUCATION"	1
+"2101"	"japan"	2017	"BEHANCE"	1556
+"2102"	"japan"	2017	"EFLUX"	19
+"2103"	"japan"	2017	"MEETUP"	5274
+"2104"	"japan"	2017	"TED"	81
+"2105"	"japan"	2017	"TIMEPAD"	1
+"2106"	"japan"	2018	"ART_EDUCATION"	2
+"2107"	"japan"	2018	"BEHANCE"	1583
+"2108"	"japan"	2018	"EFLUX"	18
+"2109"	"japan"	2018	"MEETUP"	5512
+"2110"	"japan"	2018	"TED"	61
+"2111"	"japan"	2018	"TIMEPAD"	4
+"2112"	"japan"	2019	"BEHANCE"	265
+"2113"	"japan"	2019	"MEETUP"	763
+"2114"	"japan"	2019	"TED"	23
+"2115"	"jordan"	2009	"BEHANCE"	6
+"2116"	"jordan"	2010	"BEHANCE"	27
+"2117"	"jordan"	2011	"BEHANCE"	45
+"2118"	"jordan"	2011	"TED"	10
+"2119"	"jordan"	2012	"BEHANCE"	43
+"2120"	"jordan"	2012	"MEETUP"	2
+"2121"	"jordan"	2012	"TED"	12
+"2122"	"jordan"	2013	"BEHANCE"	102
+"2123"	"jordan"	2013	"EFLUX"	2
+"2124"	"jordan"	2013	"MEETUP"	4
+"2125"	"jordan"	2013	"TED"	5
+"2126"	"jordan"	2014	"BEHANCE"	117
+"2127"	"jordan"	2014	"MEETUP"	40
+"2128"	"jordan"	2014	"TED"	3
+"2129"	"jordan"	2015	"BEHANCE"	90
+"2130"	"jordan"	2015	"MEETUP"	74
+"2131"	"jordan"	2015	"TED"	1
+"2132"	"jordan"	2016	"BEHANCE"	95
+"2133"	"jordan"	2016	"MEETUP"	57
+"2134"	"jordan"	2017	"BEHANCE"	121
+"2135"	"jordan"	2017	"MEETUP"	122
+"2136"	"jordan"	2017	"TED"	1
+"2137"	"jordan"	2018	"BEHANCE"	82
+"2138"	"jordan"	2018	"EFLUX"	1
+"2139"	"jordan"	2018	"MEETUP"	106
+"2140"	"jordan"	2018	"TED"	4
+"2141"	"jordan"	2019	"BEHANCE"	7
+"2142"	"jordan"	2019	"MEETUP"	9
+"2143"	"jordan"	2019	"TED"	4
+"2144"	"kazakhstan"	2008	"BEHANCE"	11
+"2145"	"kazakhstan"	2009	"BEHANCE"	29
+"2146"	"kazakhstan"	2010	"BEHANCE"	30
+"2147"	"kazakhstan"	2010	"TED"	1
+"2148"	"kazakhstan"	2011	"BEHANCE"	64
+"2149"	"kazakhstan"	2011	"TED"	1
+"2150"	"kazakhstan"	2012	"BEHANCE"	106
+"2151"	"kazakhstan"	2012	"TED"	3
+"2152"	"kazakhstan"	2012	"TIMEPAD"	19
+"2153"	"kazakhstan"	2013	"BEHANCE"	172
+"2154"	"kazakhstan"	2013	"TED"	3
+"2155"	"kazakhstan"	2013	"TIMEPAD"	50
+"2156"	"kazakhstan"	2014	"BEHANCE"	193
+"2157"	"kazakhstan"	2014	"MEETUP"	1
+"2158"	"kazakhstan"	2014	"TED"	4
+"2159"	"kazakhstan"	2014	"TIMEPAD"	108
+"2160"	"kazakhstan"	2015	"BEHANCE"	198
+"2161"	"kazakhstan"	2015	"MEETUP"	6
+"2162"	"kazakhstan"	2015	"TED"	8
+"2163"	"kazakhstan"	2015	"TIMEPAD"	220
+"2164"	"kazakhstan"	2016	"BEHANCE"	188
+"2165"	"kazakhstan"	2016	"MEETUP"	2
+"2166"	"kazakhstan"	2016	"TED"	6
+"2167"	"kazakhstan"	2016	"TIMEPAD"	322
+"2168"	"kazakhstan"	2017	"BEHANCE"	193
+"2169"	"kazakhstan"	2017	"MEETUP"	8
+"2170"	"kazakhstan"	2017	"TED"	7
+"2171"	"kazakhstan"	2017	"TIMEPAD"	215
+"2172"	"kazakhstan"	2018	"BEHANCE"	150
+"2173"	"kazakhstan"	2018	"EFLUX"	1
+"2174"	"kazakhstan"	2018	"MEETUP"	20
+"2175"	"kazakhstan"	2018	"TED"	8
+"2176"	"kazakhstan"	2018	"TIMEPAD"	203
+"2177"	"kazakhstan"	2019	"BEHANCE"	17
+"2178"	"kazakhstan"	2019	"MEETUP"	4
+"2179"	"kazakhstan"	2019	"TED"	4
+"2180"	"kazakhstan"	2019	"TIMEPAD"	35
+"2181"	"kazakhstan"	2020	"TIMEPAD"	1
+"2182"	"kenya"	2009	"TED"	3
+"2183"	"kenya"	2010	"BEHANCE"	1
+"2184"	"kenya"	2010	"TED"	11
+"2185"	"kenya"	2011	"BEHANCE"	9
+"2186"	"kenya"	2011	"TED"	54
+"2187"	"kenya"	2012	"BEHANCE"	34
+"2188"	"kenya"	2012	"EFLUX"	1
+"2189"	"kenya"	2012	"TED"	27
+"2190"	"kenya"	2013	"BEHANCE"	47
+"2191"	"kenya"	2013	"MEETUP"	1
+"2192"	"kenya"	2013	"TED"	20
+"2193"	"kenya"	2014	"BEHANCE"	65
+"2194"	"kenya"	2014	"MEETUP"	2
+"2195"	"kenya"	2014	"TED"	7
+"2196"	"kenya"	2015	"BEHANCE"	61
+"2197"	"kenya"	2015	"MEETUP"	3
+"2198"	"kenya"	2015	"TED"	8
+"2199"	"kenya"	2016	"BEHANCE"	96
+"2200"	"kenya"	2016	"MEETUP"	3
+"2201"	"kenya"	2016	"TED"	6
+"2202"	"kenya"	2017	"BEHANCE"	126
+"2203"	"kenya"	2017	"MEETUP"	33
+"2204"	"kenya"	2017	"TED"	9
+"2205"	"kenya"	2018	"BEHANCE"	151
+"2206"	"kenya"	2018	"MEETUP"	20
+"2207"	"kenya"	2018	"TED"	7
+"2208"	"kenya"	2019	"BEHANCE"	20
+"2209"	"kenya"	2019	"MEETUP"	3
+"2210"	"kenya"	2019	"TED"	2
+"2211"	"kuwait"	2009	"BEHANCE"	5
+"2212"	"kuwait"	2010	"BEHANCE"	4
+"2213"	"kuwait"	2011	"BEHANCE"	3
+"2214"	"kuwait"	2011	"TED"	1
+"2215"	"kuwait"	2012	"BEHANCE"	43
+"2216"	"kuwait"	2012	"TED"	1
+"2217"	"kuwait"	2013	"BEHANCE"	46
+"2218"	"kuwait"	2014	"BEHANCE"	35
+"2219"	"kuwait"	2015	"BEHANCE"	29
+"2220"	"kuwait"	2015	"TED"	1
+"2221"	"kuwait"	2016	"BEHANCE"	40
+"2222"	"kuwait"	2016	"TED"	2
+"2223"	"kuwait"	2017	"BEHANCE"	34
+"2224"	"kuwait"	2017	"TED"	2
+"2225"	"kuwait"	2018	"BEHANCE"	45
+"2226"	"kuwait"	2018	"TED"	5
+"2227"	"kuwait"	2019	"BEHANCE"	10
+"2228"	"kuwait"	2019	"TED"	2
+"2229"	"kyrgyzstan"	2008	"BEHANCE"	1
+"2230"	"kyrgyzstan"	2009	"BEHANCE"	1
+"2231"	"kyrgyzstan"	2010	"BEHANCE"	12
+"2232"	"kyrgyzstan"	2011	"BEHANCE"	6
+"2233"	"kyrgyzstan"	2011	"TED"	1
+"2234"	"kyrgyzstan"	2012	"BEHANCE"	24
+"2235"	"kyrgyzstan"	2012	"TED"	2
+"2236"	"kyrgyzstan"	2013	"BEHANCE"	32
+"2237"	"kyrgyzstan"	2013	"TED"	2
+"2238"	"kyrgyzstan"	2013	"TIMEPAD"	1
+"2239"	"kyrgyzstan"	2014	"BEHANCE"	40
+"2240"	"kyrgyzstan"	2014	"MEETUP"	3
+"2241"	"kyrgyzstan"	2014	"TED"	1
+"2242"	"kyrgyzstan"	2014	"TIMEPAD"	19
+"2243"	"kyrgyzstan"	2015	"BEHANCE"	33
+"2244"	"kyrgyzstan"	2015	"MEETUP"	4
+"2245"	"kyrgyzstan"	2015	"TIMEPAD"	13
+"2246"	"kyrgyzstan"	2016	"BEHANCE"	17
+"2247"	"kyrgyzstan"	2016	"MEETUP"	2
+"2248"	"kyrgyzstan"	2016	"TED"	4
+"2249"	"kyrgyzstan"	2016	"TIMEPAD"	33
+"2250"	"kyrgyzstan"	2017	"BEHANCE"	36
+"2251"	"kyrgyzstan"	2017	"MEETUP"	1
+"2252"	"kyrgyzstan"	2017	"TED"	1
+"2253"	"kyrgyzstan"	2017	"TIMEPAD"	11
+"2254"	"kyrgyzstan"	2018	"BEHANCE"	47
+"2255"	"kyrgyzstan"	2018	"MEETUP"	12
+"2256"	"kyrgyzstan"	2018	"TIMEPAD"	22
+"2257"	"kyrgyzstan"	2019	"BEHANCE"	11
+"2258"	"kyrgyzstan"	2019	"MEETUP"	1
+"2259"	"kyrgyzstan"	2019	"TED"	2
+"2260"	"kyrgyzstan"	2019	"TIMEPAD"	4
+"2261"	"laos"	2014	"MEETUP"	5
+"2262"	"laos"	2016	"TED"	1
+"2263"	"laos"	2017	"MEETUP"	3
+"2264"	"laos"	2017	"TED"	1
+"2265"	"laos"	2018	"MEETUP"	1
+"2266"	"latvia"	2008	"BEHANCE"	16
+"2267"	"latvia"	2009	"BEHANCE"	61
+"2268"	"latvia"	2010	"BEHANCE"	64
+"2269"	"latvia"	2011	"BEHANCE"	58
+"2270"	"latvia"	2011	"TED"	2
+"2271"	"latvia"	2012	"BEHANCE"	118
+"2272"	"latvia"	2012	"TED"	12
+"2273"	"latvia"	2013	"ART_EDUCATION"	1
+"2274"	"latvia"	2013	"BEHANCE"	113
+"2275"	"latvia"	2013	"TED"	6
+"2276"	"latvia"	2014	"BEHANCE"	214
+"2277"	"latvia"	2014	"TED"	2
+"2278"	"latvia"	2015	"BEHANCE"	132
+"2279"	"latvia"	2015	"TED"	1
+"2280"	"latvia"	2016	"BEHANCE"	245
+"2281"	"latvia"	2016	"TED"	1
+"2282"	"latvia"	2016	"TIMEPAD"	13
+"2283"	"latvia"	2017	"BEHANCE"	290
+"2284"	"latvia"	2017	"EFLUX"	3
+"2285"	"latvia"	2017	"TED"	1
+"2286"	"latvia"	2017	"TIMEPAD"	15
+"2287"	"latvia"	2018	"BEHANCE"	258
+"2288"	"latvia"	2018	"EFLUX"	2
+"2289"	"latvia"	2018	"MEETUP"	2
+"2290"	"latvia"	2018	"TED"	1
+"2291"	"latvia"	2018	"TIMEPAD"	9
+"2292"	"latvia"	2019	"BEHANCE"	47
+"2293"	"latvia"	2019	"TIMEPAD"	1
+"2294"	"lebanon"	2005	"MEETUP"	1
+"2295"	"lebanon"	2006	"MEETUP"	12
+"2296"	"lebanon"	2007	"MEETUP"	12
+"2297"	"lebanon"	2008	"BEHANCE"	2
+"2298"	"lebanon"	2008	"MEETUP"	12
+"2299"	"lebanon"	2009	"BEHANCE"	14
+"2300"	"lebanon"	2009	"MEETUP"	12
+"2301"	"lebanon"	2009	"TED"	1
+"2302"	"lebanon"	2010	"BEHANCE"	42
+"2303"	"lebanon"	2010	"EFLUX"	3
+"2304"	"lebanon"	2010	"MEETUP"	13
+"2305"	"lebanon"	2010	"TED"	4
+"2306"	"lebanon"	2011	"ART_EDUCATION"	5
+"2307"	"lebanon"	2011	"BEHANCE"	59
+"2308"	"lebanon"	2011	"EFLUX"	3
+"2309"	"lebanon"	2011	"MEETUP"	4
+"2310"	"lebanon"	2011	"TED"	6
+"2311"	"lebanon"	2012	"BEHANCE"	169
+"2312"	"lebanon"	2012	"MEETUP"	29
+"2313"	"lebanon"	2012	"TED"	17
+"2314"	"lebanon"	2013	"BEHANCE"	249
+"2315"	"lebanon"	2013	"EFLUX"	4
+"2316"	"lebanon"	2013	"MEETUP"	11
+"2317"	"lebanon"	2013	"TED"	22
+"2318"	"lebanon"	2014	"BEHANCE"	216
+"2319"	"lebanon"	2014	"EFLUX"	4
+"2320"	"lebanon"	2014	"MEETUP"	12
+"2321"	"lebanon"	2014	"TED"	33
+"2322"	"lebanon"	2015	"ART_EDUCATION"	1
+"2323"	"lebanon"	2015	"BEHANCE"	115
+"2324"	"lebanon"	2015	"EFLUX"	1
+"2325"	"lebanon"	2015	"MEETUP"	62
+"2326"	"lebanon"	2015	"TED"	25
+"2327"	"lebanon"	2016	"BEHANCE"	166
+"2328"	"lebanon"	2016	"EFLUX"	5
+"2329"	"lebanon"	2016	"MEETUP"	183
+"2330"	"lebanon"	2016	"TED"	19
+"2331"	"lebanon"	2017	"ART_EDUCATION"	1
+"2332"	"lebanon"	2017	"BEHANCE"	128
+"2333"	"lebanon"	2017	"EFLUX"	1
+"2334"	"lebanon"	2017	"MEETUP"	299
+"2335"	"lebanon"	2017	"TED"	16
+"2336"	"lebanon"	2018	"BEHANCE"	146
+"2337"	"lebanon"	2018	"EFLUX"	9
+"2338"	"lebanon"	2018	"MEETUP"	265
+"2339"	"lebanon"	2018	"TED"	12
+"2340"	"lebanon"	2019	"BEHANCE"	25
+"2341"	"lebanon"	2019	"MEETUP"	43
+"2342"	"lebanon"	2019	"TED"	6
+"2343"	"lesotho"	2017	"TED"	2
+"2344"	"liberia"	2016	"TED"	1
+"2345"	"liberia"	2017	"TED"	1
+"2346"	"liberia"	2018	"TED"	2
+"2347"	"liberia"	2019	"TED"	1
+"2348"	"libya"	2011	"TED"	1
+"2349"	"libya"	2012	"TED"	1
+"2350"	"libya"	2014	"BEHANCE"	3
+"2351"	"libya"	2015	"BEHANCE"	1
+"2352"	"libya"	2016	"BEHANCE"	1
+"2353"	"libya"	2016	"TED"	2
+"2354"	"libya"	2017	"TED"	2
+"2355"	"libya"	2018	"BEHANCE"	1
+"2356"	"libya"	2018	"TED"	2
+"2357"	"liechtenstein"	2013	"TED"	1
+"2358"	"liechtenstein"	2014	"BEHANCE"	13
+"2359"	"liechtenstein"	2015	"BEHANCE"	21
+"2360"	"liechtenstein"	2016	"BEHANCE"	5
+"2361"	"liechtenstein"	2016	"MEETUP"	14
+"2362"	"liechtenstein"	2017	"BEHANCE"	6
+"2363"	"liechtenstein"	2017	"MEETUP"	39
+"2364"	"liechtenstein"	2018	"BEHANCE"	2
+"2365"	"liechtenstein"	2018	"MEETUP"	56
+"2366"	"liechtenstein"	2019	"BEHANCE"	1
+"2367"	"liechtenstein"	2019	"MEETUP"	3
+"2368"	"lithuania"	2008	"BEHANCE"	19
+"2369"	"lithuania"	2009	"BEHANCE"	68
+"2370"	"lithuania"	2009	"TED"	3
+"2371"	"lithuania"	2010	"BEHANCE"	95
+"2372"	"lithuania"	2010	"EFLUX"	1
+"2373"	"lithuania"	2010	"TED"	3
+"2374"	"lithuania"	2011	"ART_EDUCATION"	1
+"2375"	"lithuania"	2011	"BEHANCE"	109
+"2376"	"lithuania"	2011	"TED"	2
+"2377"	"lithuania"	2012	"ART_EDUCATION"	1
+"2378"	"lithuania"	2012	"BEHANCE"	229
+"2379"	"lithuania"	2012	"EFLUX"	1
+"2380"	"lithuania"	2012	"TED"	9
+"2381"	"lithuania"	2013	"ART_EDUCATION"	1
+"2382"	"lithuania"	2013	"BEHANCE"	546
+"2383"	"lithuania"	2013	"EFLUX"	2
+"2384"	"lithuania"	2013	"TED"	4
+"2385"	"lithuania"	2014	"ART_EDUCATION"	1
+"2386"	"lithuania"	2014	"BEHANCE"	647
+"2387"	"lithuania"	2014	"EFLUX"	1
+"2388"	"lithuania"	2014	"TED"	5
+"2389"	"lithuania"	2015	"ART_EDUCATION"	1
+"2390"	"lithuania"	2015	"BEHANCE"	514
+"2391"	"lithuania"	2015	"EFLUX"	3
+"2392"	"lithuania"	2015	"TED"	11
+"2393"	"lithuania"	2015	"TIMEPAD"	3
+"2394"	"lithuania"	2016	"BEHANCE"	670
+"2395"	"lithuania"	2016	"EFLUX"	3
+"2396"	"lithuania"	2016	"TED"	6
+"2397"	"lithuania"	2016	"TIMEPAD"	10
+"2398"	"lithuania"	2017	"ART_EDUCATION"	1
+"2399"	"lithuania"	2017	"BEHANCE"	619
+"2400"	"lithuania"	2017	"EFLUX"	5
+"2401"	"lithuania"	2017	"TED"	9
+"2402"	"lithuania"	2017	"TIMEPAD"	4
+"2403"	"lithuania"	2018	"BEHANCE"	697
+"2404"	"lithuania"	2018	"EFLUX"	3
+"2405"	"lithuania"	2018	"TED"	4
+"2406"	"lithuania"	2018	"TIMEPAD"	5
+"2407"	"lithuania"	2019	"BEHANCE"	111
+"2408"	"lithuania"	2019	"TED"	2
+"2409"	"lithuania"	2019	"TIMEPAD"	1
+"2410"	"luxembourg"	2008	"BEHANCE"	6
+"2411"	"luxembourg"	2009	"BEHANCE"	14
+"2412"	"luxembourg"	2010	"ART_EDUCATION"	4
+"2413"	"luxembourg"	2010	"BEHANCE"	21
+"2414"	"luxembourg"	2010	"EFLUX"	12
+"2415"	"luxembourg"	2011	"ART_EDUCATION"	3
+"2416"	"luxembourg"	2011	"BEHANCE"	25
+"2417"	"luxembourg"	2011	"EFLUX"	20
+"2418"	"luxembourg"	2011	"TED"	1
+"2419"	"luxembourg"	2012	"ART_EDUCATION"	1
+"2420"	"luxembourg"	2012	"BEHANCE"	47
+"2421"	"luxembourg"	2012	"EFLUX"	10
+"2422"	"luxembourg"	2012	"TED"	1
+"2423"	"luxembourg"	2013	"ART_EDUCATION"	9
+"2424"	"luxembourg"	2013	"BEHANCE"	95
+"2425"	"luxembourg"	2013	"EFLUX"	17
+"2426"	"luxembourg"	2013	"TED"	1
+"2427"	"luxembourg"	2014	"ART_EDUCATION"	12
+"2428"	"luxembourg"	2014	"BEHANCE"	68
+"2429"	"luxembourg"	2014	"EFLUX"	21
+"2430"	"luxembourg"	2014	"MEETUP"	1
+"2431"	"luxembourg"	2014	"TED"	1
+"2432"	"luxembourg"	2015	"ART_EDUCATION"	10
+"2433"	"luxembourg"	2015	"BEHANCE"	55
+"2434"	"luxembourg"	2015	"EFLUX"	19
+"2435"	"luxembourg"	2015	"TED"	1
+"2436"	"luxembourg"	2016	"ART_EDUCATION"	12
+"2437"	"luxembourg"	2016	"BEHANCE"	53
+"2438"	"luxembourg"	2016	"EFLUX"	11
+"2439"	"luxembourg"	2016	"TED"	1
+"2440"	"luxembourg"	2017	"ART_EDUCATION"	2
+"2441"	"luxembourg"	2017	"BEHANCE"	55
+"2442"	"luxembourg"	2017	"EFLUX"	13
+"2443"	"luxembourg"	2017	"MEETUP"	2
+"2444"	"luxembourg"	2018	"ART_EDUCATION"	4
+"2445"	"luxembourg"	2018	"BEHANCE"	47
+"2446"	"luxembourg"	2018	"EFLUX"	17
+"2447"	"luxembourg"	2018	"MEETUP"	4
+"2448"	"luxembourg"	2018	"TED"	2
+"2449"	"luxembourg"	2019	"BEHANCE"	6
+"2450"	"luxembourg"	2019	"MEETUP"	1
+"2451"	"luxembourg"	2019	"TED"	4
+"2452"	"madagascar"	2009	"TED"	1
+"2453"	"madagascar"	2010	"TED"	1
+"2454"	"madagascar"	2011	"TED"	3
+"2455"	"madagascar"	2012	"TED"	4
+"2456"	"madagascar"	2014	"TED"	1
+"2457"	"malawi"	2010	"BEHANCE"	1
+"2458"	"malawi"	2011	"BEHANCE"	3
+"2459"	"malawi"	2012	"BEHANCE"	6
+"2460"	"malawi"	2013	"BEHANCE"	1
+"2461"	"malawi"	2013	"TED"	5
+"2462"	"malawi"	2014	"BEHANCE"	1
+"2463"	"malawi"	2014	"TED"	3
+"2464"	"malawi"	2015	"BEHANCE"	3
+"2465"	"malawi"	2016	"TED"	3
+"2466"	"malawi"	2017	"TED"	2
+"2467"	"malawi"	2018	"BEHANCE"	1
+"2468"	"malaysia"	2007	"BEHANCE"	1
+"2469"	"malaysia"	2008	"BEHANCE"	12
+"2470"	"malaysia"	2009	"BEHANCE"	93
+"2471"	"malaysia"	2009	"MEETUP"	32
+"2472"	"malaysia"	2009	"TED"	2
+"2473"	"malaysia"	2010	"BEHANCE"	182
+"2474"	"malaysia"	2010	"MEETUP"	140
+"2475"	"malaysia"	2010	"TED"	5
+"2476"	"malaysia"	2011	"BEHANCE"	209
+"2477"	"malaysia"	2011	"MEETUP"	180
+"2478"	"malaysia"	2011	"TED"	10
+"2479"	"malaysia"	2012	"BEHANCE"	462
+"2480"	"malaysia"	2012	"EFLUX"	1
+"2481"	"malaysia"	2012	"MEETUP"	328
+"2482"	"malaysia"	2012	"TED"	7
+"2483"	"malaysia"	2013	"BEHANCE"	756
+"2484"	"malaysia"	2013	"MEETUP"	271
+"2485"	"malaysia"	2013	"TED"	11
+"2486"	"malaysia"	2014	"ART_EDUCATION"	1
+"2487"	"malaysia"	2014	"BEHANCE"	837
+"2488"	"malaysia"	2014	"EFLUX"	1
+"2489"	"malaysia"	2014	"MEETUP"	513
+"2490"	"malaysia"	2014	"TED"	10
+"2491"	"malaysia"	2015	"BEHANCE"	587
+"2492"	"malaysia"	2015	"MEETUP"	1009
+"2493"	"malaysia"	2015	"TED"	21
+"2494"	"malaysia"	2016	"BEHANCE"	649
+"2495"	"malaysia"	2016	"MEETUP"	1282
+"2496"	"malaysia"	2016	"TED"	25
+"2497"	"malaysia"	2017	"BEHANCE"	603
+"2498"	"malaysia"	2017	"MEETUP"	1296
+"2499"	"malaysia"	2017	"TED"	30
+"2500"	"malaysia"	2018	"BEHANCE"	516
+"2501"	"malaysia"	2018	"MEETUP"	1859
+"2502"	"malaysia"	2018	"TED"	43
+"2503"	"malaysia"	2019	"BEHANCE"	87
+"2504"	"malaysia"	2019	"MEETUP"	336
+"2505"	"malaysia"	2019	"TED"	15
+"2506"	"maldives"	2009	"BEHANCE"	2
+"2507"	"maldives"	2011	"BEHANCE"	4
+"2508"	"maldives"	2012	"BEHANCE"	9
+"2509"	"maldives"	2013	"BEHANCE"	1
+"2510"	"maldives"	2015	"BEHANCE"	3
+"2511"	"maldives"	2016	"BEHANCE"	8
+"2512"	"maldives"	2016	"TED"	1
+"2513"	"maldives"	2017	"BEHANCE"	3
+"2514"	"maldives"	2017	"MEETUP"	2
+"2515"	"maldives"	2018	"BEHANCE"	4
+"2516"	"maldives"	2019	"BEHANCE"	1
+"2517"	"mali"	2015	"EFLUX"	4
+"2518"	"mali"	2017	"EFLUX"	2
+"2519"	"mali"	2017	"MEETUP"	7
+"2520"	"mali"	2017	"TED"	1
+"2521"	"mali"	2018	"MEETUP"	9
+"2522"	"mali"	2019	"MEETUP"	2
+"2523"	"mali"	2019	"TED"	1
+"2524"	"malta"	2009	"BEHANCE"	2
+"2525"	"malta"	2010	"BEHANCE"	22
+"2526"	"malta"	2010	"MEETUP"	1
+"2527"	"malta"	2011	"BEHANCE"	55
+"2528"	"malta"	2011	"TED"	2
+"2529"	"malta"	2012	"BEHANCE"	91
+"2530"	"malta"	2013	"BEHANCE"	122
+"2531"	"malta"	2013	"EFLUX"	1
+"2532"	"malta"	2014	"BEHANCE"	113
+"2533"	"malta"	2015	"BEHANCE"	165
+"2534"	"malta"	2016	"BEHANCE"	100
+"2535"	"malta"	2016	"TED"	3
+"2536"	"malta"	2017	"BEHANCE"	81
+"2537"	"malta"	2017	"MEETUP"	1
+"2538"	"malta"	2017	"TED"	2
+"2539"	"malta"	2018	"BEHANCE"	71
+"2540"	"malta"	2018	"MEETUP"	6
+"2541"	"malta"	2018	"TED"	2
+"2542"	"malta"	2019	"BEHANCE"	30
+"2543"	"mauritania"	2013	"TED"	1
+"2544"	"mauritania"	2015	"TED"	1
+"2545"	"mauritius"	2008	"BEHANCE"	3
+"2546"	"mauritius"	2009	"BEHANCE"	10
+"2547"	"mauritius"	2010	"BEHANCE"	6
+"2548"	"mauritius"	2012	"BEHANCE"	6
+"2549"	"mauritius"	2013	"BEHANCE"	4
+"2550"	"mauritius"	2013	"MEETUP"	17
+"2551"	"mauritius"	2013	"TED"	1
+"2552"	"mauritius"	2014	"MEETUP"	8
+"2553"	"mauritius"	2014	"TED"	1
+"2554"	"mauritius"	2015	"MEETUP"	35
+"2555"	"mauritius"	2016	"MEETUP"	30
+"2556"	"mauritius"	2016	"TED"	2
+"2557"	"mauritius"	2017	"BEHANCE"	1
+"2558"	"mauritius"	2017	"MEETUP"	46
+"2559"	"mauritius"	2017	"TED"	3
+"2560"	"mauritius"	2018	"MEETUP"	16
+"2561"	"mauritius"	2018	"TED"	2
+"2562"	"mauritius"	2019	"MEETUP"	5
+"2563"	"mauritius"	2019	"TED"	3
+"2564"	"mexico"	2007	"MEETUP"	5
+"2565"	"mexico"	2008	"BEHANCE"	132
+"2566"	"mexico"	2008	"MEETUP"	4
+"2567"	"mexico"	2009	"BEHANCE"	376
+"2568"	"mexico"	2009	"MEETUP"	3
+"2569"	"mexico"	2009	"TED"	1
+"2570"	"mexico"	2010	"ART_EDUCATION"	1
+"2571"	"mexico"	2010	"BEHANCE"	775
+"2572"	"mexico"	2010	"EFLUX"	10
+"2573"	"mexico"	2010	"MEETUP"	8
+"2574"	"mexico"	2010	"TED"	9
+"2575"	"mexico"	2011	"ART_EDUCATION"	5
+"2576"	"mexico"	2011	"BEHANCE"	1064
+"2577"	"mexico"	2011	"EFLUX"	11
+"2578"	"mexico"	2011	"MEETUP"	48
+"2579"	"mexico"	2011	"TED"	19
+"2580"	"mexico"	2012	"ART_EDUCATION"	2
+"2581"	"mexico"	2012	"BEHANCE"	1973
+"2582"	"mexico"	2012	"EFLUX"	11
+"2583"	"mexico"	2012	"MEETUP"	88
+"2584"	"mexico"	2012	"TED"	33
+"2585"	"mexico"	2013	"ART_EDUCATION"	4
+"2586"	"mexico"	2013	"BEHANCE"	3515
+"2587"	"mexico"	2013	"EFLUX"	11
+"2588"	"mexico"	2013	"MEETUP"	108
+"2589"	"mexico"	2013	"TED"	20
+"2590"	"mexico"	2014	"ART_EDUCATION"	6
+"2591"	"mexico"	2014	"BEHANCE"	3838
+"2592"	"mexico"	2014	"EFLUX"	16
+"2593"	"mexico"	2014	"MEETUP"	376
+"2594"	"mexico"	2014	"TED"	25
+"2595"	"mexico"	2015	"ART_EDUCATION"	8
+"2596"	"mexico"	2015	"BEHANCE"	2729
+"2597"	"mexico"	2015	"EFLUX"	8
+"2598"	"mexico"	2015	"MEETUP"	1041
+"2599"	"mexico"	2015	"TED"	36
+"2600"	"mexico"	2016	"ART_EDUCATION"	7
+"2601"	"mexico"	2016	"BEHANCE"	2918
+"2602"	"mexico"	2016	"EFLUX"	15
+"2603"	"mexico"	2016	"MEETUP"	1671
+"2604"	"mexico"	2016	"TED"	55
+"2605"	"mexico"	2017	"ART_EDUCATION"	6
+"2606"	"mexico"	2017	"BEHANCE"	2541
+"2607"	"mexico"	2017	"EFLUX"	6
+"2608"	"mexico"	2017	"MEETUP"	1856
+"2609"	"mexico"	2017	"TED"	57
+"2610"	"mexico"	2018	"ART_EDUCATION"	5
+"2611"	"mexico"	2018	"BEHANCE"	2264
+"2612"	"mexico"	2018	"EFLUX"	9
+"2613"	"mexico"	2018	"MEETUP"	2288
+"2614"	"mexico"	2018	"TED"	66
+"2615"	"mexico"	2018	"TIMEPAD"	3
+"2616"	"mexico"	2019	"BEHANCE"	405
+"2617"	"mexico"	2019	"MEETUP"	555
+"2618"	"mexico"	2019	"TED"	33
+"2619"	"mexico"	2019	"TIMEPAD"	3
+"2620"	"moldova"	2008	"BEHANCE"	6
+"2621"	"moldova"	2009	"BEHANCE"	12
+"2622"	"moldova"	2010	"BEHANCE"	7
+"2623"	"moldova"	2011	"BEHANCE"	23
+"2624"	"moldova"	2011	"TED"	2
+"2625"	"moldova"	2012	"BEHANCE"	60
+"2626"	"moldova"	2012	"TED"	5
+"2627"	"moldova"	2012	"TIMEPAD"	1
+"2628"	"moldova"	2013	"BEHANCE"	83
+"2629"	"moldova"	2013	"TED"	3
+"2630"	"moldova"	2014	"BEHANCE"	117
+"2631"	"moldova"	2014	"TIMEPAD"	1
+"2632"	"moldova"	2015	"BEHANCE"	53
+"2633"	"moldova"	2015	"TIMEPAD"	3
+"2634"	"moldova"	2016	"BEHANCE"	78
+"2635"	"moldova"	2016	"TED"	2
+"2636"	"moldova"	2016	"TIMEPAD"	4
+"2637"	"moldova"	2017	"BEHANCE"	136
+"2638"	"moldova"	2017	"TIMEPAD"	2
+"2639"	"moldova"	2018	"BEHANCE"	123
+"2640"	"moldova"	2018	"TIMEPAD"	21
+"2641"	"moldova"	2019	"BEHANCE"	26
+"2642"	"moldova"	2019	"MEETUP"	1
+"2643"	"moldova"	2019	"TIMEPAD"	2
+"2644"	"monaco"	2010	"ART_EDUCATION"	2
+"2645"	"monaco"	2010	"EFLUX"	3
+"2646"	"monaco"	2010	"MEETUP"	2
+"2647"	"monaco"	2011	"BEHANCE"	4
+"2648"	"monaco"	2011	"EFLUX"	3
+"2649"	"monaco"	2012	"ART_EDUCATION"	1
+"2650"	"monaco"	2012	"BEHANCE"	1
+"2651"	"monaco"	2012	"EFLUX"	7
+"2652"	"monaco"	2012	"TED"	1
+"2653"	"monaco"	2013	"EFLUX"	3
+"2654"	"monaco"	2013	"MEETUP"	3
+"2655"	"monaco"	2013	"TED"	1
+"2656"	"monaco"	2014	"ART_EDUCATION"	1
+"2657"	"monaco"	2014	"EFLUX"	3
+"2658"	"monaco"	2014	"MEETUP"	4
+"2659"	"monaco"	2014	"TED"	1
+"2660"	"monaco"	2015	"BEHANCE"	23
+"2661"	"monaco"	2015	"EFLUX"	5
+"2662"	"monaco"	2015	"MEETUP"	12
+"2663"	"monaco"	2015	"TED"	1
+"2664"	"monaco"	2016	"BEHANCE"	1
+"2665"	"monaco"	2016	"EFLUX"	3
+"2666"	"monaco"	2016	"MEETUP"	10
+"2667"	"monaco"	2016	"TED"	1
+"2668"	"monaco"	2017	"BEHANCE"	3
+"2669"	"monaco"	2017	"EFLUX"	4
+"2670"	"monaco"	2017	"MEETUP"	13
+"2671"	"monaco"	2017	"TED"	1
+"2672"	"monaco"	2018	"BEHANCE"	1
+"2673"	"monaco"	2018	"EFLUX"	3
+"2674"	"monaco"	2018	"MEETUP"	19
+"2675"	"monaco"	2018	"TED"	1
+"2676"	"monaco"	2019	"MEETUP"	3
+"2677"	"monaco"	2019	"TED"	1
+"2678"	"mongolia"	2008	"BEHANCE"	2
+"2679"	"mongolia"	2009	"BEHANCE"	1
+"2680"	"mongolia"	2010	"BEHANCE"	35
+"2681"	"mongolia"	2011	"BEHANCE"	30
+"2682"	"mongolia"	2011	"TED"	1
+"2683"	"mongolia"	2012	"BEHANCE"	34
+"2684"	"mongolia"	2012	"TED"	4
+"2685"	"mongolia"	2013	"BEHANCE"	34
+"2686"	"mongolia"	2013	"TED"	3
+"2687"	"mongolia"	2014	"BEHANCE"	33
+"2688"	"mongolia"	2014	"TED"	5
+"2689"	"mongolia"	2015	"BEHANCE"	27
+"2690"	"mongolia"	2015	"TED"	7
+"2691"	"mongolia"	2016	"BEHANCE"	69
+"2692"	"mongolia"	2016	"TED"	8
+"2693"	"mongolia"	2017	"BEHANCE"	39
+"2694"	"mongolia"	2017	"MEETUP"	4
+"2695"	"mongolia"	2017	"TED"	9
+"2696"	"mongolia"	2018	"BEHANCE"	35
+"2697"	"mongolia"	2018	"TED"	10
+"2698"	"mongolia"	2019	"BEHANCE"	3
+"2699"	"mongolia"	2019	"TED"	1
+"2700"	"montenegro"	2010	"BEHANCE"	3
+"2701"	"montenegro"	2012	"BEHANCE"	2
+"2702"	"montenegro"	2012	"TED"	1
+"2703"	"montenegro"	2013	"BEHANCE"	15
+"2704"	"montenegro"	2013	"TED"	3
+"2705"	"montenegro"	2014	"BEHANCE"	44
+"2706"	"montenegro"	2014	"TED"	1
+"2707"	"montenegro"	2015	"BEHANCE"	10
+"2708"	"montenegro"	2015	"MEETUP"	1
+"2709"	"montenegro"	2015	"TED"	1
+"2710"	"montenegro"	2016	"BEHANCE"	28
+"2711"	"montenegro"	2017	"BEHANCE"	10
+"2712"	"montenegro"	2017	"TIMEPAD"	19
+"2713"	"montenegro"	2018	"BEHANCE"	13
+"2714"	"montenegro"	2018	"TED"	1
+"2715"	"montenegro"	2018	"TIMEPAD"	2
+"2716"	"montenegro"	2019	"BEHANCE"	7
+"2717"	"montenegro"	2019	"TIMEPAD"	1
+"2718"	"morocco"	2007	"BEHANCE"	1
+"2719"	"morocco"	2010	"BEHANCE"	3
+"2720"	"morocco"	2010	"MEETUP"	1
+"2721"	"morocco"	2010	"TED"	3
+"2722"	"morocco"	2011	"TED"	7
+"2723"	"morocco"	2012	"BEHANCE"	48
+"2724"	"morocco"	2012	"MEETUP"	1
+"2725"	"morocco"	2012	"TED"	32
+"2726"	"morocco"	2013	"BEHANCE"	112
+"2727"	"morocco"	2013	"EFLUX"	1
+"2728"	"morocco"	2013	"MEETUP"	2
+"2729"	"morocco"	2013	"TED"	33
+"2730"	"morocco"	2014	"BEHANCE"	114
+"2731"	"morocco"	2014	"MEETUP"	22
+"2732"	"morocco"	2014	"TED"	8
+"2733"	"morocco"	2015	"BEHANCE"	75
+"2734"	"morocco"	2015	"EFLUX"	1
+"2735"	"morocco"	2015	"MEETUP"	33
+"2736"	"morocco"	2015	"TED"	10
+"2737"	"morocco"	2016	"BEHANCE"	99
+"2738"	"morocco"	2016	"EFLUX"	1
+"2739"	"morocco"	2016	"MEETUP"	43
+"2740"	"morocco"	2016	"TED"	11
+"2741"	"morocco"	2017	"BEHANCE"	87
+"2742"	"morocco"	2017	"MEETUP"	88
+"2743"	"morocco"	2017	"TED"	12
+"2744"	"morocco"	2018	"BEHANCE"	53
+"2745"	"morocco"	2018	"MEETUP"	146
+"2746"	"morocco"	2018	"TED"	14
+"2747"	"morocco"	2019	"BEHANCE"	12
+"2748"	"morocco"	2019	"MEETUP"	42
+"2749"	"morocco"	2019	"TED"	8
+"2750"	"mozambique"	2010	"BEHANCE"	6
+"2751"	"mozambique"	2011	"BEHANCE"	26
+"2752"	"mozambique"	2012	"BEHANCE"	26
+"2753"	"mozambique"	2012	"TED"	1
+"2754"	"mozambique"	2013	"BEHANCE"	23
+"2755"	"mozambique"	2013	"TED"	1
+"2756"	"mozambique"	2014	"BEHANCE"	28
+"2757"	"mozambique"	2014	"TED"	1
+"2758"	"mozambique"	2015	"BEHANCE"	13
+"2759"	"mozambique"	2016	"BEHANCE"	21
+"2760"	"mozambique"	2017	"BEHANCE"	5
+"2761"	"mozambique"	2017	"TED"	4
+"2762"	"mozambique"	2018	"BEHANCE"	15
+"2763"	"mozambique"	2018	"TED"	5
+"2764"	"mozambique"	2019	"TED"	1
+"2765"	"myanmar (burma)"	2010	"TED"	1
+"2766"	"myanmar (burma)"	2012	"BEHANCE"	5
+"2767"	"myanmar (burma)"	2012	"TED"	2
+"2768"	"myanmar (burma)"	2013	"BEHANCE"	23
+"2769"	"myanmar (burma)"	2013	"MEETUP"	1
+"2770"	"myanmar (burma)"	2013	"TED"	1
+"2771"	"myanmar (burma)"	2014	"BEHANCE"	16
+"2772"	"myanmar (burma)"	2014	"MEETUP"	10
+"2773"	"myanmar (burma)"	2015	"BEHANCE"	22
+"2774"	"myanmar (burma)"	2016	"BEHANCE"	12
+"2775"	"myanmar (burma)"	2016	"MEETUP"	8
+"2776"	"myanmar (burma)"	2016	"TED"	1
+"2777"	"myanmar (burma)"	2017	"BEHANCE"	5
+"2778"	"myanmar (burma)"	2017	"MEETUP"	1
+"2779"	"myanmar (burma)"	2017	"TED"	2
+"2780"	"myanmar (burma)"	2018	"BEHANCE"	11
+"2781"	"myanmar (burma)"	2018	"TED"	1
+"2782"	"myanmar (burma)"	2019	"BEHANCE"	1
+"2783"	"namibia"	2009	"BEHANCE"	2
+"2784"	"namibia"	2012	"BEHANCE"	2
+"2785"	"namibia"	2014	"BEHANCE"	1
+"2786"	"namibia"	2014	"TED"	1
+"2787"	"namibia"	2015	"BEHANCE"	2
+"2788"	"namibia"	2015	"EFLUX"	2
+"2789"	"namibia"	2015	"TED"	3
+"2790"	"namibia"	2016	"BEHANCE"	7
+"2791"	"namibia"	2016	"TED"	1
+"2792"	"namibia"	2017	"BEHANCE"	10
+"2793"	"namibia"	2017	"TED"	2
+"2794"	"namibia"	2018	"BEHANCE"	26
+"2795"	"namibia"	2018	"TED"	1
+"2796"	"namibia"	2019	"TED"	1
+"2797"	"nepal"	2008	"MEETUP"	2
+"2798"	"nepal"	2009	"MEETUP"	1
+"2799"	"nepal"	2010	"MEETUP"	1
+"2800"	"nepal"	2010	"TED"	1
+"2801"	"nepal"	2011	"BEHANCE"	21
+"2802"	"nepal"	2011	"MEETUP"	2
+"2803"	"nepal"	2011	"TED"	1
+"2804"	"nepal"	2012	"BEHANCE"	36
+"2805"	"nepal"	2012	"MEETUP"	6
+"2806"	"nepal"	2012	"TED"	2
+"2807"	"nepal"	2013	"BEHANCE"	52
+"2808"	"nepal"	2013	"MEETUP"	7
+"2809"	"nepal"	2013	"TED"	1
+"2810"	"nepal"	2014	"BEHANCE"	27
+"2811"	"nepal"	2014	"MEETUP"	20
+"2812"	"nepal"	2014	"TED"	1
+"2813"	"nepal"	2015	"BEHANCE"	37
+"2814"	"nepal"	2015	"MEETUP"	33
+"2815"	"nepal"	2015	"TED"	4
+"2816"	"nepal"	2016	"BEHANCE"	14
+"2817"	"nepal"	2016	"EFLUX"	1
+"2818"	"nepal"	2016	"MEETUP"	32
+"2819"	"nepal"	2016	"TED"	6
+"2820"	"nepal"	2017	"BEHANCE"	8
+"2821"	"nepal"	2017	"EFLUX"	1
+"2822"	"nepal"	2017	"MEETUP"	62
+"2823"	"nepal"	2018	"BEHANCE"	55
+"2824"	"nepal"	2018	"MEETUP"	67
+"2825"	"nepal"	2018	"TED"	6
+"2826"	"nepal"	2019	"BEHANCE"	9
+"2827"	"nepal"	2019	"MEETUP"	10
+"2828"	"nepal"	2019	"TED"	3
+"2829"	"netherlands"	2007	"BEHANCE"	18
+"2830"	"netherlands"	2007	"MEETUP"	38
+"2831"	"netherlands"	2008	"BEHANCE"	185
+"2832"	"netherlands"	2008	"MEETUP"	188
+"2833"	"netherlands"	2009	"BEHANCE"	588
+"2834"	"netherlands"	2009	"MEETUP"	310
+"2835"	"netherlands"	2009	"TED"	5
+"2836"	"netherlands"	2010	"ART_EDUCATION"	4
+"2837"	"netherlands"	2010	"BEHANCE"	1373
+"2838"	"netherlands"	2010	"EFLUX"	24
+"2839"	"netherlands"	2010	"MEETUP"	364
+"2840"	"netherlands"	2010	"TED"	11
+"2841"	"netherlands"	2011	"ART_EDUCATION"	16
+"2842"	"netherlands"	2011	"BEHANCE"	1952
+"2843"	"netherlands"	2011	"EFLUX"	30
+"2844"	"netherlands"	2011	"MEETUP"	542
+"2845"	"netherlands"	2011	"TED"	20
+"2846"	"netherlands"	2012	"ART_EDUCATION"	12
+"2847"	"netherlands"	2012	"BEHANCE"	2803
+"2848"	"netherlands"	2012	"EFLUX"	19
+"2849"	"netherlands"	2012	"MEETUP"	1019
+"2850"	"netherlands"	2012	"TED"	48
+"2851"	"netherlands"	2013	"ART_EDUCATION"	8
+"2852"	"netherlands"	2013	"BEHANCE"	3383
+"2853"	"netherlands"	2013	"EFLUX"	24
+"2854"	"netherlands"	2013	"MEETUP"	1226
+"2855"	"netherlands"	2013	"TED"	64
+"2856"	"netherlands"	2014	"ART_EDUCATION"	6
+"2857"	"netherlands"	2014	"BEHANCE"	3611
+"2858"	"netherlands"	2014	"EFLUX"	27
+"2859"	"netherlands"	2014	"MEETUP"	2018
+"2860"	"netherlands"	2014	"TED"	51
+"2861"	"netherlands"	2014	"TIMEPAD"	1
+"2862"	"netherlands"	2015	"ART_EDUCATION"	9
+"2863"	"netherlands"	2015	"BEHANCE"	2730
+"2864"	"netherlands"	2015	"EFLUX"	28
+"2865"	"netherlands"	2015	"MEETUP"	3325
+"2866"	"netherlands"	2015	"TED"	74
+"2867"	"netherlands"	2015	"TIMEPAD"	3
+"2868"	"netherlands"	2016	"ART_EDUCATION"	3
+"2869"	"netherlands"	2016	"BEHANCE"	2577
+"2870"	"netherlands"	2016	"EFLUX"	30
+"2871"	"netherlands"	2016	"MEETUP"	4885
+"2872"	"netherlands"	2016	"TED"	79
+"2873"	"netherlands"	2016	"TIMEPAD"	1
+"2874"	"netherlands"	2017	"ART_EDUCATION"	6
+"2875"	"netherlands"	2017	"BEHANCE"	2435
+"2876"	"netherlands"	2017	"EFLUX"	14
+"2877"	"netherlands"	2017	"MEETUP"	6560
+"2878"	"netherlands"	2017	"TED"	53
+"2879"	"netherlands"	2017	"TIMEPAD"	2
+"2880"	"netherlands"	2018	"ART_EDUCATION"	12
+"2881"	"netherlands"	2018	"BEHANCE"	2162
+"2882"	"netherlands"	2018	"EFLUX"	23
+"2883"	"netherlands"	2018	"MEETUP"	8954
+"2884"	"netherlands"	2018	"TED"	44
+"2885"	"netherlands"	2018	"TIMEPAD"	7
+"2886"	"netherlands"	2019	"BEHANCE"	471
+"2887"	"netherlands"	2019	"MEETUP"	1222
+"2888"	"netherlands"	2019	"TED"	23
+"2889"	"netherlands"	2019	"TIMEPAD"	1
+"2890"	"new zealand"	2007	"BEHANCE"	2
+"2891"	"new zealand"	2008	"BEHANCE"	10
+"2892"	"new zealand"	2009	"BEHANCE"	73
+"2893"	"new zealand"	2009	"MEETUP"	1
+"2894"	"new zealand"	2009	"TED"	3
+"2895"	"new zealand"	2010	"ART_EDUCATION"	3
+"2896"	"new zealand"	2010	"BEHANCE"	131
+"2897"	"new zealand"	2010	"EFLUX"	2
+"2898"	"new zealand"	2010	"TED"	3
+"2899"	"new zealand"	2011	"ART_EDUCATION"	1
+"2900"	"new zealand"	2011	"BEHANCE"	313
+"2901"	"new zealand"	2011	"EFLUX"	1
+"2902"	"new zealand"	2011	"TED"	2
+"2903"	"new zealand"	2012	"ART_EDUCATION"	3
+"2904"	"new zealand"	2012	"BEHANCE"	603
+"2905"	"new zealand"	2012	"EFLUX"	3
+"2906"	"new zealand"	2012	"MEETUP"	4
+"2907"	"new zealand"	2012	"TED"	8
+"2908"	"new zealand"	2013	"BEHANCE"	968
+"2909"	"new zealand"	2013	"EFLUX"	3
+"2910"	"new zealand"	2013	"MEETUP"	7
+"2911"	"new zealand"	2013	"TED"	13
+"2912"	"new zealand"	2014	"ART_EDUCATION"	7
+"2913"	"new zealand"	2014	"BEHANCE"	976
+"2914"	"new zealand"	2014	"EFLUX"	6
+"2915"	"new zealand"	2014	"MEETUP"	9
+"2916"	"new zealand"	2014	"TED"	9
+"2917"	"new zealand"	2015	"ART_EDUCATION"	5
+"2918"	"new zealand"	2015	"BEHANCE"	608
+"2919"	"new zealand"	2015	"EFLUX"	3
+"2920"	"new zealand"	2015	"MEETUP"	125
+"2921"	"new zealand"	2015	"TED"	14
+"2922"	"new zealand"	2016	"ART_EDUCATION"	1
+"2923"	"new zealand"	2016	"BEHANCE"	575
+"2924"	"new zealand"	2016	"EFLUX"	4
+"2925"	"new zealand"	2016	"MEETUP"	208
+"2926"	"new zealand"	2016	"TED"	14
+"2927"	"new zealand"	2017	"ART_EDUCATION"	1
+"2928"	"new zealand"	2017	"BEHANCE"	521
+"2929"	"new zealand"	2017	"EFLUX"	3
+"2930"	"new zealand"	2017	"MEETUP"	121
+"2931"	"new zealand"	2017	"TED"	14
+"2932"	"new zealand"	2018	"BEHANCE"	496
+"2933"	"new zealand"	2018	"EFLUX"	3
+"2934"	"new zealand"	2018	"MEETUP"	97
+"2935"	"new zealand"	2018	"TED"	15
+"2936"	"new zealand"	2019	"BEHANCE"	101
+"2937"	"new zealand"	2019	"MEETUP"	8
+"2938"	"new zealand"	2019	"TED"	7
+"2939"	"nicaragua"	2009	"BEHANCE"	3
+"2940"	"nicaragua"	2010	"BEHANCE"	2
+"2941"	"nicaragua"	2011	"BEHANCE"	11
+"2942"	"nicaragua"	2012	"BEHANCE"	34
+"2943"	"nicaragua"	2012	"TED"	1
+"2944"	"nicaragua"	2013	"BEHANCE"	45
+"2945"	"nicaragua"	2013	"TED"	1
+"2946"	"nicaragua"	2014	"BEHANCE"	40
+"2947"	"nicaragua"	2014	"TED"	1
+"2948"	"nicaragua"	2015	"BEHANCE"	17
+"2949"	"nicaragua"	2015	"TED"	1
+"2950"	"nicaragua"	2016	"BEHANCE"	16
+"2951"	"nicaragua"	2016	"MEETUP"	14
+"2952"	"nicaragua"	2016	"TED"	3
+"2953"	"nicaragua"	2017	"BEHANCE"	38
+"2954"	"nicaragua"	2017	"MEETUP"	31
+"2955"	"nicaragua"	2017	"TED"	2
+"2956"	"nicaragua"	2018	"BEHANCE"	23
+"2957"	"nicaragua"	2018	"MEETUP"	31
+"2958"	"nicaragua"	2018	"TED"	1
+"2959"	"nicaragua"	2019	"MEETUP"	8
+"2960"	"nicaragua"	2019	"TED"	1
+"2961"	"nigeria"	2007	"MEETUP"	13
+"2962"	"nigeria"	2008	"MEETUP"	12
+"2963"	"nigeria"	2009	"BEHANCE"	5
+"2964"	"nigeria"	2009	"MEETUP"	12
+"2965"	"nigeria"	2010	"BEHANCE"	17
+"2966"	"nigeria"	2010	"EFLUX"	2
+"2967"	"nigeria"	2010	"MEETUP"	12
+"2968"	"nigeria"	2010	"TED"	6
+"2969"	"nigeria"	2011	"ART_EDUCATION"	1
+"2970"	"nigeria"	2011	"BEHANCE"	14
+"2971"	"nigeria"	2011	"EFLUX"	1
+"2972"	"nigeria"	2011	"MEETUP"	6
+"2973"	"nigeria"	2011	"TED"	4
+"2974"	"nigeria"	2012	"ART_EDUCATION"	1
+"2975"	"nigeria"	2012	"BEHANCE"	23
+"2976"	"nigeria"	2012	"EFLUX"	8
+"2977"	"nigeria"	2012	"MEETUP"	11
+"2978"	"nigeria"	2012	"TED"	13
+"2979"	"nigeria"	2013	"BEHANCE"	47
+"2980"	"nigeria"	2013	"EFLUX"	8
+"2981"	"nigeria"	2013	"MEETUP"	3
+"2982"	"nigeria"	2013	"TED"	17
+"2983"	"nigeria"	2014	"ART_EDUCATION"	1
+"2984"	"nigeria"	2014	"BEHANCE"	43
+"2985"	"nigeria"	2014	"EFLUX"	9
+"2986"	"nigeria"	2014	"MEETUP"	7
+"2987"	"nigeria"	2014	"TED"	12
+"2988"	"nigeria"	2015	"ART_EDUCATION"	1
+"2989"	"nigeria"	2015	"BEHANCE"	14
+"2990"	"nigeria"	2015	"EFLUX"	3
+"2991"	"nigeria"	2015	"MEETUP"	47
+"2992"	"nigeria"	2015	"TED"	15
+"2993"	"nigeria"	2016	"BEHANCE"	11
+"2994"	"nigeria"	2016	"EFLUX"	4
+"2995"	"nigeria"	2016	"MEETUP"	215
+"2996"	"nigeria"	2016	"TED"	17
+"2997"	"nigeria"	2017	"BEHANCE"	31
+"2998"	"nigeria"	2017	"EFLUX"	5
+"2999"	"nigeria"	2017	"MEETUP"	324
+"3000"	"nigeria"	2017	"TED"	30
+"3001"	"nigeria"	2018	"BEHANCE"	61
+"3002"	"nigeria"	2018	"EFLUX"	3
+"3003"	"nigeria"	2018	"MEETUP"	485
+"3004"	"nigeria"	2018	"TED"	42
+"3005"	"nigeria"	2019	"BEHANCE"	8
+"3006"	"nigeria"	2019	"MEETUP"	72
+"3007"	"nigeria"	2019	"TED"	16
+"3008"	"north korea"	2013	"BEHANCE"	11
+"3009"	"north korea"	2014	"BEHANCE"	15
+"3010"	"north korea"	2015	"BEHANCE"	11
+"3011"	"north korea"	2016	"BEHANCE"	7
+"3012"	"north korea"	2017	"BEHANCE"	4
+"3013"	"north macedonia"	2008	"BEHANCE"	7
+"3014"	"north macedonia"	2009	"BEHANCE"	27
+"3015"	"north macedonia"	2010	"BEHANCE"	16
+"3016"	"north macedonia"	2010	"TED"	1
+"3017"	"north macedonia"	2011	"BEHANCE"	25
+"3018"	"north macedonia"	2012	"BEHANCE"	41
+"3019"	"north macedonia"	2013	"BEHANCE"	78
+"3020"	"north macedonia"	2014	"BEHANCE"	96
+"3021"	"north macedonia"	2015	"BEHANCE"	114
+"3022"	"north macedonia"	2015	"MEETUP"	1
+"3023"	"north macedonia"	2015	"TED"	7
+"3024"	"north macedonia"	2016	"BEHANCE"	74
+"3025"	"north macedonia"	2016	"TED"	7
+"3026"	"north macedonia"	2016	"TIMEPAD"	3
+"3027"	"north macedonia"	2017	"BEHANCE"	106
+"3028"	"north macedonia"	2017	"TED"	8
+"3029"	"north macedonia"	2018	"BEHANCE"	72
+"3030"	"north macedonia"	2018	"TED"	3
+"3031"	"north macedonia"	2018	"TIMEPAD"	2
+"3032"	"north macedonia"	2019	"BEHANCE"	32
+"3033"	"norway"	2007	"BEHANCE"	9
+"3034"	"norway"	2008	"BEHANCE"	107
+"3035"	"norway"	2009	"BEHANCE"	327
+"3036"	"norway"	2010	"ART_EDUCATION"	8
+"3037"	"norway"	2010	"BEHANCE"	474
+"3038"	"norway"	2010	"EFLUX"	3
+"3039"	"norway"	2010	"TED"	2
+"3040"	"norway"	2011	"ART_EDUCATION"	5
+"3041"	"norway"	2011	"BEHANCE"	526
+"3042"	"norway"	2011	"EFLUX"	7
+"3043"	"norway"	2011	"MEETUP"	13
+"3044"	"norway"	2011	"TED"	11
+"3045"	"norway"	2012	"ART_EDUCATION"	2
+"3046"	"norway"	2012	"BEHANCE"	865
+"3047"	"norway"	2012	"EFLUX"	5
+"3048"	"norway"	2012	"MEETUP"	19
+"3049"	"norway"	2012	"TED"	15
+"3050"	"norway"	2013	"ART_EDUCATION"	3
+"3051"	"norway"	2013	"BEHANCE"	1200
+"3052"	"norway"	2013	"EFLUX"	8
+"3053"	"norway"	2013	"MEETUP"	45
+"3054"	"norway"	2013	"TED"	18
+"3055"	"norway"	2014	"ART_EDUCATION"	2
+"3056"	"norway"	2014	"BEHANCE"	1309
+"3057"	"norway"	2014	"EFLUX"	17
+"3058"	"norway"	2014	"MEETUP"	76
+"3059"	"norway"	2014	"TED"	10
+"3060"	"norway"	2015	"ART_EDUCATION"	4
+"3061"	"norway"	2015	"BEHANCE"	895
+"3062"	"norway"	2015	"EFLUX"	19
+"3063"	"norway"	2015	"MEETUP"	189
+"3064"	"norway"	2015	"TED"	8
+"3065"	"norway"	2016	"ART_EDUCATION"	4
+"3066"	"norway"	2016	"BEHANCE"	782
+"3067"	"norway"	2016	"EFLUX"	7
+"3068"	"norway"	2016	"MEETUP"	83
+"3069"	"norway"	2016	"TED"	8
+"3070"	"norway"	2017	"ART_EDUCATION"	4
+"3071"	"norway"	2017	"BEHANCE"	596
+"3072"	"norway"	2017	"EFLUX"	16
+"3073"	"norway"	2017	"MEETUP"	74
+"3074"	"norway"	2017	"TED"	14
+"3075"	"norway"	2018	"BEHANCE"	664
+"3076"	"norway"	2018	"EFLUX"	15
+"3077"	"norway"	2018	"MEETUP"	80
+"3078"	"norway"	2018	"TED"	10
+"3079"	"norway"	2018	"TIMEPAD"	1
+"3080"	"norway"	2019	"BEHANCE"	132
+"3081"	"norway"	2019	"MEETUP"	13
+"3082"	"norway"	2019	"TED"	4
+"3083"	"oman"	2011	"BEHANCE"	13
+"3084"	"oman"	2011	"TED"	1
+"3085"	"oman"	2012	"BEHANCE"	13
+"3086"	"oman"	2012	"TED"	2
+"3087"	"oman"	2013	"BEHANCE"	18
+"3088"	"oman"	2013	"MEETUP"	2
+"3089"	"oman"	2013	"TED"	2
+"3090"	"oman"	2014	"BEHANCE"	26
+"3091"	"oman"	2014	"MEETUP"	5
+"3092"	"oman"	2015	"BEHANCE"	30
+"3093"	"oman"	2015	"MEETUP"	17
+"3094"	"oman"	2016	"BEHANCE"	32
+"3095"	"oman"	2016	"MEETUP"	27
+"3096"	"oman"	2016	"TED"	4
+"3097"	"oman"	2017	"BEHANCE"	58
+"3098"	"oman"	2017	"MEETUP"	31
+"3099"	"oman"	2017	"TED"	4
+"3100"	"oman"	2018	"BEHANCE"	56
+"3101"	"oman"	2018	"MEETUP"	56
+"3102"	"oman"	2018	"TED"	6
+"3103"	"oman"	2019	"BEHANCE"	11
+"3104"	"oman"	2019	"MEETUP"	36
+"3105"	"oman"	2019	"TED"	3
+"3106"	"pakistan"	2008	"BEHANCE"	5
+"3107"	"pakistan"	2009	"BEHANCE"	2
+"3108"	"pakistan"	2009	"TED"	4
+"3109"	"pakistan"	2010	"BEHANCE"	10
+"3110"	"pakistan"	2010	"TED"	9
+"3111"	"pakistan"	2011	"BEHANCE"	29
+"3112"	"pakistan"	2011	"TED"	18
+"3113"	"pakistan"	2012	"BEHANCE"	187
+"3114"	"pakistan"	2012	"MEETUP"	2
+"3115"	"pakistan"	2012	"TED"	35
+"3116"	"pakistan"	2013	"ART_EDUCATION"	1
+"3117"	"pakistan"	2013	"BEHANCE"	292
+"3118"	"pakistan"	2013	"EFLUX"	1
+"3119"	"pakistan"	2013	"MEETUP"	3
+"3120"	"pakistan"	2013	"TED"	41
+"3121"	"pakistan"	2014	"BEHANCE"	407
+"3122"	"pakistan"	2014	"MEETUP"	3
+"3123"	"pakistan"	2014	"TED"	24
+"3124"	"pakistan"	2015	"BEHANCE"	258
+"3125"	"pakistan"	2015	"EFLUX"	1
+"3126"	"pakistan"	2015	"MEETUP"	33
+"3127"	"pakistan"	2015	"TED"	14
+"3128"	"pakistan"	2016	"BEHANCE"	201
+"3129"	"pakistan"	2016	"EFLUX"	1
+"3130"	"pakistan"	2016	"MEETUP"	69
+"3131"	"pakistan"	2016	"TED"	29
+"3132"	"pakistan"	2017	"BEHANCE"	189
+"3133"	"pakistan"	2017	"MEETUP"	96
+"3134"	"pakistan"	2017	"TED"	26
+"3135"	"pakistan"	2018	"BEHANCE"	159
+"3136"	"pakistan"	2018	"EFLUX"	2
+"3137"	"pakistan"	2018	"MEETUP"	136
+"3138"	"pakistan"	2018	"TED"	31
+"3139"	"pakistan"	2019	"BEHANCE"	42
+"3140"	"pakistan"	2019	"MEETUP"	22
+"3141"	"pakistan"	2019	"TED"	13
+"3142"	"panama"	2009	"BEHANCE"	4
+"3143"	"panama"	2011	"ART_EDUCATION"	1
+"3144"	"panama"	2011	"TED"	2
+"3145"	"panama"	2012	"BEHANCE"	5
+"3146"	"panama"	2012	"MEETUP"	1
+"3147"	"panama"	2012	"TED"	2
+"3148"	"panama"	2013	"BEHANCE"	19
+"3149"	"panama"	2013	"TED"	2
+"3150"	"panama"	2014	"BEHANCE"	9
+"3151"	"panama"	2014	"MEETUP"	1
+"3152"	"panama"	2014	"TED"	5
+"3153"	"panama"	2015	"BEHANCE"	5
+"3154"	"panama"	2015	"MEETUP"	1
+"3155"	"panama"	2015	"TED"	3
+"3156"	"panama"	2016	"TED"	2
+"3157"	"panama"	2017	"TED"	3
+"3158"	"panama"	2018	"BEHANCE"	24
+"3159"	"panama"	2018	"MEETUP"	1
+"3160"	"panama"	2018	"TED"	2
+"3161"	"panama"	2019	"TED"	1
+"3162"	"papua new guinea"	2015	"TED"	1
+"3163"	"paraguay"	2009	"BEHANCE"	18
+"3164"	"paraguay"	2010	"BEHANCE"	28
+"3165"	"paraguay"	2011	"BEHANCE"	19
+"3166"	"paraguay"	2012	"BEHANCE"	19
+"3167"	"paraguay"	2012	"TED"	1
+"3168"	"paraguay"	2013	"BEHANCE"	24
+"3169"	"paraguay"	2014	"BEHANCE"	70
+"3170"	"paraguay"	2015	"BEHANCE"	39
+"3171"	"paraguay"	2016	"BEHANCE"	45
+"3172"	"paraguay"	2016	"TED"	1
+"3173"	"paraguay"	2017	"BEHANCE"	23
+"3174"	"paraguay"	2018	"BEHANCE"	17
+"3175"	"paraguay"	2018	"TED"	1
+"3176"	"peru"	2007	"MEETUP"	1
+"3177"	"peru"	2008	"BEHANCE"	5
+"3178"	"peru"	2009	"BEHANCE"	36
+"3179"	"peru"	2009	"MEETUP"	1
+"3180"	"peru"	2009	"TED"	1
+"3181"	"peru"	2010	"BEHANCE"	97
+"3182"	"peru"	2010	"EFLUX"	5
+"3183"	"peru"	2010	"MEETUP"	2
+"3184"	"peru"	2010	"TED"	2
+"3185"	"peru"	2011	"BEHANCE"	140
+"3186"	"peru"	2011	"EFLUX"	7
+"3187"	"peru"	2011	"MEETUP"	1
+"3188"	"peru"	2011	"TED"	1
+"3189"	"peru"	2012	"ART_EDUCATION"	1
+"3190"	"peru"	2012	"BEHANCE"	366
+"3191"	"peru"	2012	"EFLUX"	7
+"3192"	"peru"	2012	"MEETUP"	4
+"3193"	"peru"	2012	"TED"	4
+"3194"	"peru"	2013	"BEHANCE"	505
+"3195"	"peru"	2013	"EFLUX"	6
+"3196"	"peru"	2013	"MEETUP"	2
+"3197"	"peru"	2013	"TED"	2
+"3198"	"peru"	2014	"BEHANCE"	538
+"3199"	"peru"	2014	"EFLUX"	8
+"3200"	"peru"	2014	"TED"	1
+"3201"	"peru"	2015	"BEHANCE"	471
+"3202"	"peru"	2015	"EFLUX"	8
+"3203"	"peru"	2015	"MEETUP"	6
+"3204"	"peru"	2015	"TED"	9
+"3205"	"peru"	2016	"BEHANCE"	426
+"3206"	"peru"	2016	"EFLUX"	6
+"3207"	"peru"	2016	"MEETUP"	14
+"3208"	"peru"	2016	"TED"	7
+"3209"	"peru"	2017	"BEHANCE"	415
+"3210"	"peru"	2017	"MEETUP"	34
+"3211"	"peru"	2017	"TED"	6
+"3212"	"peru"	2018	"BEHANCE"	419
+"3213"	"peru"	2018	"MEETUP"	8
+"3214"	"peru"	2018	"TED"	8
+"3215"	"peru"	2019	"BEHANCE"	72
+"3216"	"peru"	2019	"MEETUP"	2
+"3217"	"peru"	2019	"TED"	1
+"3218"	"philippines"	2004	"MEETUP"	3
+"3219"	"philippines"	2005	"MEETUP"	13
+"3220"	"philippines"	2006	"MEETUP"	12
+"3221"	"philippines"	2007	"BEHANCE"	2
+"3222"	"philippines"	2007	"MEETUP"	13
+"3223"	"philippines"	2008	"BEHANCE"	54
+"3224"	"philippines"	2008	"MEETUP"	7
+"3225"	"philippines"	2009	"BEHANCE"	81
+"3226"	"philippines"	2009	"MEETUP"	3
+"3227"	"philippines"	2009	"TED"	5
+"3228"	"philippines"	2010	"BEHANCE"	114
+"3229"	"philippines"	2010	"MEETUP"	19
+"3230"	"philippines"	2010	"TED"	3
+"3231"	"philippines"	2011	"BEHANCE"	254
+"3232"	"philippines"	2011	"EFLUX"	1
+"3233"	"philippines"	2011	"MEETUP"	8
+"3234"	"philippines"	2011	"TED"	3
+"3235"	"philippines"	2012	"BEHANCE"	477
+"3236"	"philippines"	2012	"EFLUX"	2
+"3237"	"philippines"	2012	"MEETUP"	2
+"3238"	"philippines"	2012	"TED"	7
+"3239"	"philippines"	2013	"BEHANCE"	876
+"3240"	"philippines"	2013	"MEETUP"	65
+"3241"	"philippines"	2013	"TED"	7
+"3242"	"philippines"	2014	"BEHANCE"	915
+"3243"	"philippines"	2014	"MEETUP"	338
+"3244"	"philippines"	2014	"TED"	7
+"3245"	"philippines"	2015	"ART_EDUCATION"	1
+"3246"	"philippines"	2015	"BEHANCE"	696
+"3247"	"philippines"	2015	"MEETUP"	611
+"3248"	"philippines"	2015	"TED"	28
+"3249"	"philippines"	2016	"ART_EDUCATION"	2
+"3250"	"philippines"	2016	"BEHANCE"	692
+"3251"	"philippines"	2016	"EFLUX"	2
+"3252"	"philippines"	2016	"MEETUP"	869
+"3253"	"philippines"	2016	"TED"	19
+"3254"	"philippines"	2017	"BEHANCE"	661
+"3255"	"philippines"	2017	"EFLUX"	2
+"3256"	"philippines"	2017	"MEETUP"	1233
+"3257"	"philippines"	2017	"TED"	19
+"3258"	"philippines"	2018	"ART_EDUCATION"	1
+"3259"	"philippines"	2018	"BEHANCE"	499
+"3260"	"philippines"	2018	"EFLUX"	4
+"3261"	"philippines"	2018	"MEETUP"	1305
+"3262"	"philippines"	2018	"TED"	19
+"3263"	"philippines"	2019	"BEHANCE"	86
+"3264"	"philippines"	2019	"MEETUP"	211
+"3265"	"philippines"	2019	"TED"	7
+"3266"	"poland"	2007	"BEHANCE"	27
+"3267"	"poland"	2008	"BEHANCE"	176
+"3268"	"poland"	2009	"BEHANCE"	629
+"3269"	"poland"	2010	"BEHANCE"	940
+"3270"	"poland"	2010	"EFLUX"	16
+"3271"	"poland"	2010	"TED"	5
+"3272"	"poland"	2011	"BEHANCE"	1506
+"3273"	"poland"	2011	"EFLUX"	5
+"3274"	"poland"	2011	"MEETUP"	16
+"3275"	"poland"	2011	"TED"	14
+"3276"	"poland"	2012	"BEHANCE"	2936
+"3277"	"poland"	2012	"EFLUX"	7
+"3278"	"poland"	2012	"MEETUP"	19
+"3279"	"poland"	2012	"TED"	29
+"3280"	"poland"	2013	"BEHANCE"	4644
+"3281"	"poland"	2013	"EFLUX"	10
+"3282"	"poland"	2013	"MEETUP"	132
+"3283"	"poland"	2013	"TED"	52
+"3284"	"poland"	2014	"BEHANCE"	5461
+"3285"	"poland"	2014	"EFLUX"	8
+"3286"	"poland"	2014	"MEETUP"	231
+"3287"	"poland"	2014	"TED"	57
+"3288"	"poland"	2015	"BEHANCE"	4882
+"3289"	"poland"	2015	"EFLUX"	7
+"3290"	"poland"	2015	"MEETUP"	426
+"3291"	"poland"	2015	"TED"	44
+"3292"	"poland"	2016	"BEHANCE"	5025
+"3293"	"poland"	2016	"EFLUX"	3
+"3294"	"poland"	2016	"MEETUP"	743
+"3295"	"poland"	2016	"TED"	60
+"3296"	"poland"	2017	"ART_EDUCATION"	1
+"3297"	"poland"	2017	"BEHANCE"	4975
+"3298"	"poland"	2017	"EFLUX"	4
+"3299"	"poland"	2017	"MEETUP"	922
+"3300"	"poland"	2017	"TED"	37
+"3301"	"poland"	2018	"BEHANCE"	4800
+"3302"	"poland"	2018	"EFLUX"	7
+"3303"	"poland"	2018	"MEETUP"	967
+"3304"	"poland"	2018	"TED"	44
+"3305"	"poland"	2018	"TIMEPAD"	2
+"3306"	"poland"	2019	"BEHANCE"	836
+"3307"	"poland"	2019	"MEETUP"	156
+"3308"	"poland"	2019	"TED"	13
+"3309"	"portugal"	2007	"BEHANCE"	21
+"3310"	"portugal"	2008	"BEHANCE"	174
+"3311"	"portugal"	2009	"BEHANCE"	465
+"3312"	"portugal"	2009	"TED"	3
+"3313"	"portugal"	2010	"ART_EDUCATION"	1
+"3314"	"portugal"	2010	"BEHANCE"	1084
+"3315"	"portugal"	2010	"EFLUX"	2
+"3316"	"portugal"	2010	"TED"	9
+"3317"	"portugal"	2011	"BEHANCE"	1852
+"3318"	"portugal"	2011	"EFLUX"	2
+"3319"	"portugal"	2011	"MEETUP"	20
+"3320"	"portugal"	2011	"TED"	14
+"3321"	"portugal"	2012	"BEHANCE"	2994
+"3322"	"portugal"	2012	"EFLUX"	4
+"3323"	"portugal"	2012	"MEETUP"	147
+"3324"	"portugal"	2012	"TED"	34
+"3325"	"portugal"	2013	"BEHANCE"	3844
+"3326"	"portugal"	2013	"EFLUX"	2
+"3327"	"portugal"	2013	"MEETUP"	96
+"3328"	"portugal"	2013	"TED"	28
+"3329"	"portugal"	2014	"BEHANCE"	3360
+"3330"	"portugal"	2014	"EFLUX"	1
+"3331"	"portugal"	2014	"MEETUP"	67
+"3332"	"portugal"	2014	"TED"	19
+"3333"	"portugal"	2015	"BEHANCE"	2503
+"3334"	"portugal"	2015	"EFLUX"	2
+"3335"	"portugal"	2015	"MEETUP"	132
+"3336"	"portugal"	2015	"TED"	19
+"3337"	"portugal"	2016	"BEHANCE"	2666
+"3338"	"portugal"	2016	"EFLUX"	6
+"3339"	"portugal"	2016	"MEETUP"	169
+"3340"	"portugal"	2016	"TED"	24
+"3341"	"portugal"	2017	"ART_EDUCATION"	1
+"3342"	"portugal"	2017	"BEHANCE"	2282
+"3343"	"portugal"	2017	"EFLUX"	2
+"3344"	"portugal"	2017	"MEETUP"	290
+"3345"	"portugal"	2017	"TED"	21
+"3346"	"portugal"	2018	"BEHANCE"	2190
+"3347"	"portugal"	2018	"EFLUX"	5
+"3348"	"portugal"	2018	"MEETUP"	709
+"3349"	"portugal"	2018	"TED"	23
+"3350"	"portugal"	2019	"BEHANCE"	347
+"3351"	"portugal"	2019	"MEETUP"	132
+"3352"	"portugal"	2019	"TED"	12
+"3353"	"qatar"	2009	"BEHANCE"	24
+"3354"	"qatar"	2009	"TED"	1
+"3355"	"qatar"	2010	"BEHANCE"	33
+"3356"	"qatar"	2010	"TED"	2
+"3357"	"qatar"	2011	"BEHANCE"	3
+"3358"	"qatar"	2011	"EFLUX"	1
+"3359"	"qatar"	2011	"TED"	2
+"3360"	"qatar"	2012	"BEHANCE"	54
+"3361"	"qatar"	2012	"EFLUX"	1
+"3362"	"qatar"	2012	"MEETUP"	17
+"3363"	"qatar"	2012	"TED"	4
+"3364"	"qatar"	2013	"BEHANCE"	91
+"3365"	"qatar"	2013	"MEETUP"	69
+"3366"	"qatar"	2014	"ART_EDUCATION"	1
+"3367"	"qatar"	2014	"BEHANCE"	121
+"3368"	"qatar"	2014	"EFLUX"	5
+"3369"	"qatar"	2014	"MEETUP"	135
+"3370"	"qatar"	2014	"TED"	3
+"3371"	"qatar"	2015	"BEHANCE"	46
+"3372"	"qatar"	2015	"MEETUP"	173
+"3373"	"qatar"	2015	"TED"	4
+"3374"	"qatar"	2016	"BEHANCE"	55
+"3375"	"qatar"	2016	"EFLUX"	1
+"3376"	"qatar"	2016	"MEETUP"	260
+"3377"	"qatar"	2016	"TED"	3
+"3378"	"qatar"	2017	"BEHANCE"	71
+"3379"	"qatar"	2017	"MEETUP"	634
+"3380"	"qatar"	2017	"TED"	2
+"3381"	"qatar"	2018	"ART_EDUCATION"	2
+"3382"	"qatar"	2018	"BEHANCE"	83
+"3383"	"qatar"	2018	"MEETUP"	674
+"3384"	"qatar"	2018	"TED"	9
+"3385"	"qatar"	2019	"BEHANCE"	7
+"3386"	"qatar"	2019	"MEETUP"	126
+"3387"	"qatar"	2019	"TED"	4
+"3388"	"qatar"	2019	"TIMEPAD"	13
+"3389"	"romania"	2004	"MEETUP"	4
+"3390"	"romania"	2005	"MEETUP"	13
+"3391"	"romania"	2006	"MEETUP"	18
+"3392"	"romania"	2007	"BEHANCE"	10
+"3393"	"romania"	2007	"MEETUP"	22
+"3394"	"romania"	2008	"BEHANCE"	72
+"3395"	"romania"	2008	"MEETUP"	16
+"3396"	"romania"	2009	"BEHANCE"	135
+"3397"	"romania"	2009	"MEETUP"	30
+"3398"	"romania"	2009	"TED"	5
+"3399"	"romania"	2010	"BEHANCE"	282
+"3400"	"romania"	2010	"EFLUX"	2
+"3401"	"romania"	2010	"MEETUP"	95
+"3402"	"romania"	2010	"TED"	11
+"3403"	"romania"	2011	"BEHANCE"	381
+"3404"	"romania"	2011	"EFLUX"	3
+"3405"	"romania"	2011	"MEETUP"	207
+"3406"	"romania"	2011	"TED"	25
+"3407"	"romania"	2012	"BEHANCE"	633
+"3408"	"romania"	2012	"EFLUX"	3
+"3409"	"romania"	2012	"MEETUP"	176
+"3410"	"romania"	2012	"TED"	22
+"3411"	"romania"	2013	"BEHANCE"	1106
+"3412"	"romania"	2013	"EFLUX"	3
+"3413"	"romania"	2013	"MEETUP"	283
+"3414"	"romania"	2013	"TED"	25
+"3415"	"romania"	2014	"BEHANCE"	1171
+"3416"	"romania"	2014	"EFLUX"	2
+"3417"	"romania"	2014	"MEETUP"	407
+"3418"	"romania"	2014	"TED"	16
+"3419"	"romania"	2015	"BEHANCE"	910
+"3420"	"romania"	2015	"EFLUX"	4
+"3421"	"romania"	2015	"MEETUP"	432
+"3422"	"romania"	2015	"TED"	27
+"3423"	"romania"	2016	"BEHANCE"	982
+"3424"	"romania"	2016	"EFLUX"	3
+"3425"	"romania"	2016	"MEETUP"	848
+"3426"	"romania"	2016	"TED"	22
+"3427"	"romania"	2017	"BEHANCE"	807
+"3428"	"romania"	2017	"EFLUX"	3
+"3429"	"romania"	2017	"MEETUP"	1036
+"3430"	"romania"	2017	"TED"	26
+"3431"	"romania"	2018	"BEHANCE"	606
+"3432"	"romania"	2018	"EFLUX"	1
+"3433"	"romania"	2018	"MEETUP"	1258
+"3434"	"romania"	2018	"TED"	34
+"3435"	"romania"	2019	"BEHANCE"	121
+"3436"	"romania"	2019	"MEETUP"	227
+"3437"	"romania"	2019	"TED"	13
+"3438"	"russia"	2006	"THEORY_PRACTICE"	2
+"3439"	"russia"	2007	"BEHANCE"	17
+"3440"	"russia"	2007	"THEORY_PRACTICE"	1
+"3441"	"russia"	2008	"BEHANCE"	428
+"3442"	"russia"	2009	"BEHANCE"	1072
+"3443"	"russia"	2009	"TED"	2
+"3444"	"russia"	2009	"THEORY_PRACTICE"	2197
+"3445"	"russia"	2010	"BEHANCE"	1622
+"3446"	"russia"	2010	"EFLUX"	7
+"3447"	"russia"	2010	"TED"	3
+"3448"	"russia"	2010	"THEORY_PRACTICE"	5169
+"3449"	"russia"	2010	"TIMEPAD"	2
+"3450"	"russia"	2011	"ART_EDUCATION"	1
+"3451"	"russia"	2011	"BEHANCE"	2212
+"3452"	"russia"	2011	"EFLUX"	11
+"3453"	"russia"	2011	"MEETUP"	21
+"3454"	"russia"	2011	"TED"	31
+"3455"	"russia"	2011	"THEORY_PRACTICE"	7207
+"3456"	"russia"	2011	"TIMEPAD"	3698
+"3457"	"russia"	2012	"ART_EDUCATION"	1
+"3458"	"russia"	2012	"BEHANCE"	3828
+"3459"	"russia"	2012	"EFLUX"	7
+"3460"	"russia"	2012	"MEETUP"	84
+"3461"	"russia"	2012	"TED"	37
+"3462"	"russia"	2012	"THEORY_PRACTICE"	10600
+"3463"	"russia"	2012	"TIMEPAD"	14320
+"3464"	"russia"	2013	"ART_EDUCATION"	4
+"3465"	"russia"	2013	"BEHANCE"	6606
+"3466"	"russia"	2013	"EFLUX"	10
+"3467"	"russia"	2013	"MEETUP"	199
+"3468"	"russia"	2013	"TED"	18
+"3469"	"russia"	2013	"THEORY_PRACTICE"	14258
+"3470"	"russia"	2013	"TIMEPAD"	23415
+"3471"	"russia"	2014	"ART_EDUCATION"	2
+"3472"	"russia"	2014	"BEHANCE"	8137
+"3473"	"russia"	2014	"EFLUX"	6
+"3474"	"russia"	2014	"MEETUP"	318
+"3475"	"russia"	2014	"MINCULT"	2
+"3476"	"russia"	2014	"TED"	19
+"3477"	"russia"	2014	"THEORY_PRACTICE"	1899
+"3478"	"russia"	2014	"TIMEPAD"	39760
+"3479"	"russia"	2015	"BEHANCE"	8360
+"3480"	"russia"	2015	"EFLUX"	8
+"3481"	"russia"	2015	"MEETUP"	476
+"3482"	"russia"	2015	"MINCULT"	120
+"3483"	"russia"	2015	"TED"	28
+"3484"	"russia"	2015	"THEORY_PRACTICE"	111
+"3485"	"russia"	2015	"TIMEPAD"	59192
+"3486"	"russia"	2016	"BEHANCE"	10346
+"3487"	"russia"	2016	"EFLUX"	6
+"3488"	"russia"	2016	"MEETUP"	609
+"3489"	"russia"	2016	"MINCULT"	19892
+"3490"	"russia"	2016	"TED"	41
+"3491"	"russia"	2016	"THEORY_PRACTICE"	7598
+"3492"	"russia"	2016	"TIMEPAD"	82177
+"3493"	"russia"	2017	"ART_EDUCATION"	1
+"3494"	"russia"	2017	"BEHANCE"	10231
+"3495"	"russia"	2017	"EFLUX"	6
+"3496"	"russia"	2017	"MEETUP"	1000
+"3497"	"russia"	2017	"MINCULT"	34771
+"3498"	"russia"	2017	"TED"	39
+"3499"	"russia"	2017	"THEORY_PRACTICE"	8819
+"3500"	"russia"	2017	"TIMEPAD"	120513
+"3501"	"russia"	2018	"ART_EDUCATION"	2
+"3502"	"russia"	2018	"BEHANCE"	10252
+"3503"	"russia"	2018	"EFLUX"	2
+"3504"	"russia"	2018	"MEETUP"	1635
+"3505"	"russia"	2018	"MINCULT"	25183
+"3506"	"russia"	2018	"TED"	44
+"3507"	"russia"	2018	"THEORY_PRACTICE"	10213
+"3508"	"russia"	2018	"TIMEPAD"	135275
+"3509"	"russia"	2019	"BEHANCE"	1752
+"3510"	"russia"	2019	"MEETUP"	271
+"3511"	"russia"	2019	"MINCULT"	4195
+"3512"	"russia"	2019	"TED"	32
+"3513"	"russia"	2019	"THEORY_PRACTICE"	1012
+"3514"	"russia"	2019	"TIMEPAD"	38118
+"3515"	"russia"	2020	"MINCULT"	1
+"3516"	"russia"	2020	"TIMEPAD"	5
+"3517"	"russia"	2021	"TIMEPAD"	1
+"3518"	"russia"	2022	"TIMEPAD"	1
+"3519"	"russia"	2025	"TIMEPAD"	1
+"3520"	"russia"	2026	"TIMEPAD"	1
+"3521"	"russia"	2029	"TIMEPAD"	1
+"3522"	"rwanda"	2011	"TED"	1
+"3523"	"rwanda"	2012	"TED"	1
+"3524"	"rwanda"	2013	"BEHANCE"	10
+"3525"	"rwanda"	2013	"TED"	4
+"3526"	"rwanda"	2014	"BEHANCE"	2
+"3527"	"rwanda"	2016	"TED"	1
+"3528"	"rwanda"	2018	"MEETUP"	3
+"3529"	"rwanda"	2018	"TED"	2
+"3530"	"rwanda"	2019	"TED"	1
+"3531"	"saint kitts and nevis"	2011	"TED"	1
+"3532"	"saint kitts and nevis"	2015	"MEETUP"	2
+"3533"	"saint lucia"	2011	"MEETUP"	8
+"3534"	"san marino"	2011	"BEHANCE"	7
+"3535"	"san marino"	2012	"BEHANCE"	1
+"3536"	"san marino"	2015	"BEHANCE"	1
+"3537"	"san marino"	2016	"BEHANCE"	1
+"3538"	"san marino"	2017	"BEHANCE"	1
+"3539"	"san marino"	2018	"TED"	1
+"3540"	"san marino"	2019	"TED"	1
+"3541"	"são tomé and príncipe"	2013	"TED"	1
+"3542"	"são tomé and príncipe"	2014	"TED"	1
+"3543"	"são tomé and príncipe"	2015	"TED"	1
+"3544"	"são tomé and príncipe"	2016	"TED"	1
+"3545"	"são tomé and príncipe"	2018	"TED"	1
+"3546"	"saudi arabia"	2009	"BEHANCE"	23
+"3547"	"saudi arabia"	2009	"TED"	2
+"3548"	"saudi arabia"	2010	"BEHANCE"	54
+"3549"	"saudi arabia"	2010	"TED"	6
+"3550"	"saudi arabia"	2011	"BEHANCE"	75
+"3551"	"saudi arabia"	2011	"MEETUP"	3
+"3552"	"saudi arabia"	2011	"TED"	18
+"3553"	"saudi arabia"	2012	"ART_EDUCATION"	1
+"3554"	"saudi arabia"	2012	"BEHANCE"	168
+"3555"	"saudi arabia"	2012	"MEETUP"	6
+"3556"	"saudi arabia"	2012	"TED"	18
+"3557"	"saudi arabia"	2013	"BEHANCE"	178
+"3558"	"saudi arabia"	2013	"EFLUX"	1
+"3559"	"saudi arabia"	2013	"MEETUP"	13
+"3560"	"saudi arabia"	2013	"TED"	11
+"3561"	"saudi arabia"	2014	"BEHANCE"	202
+"3562"	"saudi arabia"	2014	"MEETUP"	26
+"3563"	"saudi arabia"	2014	"TED"	10
+"3564"	"saudi arabia"	2015	"BEHANCE"	150
+"3565"	"saudi arabia"	2015	"MEETUP"	70
+"3566"	"saudi arabia"	2015	"TED"	13
+"3567"	"saudi arabia"	2016	"BEHANCE"	121
+"3568"	"saudi arabia"	2016	"MEETUP"	165
+"3569"	"saudi arabia"	2016	"TED"	13
+"3570"	"saudi arabia"	2017	"BEHANCE"	149
+"3571"	"saudi arabia"	2017	"MEETUP"	235
+"3572"	"saudi arabia"	2017	"TED"	15
+"3573"	"saudi arabia"	2018	"BEHANCE"	144
+"3574"	"saudi arabia"	2018	"MEETUP"	441
+"3575"	"saudi arabia"	2018	"TED"	20
+"3576"	"saudi arabia"	2019	"BEHANCE"	16
+"3577"	"saudi arabia"	2019	"MEETUP"	104
+"3578"	"saudi arabia"	2019	"TED"	8
+"3579"	"senegal"	2007	"BEHANCE"	1
+"3580"	"senegal"	2009	"BEHANCE"	1
+"3581"	"senegal"	2010	"BEHANCE"	4
+"3582"	"senegal"	2010	"EFLUX"	1
+"3583"	"senegal"	2011	"BEHANCE"	2
+"3584"	"senegal"	2011	"EFLUX"	1
+"3585"	"senegal"	2012	"ART_EDUCATION"	1
+"3586"	"senegal"	2012	"EFLUX"	3
+"3587"	"senegal"	2013	"BEHANCE"	3
+"3588"	"senegal"	2013	"EFLUX"	2
+"3589"	"senegal"	2013	"TED"	1
+"3590"	"senegal"	2014	"BEHANCE"	1
+"3591"	"senegal"	2015	"BEHANCE"	3
+"3592"	"senegal"	2015	"EFLUX"	1
+"3593"	"senegal"	2016	"BEHANCE"	1
+"3594"	"senegal"	2016	"EFLUX"	2
+"3595"	"senegal"	2017	"BEHANCE"	2
+"3596"	"senegal"	2017	"TED"	3
+"3597"	"senegal"	2018	"BEHANCE"	1
+"3598"	"senegal"	2018	"EFLUX"	1
+"3599"	"senegal"	2019	"TED"	1
+"3600"	"serbia"	2007	"BEHANCE"	4
+"3601"	"serbia"	2008	"BEHANCE"	16
+"3602"	"serbia"	2009	"BEHANCE"	86
+"3603"	"serbia"	2010	"BEHANCE"	283
+"3604"	"serbia"	2010	"EFLUX"	1
+"3605"	"serbia"	2010	"TED"	1
+"3606"	"serbia"	2011	"BEHANCE"	309
+"3607"	"serbia"	2011	"EFLUX"	1
+"3608"	"serbia"	2011	"TED"	5
+"3609"	"serbia"	2012	"BEHANCE"	563
+"3610"	"serbia"	2012	"EFLUX"	1
+"3611"	"serbia"	2012	"TED"	11
+"3612"	"serbia"	2013	"BEHANCE"	921
+"3613"	"serbia"	2013	"TED"	4
+"3614"	"serbia"	2014	"ART_EDUCATION"	1
+"3615"	"serbia"	2014	"BEHANCE"	847
+"3616"	"serbia"	2014	"EFLUX"	1
+"3617"	"serbia"	2014	"TED"	1
+"3618"	"serbia"	2015	"BEHANCE"	815
+"3619"	"serbia"	2015	"EFLUX"	1
+"3620"	"serbia"	2015	"MEETUP"	3
+"3621"	"serbia"	2015	"TED"	5
+"3622"	"serbia"	2016	"BEHANCE"	685
+"3623"	"serbia"	2016	"TED"	8
+"3624"	"serbia"	2017	"BEHANCE"	683
+"3625"	"serbia"	2017	"EFLUX"	2
+"3626"	"serbia"	2017	"MEETUP"	1
+"3627"	"serbia"	2017	"TED"	2
+"3628"	"serbia"	2018	"BEHANCE"	612
+"3629"	"serbia"	2018	"EFLUX"	1
+"3630"	"serbia"	2018	"TED"	4
+"3631"	"serbia"	2019	"BEHANCE"	95
+"3632"	"seychelles"	2016	"BEHANCE"	1
+"3633"	"seychelles"	2017	"BEHANCE"	3
+"3634"	"sierra leone"	2012	"TED"	1
+"3635"	"sierra leone"	2013	"MEETUP"	1
+"3636"	"sierra leone"	2013	"TED"	1
+"3637"	"sierra leone"	2016	"TED"	1
+"3638"	"sierra leone"	2017	"TED"	1
+"3639"	"sierra leone"	2018	"TED"	1
+"3640"	"singapore"	2004	"MEETUP"	7
+"3641"	"singapore"	2005	"MEETUP"	27
+"3642"	"singapore"	2006	"MEETUP"	48
+"3643"	"singapore"	2007	"BEHANCE"	6
+"3644"	"singapore"	2007	"MEETUP"	69
+"3645"	"singapore"	2008	"BEHANCE"	69
+"3646"	"singapore"	2008	"MEETUP"	80
+"3647"	"singapore"	2009	"BEHANCE"	179
+"3648"	"singapore"	2009	"MEETUP"	92
+"3649"	"singapore"	2009	"TED"	7
+"3650"	"singapore"	2010	"BEHANCE"	316
+"3651"	"singapore"	2010	"EFLUX"	7
+"3652"	"singapore"	2010	"MEETUP"	216
+"3653"	"singapore"	2010	"TED"	8
+"3654"	"singapore"	2011	"BEHANCE"	528
+"3655"	"singapore"	2011	"EFLUX"	8
+"3656"	"singapore"	2011	"MEETUP"	456
+"3657"	"singapore"	2011	"TED"	13
+"3658"	"singapore"	2012	"ART_EDUCATION"	2
+"3659"	"singapore"	2012	"BEHANCE"	834
+"3660"	"singapore"	2012	"EFLUX"	7
+"3661"	"singapore"	2012	"MEETUP"	558
+"3662"	"singapore"	2012	"TED"	16
+"3663"	"singapore"	2013	"ART_EDUCATION"	3
+"3664"	"singapore"	2013	"BEHANCE"	1751
+"3665"	"singapore"	2013	"EFLUX"	7
+"3666"	"singapore"	2013	"MEETUP"	816
+"3667"	"singapore"	2013	"TED"	14
+"3668"	"singapore"	2014	"ART_EDUCATION"	8
+"3669"	"singapore"	2014	"BEHANCE"	1636
+"3670"	"singapore"	2014	"EFLUX"	12
+"3671"	"singapore"	2014	"MEETUP"	1634
+"3672"	"singapore"	2014	"TED"	8
+"3673"	"singapore"	2015	"ART_EDUCATION"	11
+"3674"	"singapore"	2015	"BEHANCE"	1079
+"3675"	"singapore"	2015	"EFLUX"	9
+"3676"	"singapore"	2015	"MEETUP"	2176
+"3677"	"singapore"	2015	"TED"	17
+"3678"	"singapore"	2016	"ART_EDUCATION"	6
+"3679"	"singapore"	2016	"BEHANCE"	917
+"3680"	"singapore"	2016	"EFLUX"	10
+"3681"	"singapore"	2016	"MEETUP"	2486
+"3682"	"singapore"	2016	"TED"	20
+"3683"	"singapore"	2017	"ART_EDUCATION"	4
+"3684"	"singapore"	2017	"BEHANCE"	977
+"3685"	"singapore"	2017	"EFLUX"	10
+"3686"	"singapore"	2017	"MEETUP"	3041
+"3687"	"singapore"	2017	"TED"	23
+"3688"	"singapore"	2018	"ART_EDUCATION"	6
+"3689"	"singapore"	2018	"BEHANCE"	831
+"3690"	"singapore"	2018	"EFLUX"	12
+"3691"	"singapore"	2018	"MEETUP"	4002
+"3692"	"singapore"	2018	"TED"	36
+"3693"	"singapore"	2018	"TIMEPAD"	5
+"3694"	"singapore"	2019	"BEHANCE"	138
+"3695"	"singapore"	2019	"MEETUP"	521
+"3696"	"singapore"	2019	"TED"	6
+"3697"	"slovakia"	2008	"BEHANCE"	13
+"3698"	"slovakia"	2009	"BEHANCE"	10
+"3699"	"slovakia"	2009	"MEETUP"	1
+"3700"	"slovakia"	2009	"TED"	1
+"3701"	"slovakia"	2010	"BEHANCE"	42
+"3702"	"slovakia"	2010	"EFLUX"	5
+"3703"	"slovakia"	2010	"MEETUP"	2
+"3704"	"slovakia"	2010	"TED"	1
+"3705"	"slovakia"	2011	"BEHANCE"	123
+"3706"	"slovakia"	2011	"EFLUX"	5
+"3707"	"slovakia"	2011	"MEETUP"	4
+"3708"	"slovakia"	2011	"TED"	1
+"3709"	"slovakia"	2012	"ART_EDUCATION"	1
+"3710"	"slovakia"	2012	"BEHANCE"	264
+"3711"	"slovakia"	2012	"EFLUX"	4
+"3712"	"slovakia"	2012	"MEETUP"	4
+"3713"	"slovakia"	2012	"TED"	7
+"3714"	"slovakia"	2013	"BEHANCE"	568
+"3715"	"slovakia"	2013	"MEETUP"	22
+"3716"	"slovakia"	2013	"TED"	10
+"3717"	"slovakia"	2014	"ART_EDUCATION"	1
+"3718"	"slovakia"	2014	"BEHANCE"	431
+"3719"	"slovakia"	2014	"EFLUX"	1
+"3720"	"slovakia"	2014	"MEETUP"	30
+"3721"	"slovakia"	2014	"TED"	11
+"3722"	"slovakia"	2015	"ART_EDUCATION"	1
+"3723"	"slovakia"	2015	"BEHANCE"	432
+"3724"	"slovakia"	2015	"EFLUX"	4
+"3725"	"slovakia"	2015	"MEETUP"	70
+"3726"	"slovakia"	2015	"TED"	8
+"3727"	"slovakia"	2016	"ART_EDUCATION"	1
+"3728"	"slovakia"	2016	"BEHANCE"	372
+"3729"	"slovakia"	2016	"EFLUX"	5
+"3730"	"slovakia"	2016	"MEETUP"	100
+"3731"	"slovakia"	2016	"TED"	9
+"3732"	"slovakia"	2017	"BEHANCE"	430
+"3733"	"slovakia"	2017	"EFLUX"	1
+"3734"	"slovakia"	2017	"MEETUP"	133
+"3735"	"slovakia"	2017	"TED"	10
+"3736"	"slovakia"	2018	"BEHANCE"	358
+"3737"	"slovakia"	2018	"EFLUX"	2
+"3738"	"slovakia"	2018	"MEETUP"	202
+"3739"	"slovakia"	2018	"TED"	9
+"3740"	"slovakia"	2019	"BEHANCE"	57
+"3741"	"slovakia"	2019	"MEETUP"	25
+"3742"	"slovakia"	2019	"TED"	2
+"3743"	"slovenia"	2008	"BEHANCE"	6
+"3744"	"slovenia"	2009	"BEHANCE"	43
+"3745"	"slovenia"	2009	"TED"	2
+"3746"	"slovenia"	2010	"BEHANCE"	81
+"3747"	"slovenia"	2010	"EFLUX"	3
+"3748"	"slovenia"	2010	"TED"	5
+"3749"	"slovenia"	2011	"BEHANCE"	86
+"3750"	"slovenia"	2011	"EFLUX"	4
+"3751"	"slovenia"	2011	"MEETUP"	2
+"3752"	"slovenia"	2011	"TED"	5
+"3753"	"slovenia"	2012	"BEHANCE"	199
+"3754"	"slovenia"	2012	"EFLUX"	6
+"3755"	"slovenia"	2012	"MEETUP"	9
+"3756"	"slovenia"	2012	"TED"	10
+"3757"	"slovenia"	2013	"BEHANCE"	325
+"3758"	"slovenia"	2013	"EFLUX"	4
+"3759"	"slovenia"	2013	"MEETUP"	59
+"3760"	"slovenia"	2013	"TED"	16
+"3761"	"slovenia"	2014	"BEHANCE"	288
+"3762"	"slovenia"	2014	"EFLUX"	4
+"3763"	"slovenia"	2014	"MEETUP"	126
+"3764"	"slovenia"	2014	"TED"	8
+"3765"	"slovenia"	2015	"BEHANCE"	222
+"3766"	"slovenia"	2015	"EFLUX"	9
+"3767"	"slovenia"	2015	"MEETUP"	142
+"3768"	"slovenia"	2015	"TED"	10
+"3769"	"slovenia"	2016	"BEHANCE"	179
+"3770"	"slovenia"	2016	"EFLUX"	6
+"3771"	"slovenia"	2016	"MEETUP"	157
+"3772"	"slovenia"	2016	"TED"	15
+"3773"	"slovenia"	2017	"BEHANCE"	182
+"3774"	"slovenia"	2017	"EFLUX"	4
+"3775"	"slovenia"	2017	"MEETUP"	209
+"3776"	"slovenia"	2017	"TED"	9
+"3777"	"slovenia"	2018	"ART_EDUCATION"	1
+"3778"	"slovenia"	2018	"BEHANCE"	136
+"3779"	"slovenia"	2018	"EFLUX"	1
+"3780"	"slovenia"	2018	"MEETUP"	269
+"3781"	"slovenia"	2018	"TED"	2
+"3782"	"slovenia"	2018	"TIMEPAD"	4
+"3783"	"slovenia"	2019	"BEHANCE"	22
+"3784"	"slovenia"	2019	"MEETUP"	49
+"3785"	"slovenia"	2019	"TED"	2
+"3786"	"solomon islands"	2014	"MEETUP"	1
+"3787"	"somalia"	2012	"TED"	1
+"3788"	"somalia"	2013	"TED"	1
+"3789"	"somalia"	2014	"TED"	1
+"3790"	"somalia"	2015	"TED"	1
+"3791"	"somalia"	2017	"TED"	1
+"3792"	"somalia"	2018	"TED"	3
+"3793"	"somalia"	2019	"TED"	1
+"3794"	"south africa"	2007	"BEHANCE"	9
+"3795"	"south africa"	2008	"BEHANCE"	72
+"3796"	"south africa"	2009	"BEHANCE"	291
+"3797"	"south africa"	2009	"TED"	14
+"3798"	"south africa"	2010	"BEHANCE"	409
+"3799"	"south africa"	2010	"MEETUP"	1
+"3800"	"south africa"	2010	"TED"	11
+"3801"	"south africa"	2011	"ART_EDUCATION"	1
+"3802"	"south africa"	2011	"BEHANCE"	916
+"3803"	"south africa"	2011	"EFLUX"	4
+"3804"	"south africa"	2011	"TED"	15
+"3805"	"south africa"	2012	"ART_EDUCATION"	5
+"3806"	"south africa"	2012	"BEHANCE"	1511
+"3807"	"south africa"	2012	"EFLUX"	2
+"3808"	"south africa"	2012	"TED"	25
+"3809"	"south africa"	2013	"BEHANCE"	2245
+"3810"	"south africa"	2013	"EFLUX"	6
+"3811"	"south africa"	2013	"MEETUP"	1
+"3812"	"south africa"	2013	"TED"	20
+"3813"	"south africa"	2014	"BEHANCE"	1959
+"3814"	"south africa"	2014	"EFLUX"	3
+"3815"	"south africa"	2014	"MEETUP"	2
+"3816"	"south africa"	2014	"TED"	23
+"3817"	"south africa"	2015	"ART_EDUCATION"	2
+"3818"	"south africa"	2015	"BEHANCE"	1596
+"3819"	"south africa"	2015	"EFLUX"	3
+"3820"	"south africa"	2015	"MEETUP"	2
+"3821"	"south africa"	2015	"TED"	22
+"3822"	"south africa"	2016	"ART_EDUCATION"	2
+"3823"	"south africa"	2016	"BEHANCE"	1583
+"3824"	"south africa"	2016	"EFLUX"	3
+"3825"	"south africa"	2016	"MEETUP"	2
+"3826"	"south africa"	2016	"TED"	26
+"3827"	"south africa"	2017	"BEHANCE"	1582
+"3828"	"south africa"	2017	"EFLUX"	4
+"3829"	"south africa"	2017	"MEETUP"	15
+"3830"	"south africa"	2017	"TED"	23
+"3831"	"south africa"	2018	"ART_EDUCATION"	1
+"3832"	"south africa"	2018	"BEHANCE"	1377
+"3833"	"south africa"	2018	"EFLUX"	2
+"3834"	"south africa"	2018	"MEETUP"	32
+"3835"	"south africa"	2018	"TED"	15
+"3836"	"south africa"	2019	"BEHANCE"	221
+"3837"	"south africa"	2019	"MEETUP"	9
+"3838"	"south africa"	2019	"TED"	6
+"3839"	"south korea"	2007	"MEETUP"	4
+"3840"	"south korea"	2008	"BEHANCE"	23
+"3841"	"south korea"	2008	"MEETUP"	50
+"3842"	"south korea"	2009	"BEHANCE"	86
+"3843"	"south korea"	2009	"MEETUP"	93
+"3844"	"south korea"	2009	"TED"	11
+"3845"	"south korea"	2010	"ART_EDUCATION"	1
+"3846"	"south korea"	2010	"BEHANCE"	122
+"3847"	"south korea"	2010	"EFLUX"	17
+"3848"	"south korea"	2010	"MEETUP"	270
+"3849"	"south korea"	2010	"TED"	36
+"3850"	"south korea"	2011	"ART_EDUCATION"	2
+"3851"	"south korea"	2011	"BEHANCE"	211
+"3852"	"south korea"	2011	"EFLUX"	9
+"3853"	"south korea"	2011	"MEETUP"	561
+"3854"	"south korea"	2011	"TED"	84
+"3855"	"south korea"	2012	"ART_EDUCATION"	5
+"3856"	"south korea"	2012	"BEHANCE"	641
+"3857"	"south korea"	2012	"EFLUX"	13
+"3858"	"south korea"	2012	"MEETUP"	783
+"3859"	"south korea"	2012	"TED"	95
+"3860"	"south korea"	2013	"BEHANCE"	2082
+"3861"	"south korea"	2013	"EFLUX"	12
+"3862"	"south korea"	2013	"MEETUP"	553
+"3863"	"south korea"	2013	"TED"	88
+"3864"	"south korea"	2014	"ART_EDUCATION"	1
+"3865"	"south korea"	2014	"BEHANCE"	2388
+"3866"	"south korea"	2014	"EFLUX"	11
+"3867"	"south korea"	2014	"MEETUP"	1122
+"3868"	"south korea"	2014	"TED"	60
+"3869"	"south korea"	2015	"BEHANCE"	1823
+"3870"	"south korea"	2015	"EFLUX"	11
+"3871"	"south korea"	2015	"MEETUP"	1723
+"3872"	"south korea"	2015	"TED"	59
+"3873"	"south korea"	2016	"ART_EDUCATION"	2
+"3874"	"south korea"	2016	"BEHANCE"	2093
+"3875"	"south korea"	2016	"EFLUX"	16
+"3876"	"south korea"	2016	"MEETUP"	1238
+"3877"	"south korea"	2016	"TED"	48
+"3878"	"south korea"	2017	"ART_EDUCATION"	2
+"3879"	"south korea"	2017	"BEHANCE"	2475
+"3880"	"south korea"	2017	"EFLUX"	17
+"3881"	"south korea"	2017	"MEETUP"	1965
+"3882"	"south korea"	2017	"TED"	39
+"3883"	"south korea"	2017	"TIMEPAD"	1
+"3884"	"south korea"	2018	"BEHANCE"	2143
+"3885"	"south korea"	2018	"EFLUX"	19
+"3886"	"south korea"	2018	"MEETUP"	2528
+"3887"	"south korea"	2018	"TED"	42
+"3888"	"south korea"	2018	"TIMEPAD"	2
+"3889"	"south korea"	2019	"BEHANCE"	383
+"3890"	"south korea"	2019	"MEETUP"	400
+"3891"	"south korea"	2019	"TED"	9
+"3892"	"south korea"	2019	"TIMEPAD"	1
+"3893"	"south sudan"	2012	"TED"	1
+"3894"	"spain"	2004	"MEETUP"	5
+"3895"	"spain"	2005	"MEETUP"	23
+"3896"	"spain"	2006	"MEETUP"	24
+"3897"	"spain"	2007	"BEHANCE"	53
+"3898"	"spain"	2007	"MEETUP"	24
+"3899"	"spain"	2008	"BEHANCE"	510
+"3900"	"spain"	2008	"MEETUP"	27
+"3901"	"spain"	2009	"BEHANCE"	1294
+"3902"	"spain"	2009	"MEETUP"	37
+"3903"	"spain"	2009	"TED"	3
+"3904"	"spain"	2010	"ART_EDUCATION"	3
+"3905"	"spain"	2010	"BEHANCE"	1997
+"3906"	"spain"	2010	"EFLUX"	32
+"3907"	"spain"	2010	"MEETUP"	35
+"3908"	"spain"	2010	"TED"	11
+"3909"	"spain"	2011	"ART_EDUCATION"	3
+"3910"	"spain"	2011	"BEHANCE"	3470
+"3911"	"spain"	2011	"EFLUX"	22
+"3912"	"spain"	2011	"MEETUP"	111
+"3913"	"spain"	2011	"TED"	36
+"3914"	"spain"	2012	"ART_EDUCATION"	2
+"3915"	"spain"	2012	"BEHANCE"	5716
+"3916"	"spain"	2012	"EFLUX"	20
+"3917"	"spain"	2012	"MEETUP"	212
+"3918"	"spain"	2012	"TED"	55
+"3919"	"spain"	2013	"ART_EDUCATION"	1
+"3920"	"spain"	2013	"BEHANCE"	8469
+"3921"	"spain"	2013	"EFLUX"	15
+"3922"	"spain"	2013	"MEETUP"	361
+"3923"	"spain"	2013	"TED"	87
+"3924"	"spain"	2013	"TIMEPAD"	2
+"3925"	"spain"	2014	"BEHANCE"	9225
+"3926"	"spain"	2014	"EFLUX"	20
+"3927"	"spain"	2014	"MEETUP"	948
+"3928"	"spain"	2014	"TED"	81
+"3929"	"spain"	2014	"TIMEPAD"	4
+"3930"	"spain"	2015	"ART_EDUCATION"	1
+"3931"	"spain"	2015	"BEHANCE"	7332
+"3932"	"spain"	2015	"EFLUX"	21
+"3933"	"spain"	2015	"MEETUP"	1180
+"3934"	"spain"	2015	"TED"	87
+"3935"	"spain"	2015	"TIMEPAD"	5
+"3936"	"spain"	2016	"ART_EDUCATION"	1
+"3937"	"spain"	2016	"BEHANCE"	7540
+"3938"	"spain"	2016	"EFLUX"	16
+"3939"	"spain"	2016	"MEETUP"	2108
+"3940"	"spain"	2016	"TED"	97
+"3941"	"spain"	2016	"TIMEPAD"	14
+"3942"	"spain"	2017	"ART_EDUCATION"	1
+"3943"	"spain"	2017	"BEHANCE"	7091
+"3944"	"spain"	2017	"EFLUX"	23
+"3945"	"spain"	2017	"MEETUP"	3284
+"3946"	"spain"	2017	"TED"	96
+"3947"	"spain"	2017	"TIMEPAD"	11
+"3948"	"spain"	2018	"BEHANCE"	6450
+"3949"	"spain"	2018	"EFLUX"	18
+"3950"	"spain"	2018	"MEETUP"	4531
+"3951"	"spain"	2018	"TED"	81
+"3952"	"spain"	2018	"TIMEPAD"	36
+"3953"	"spain"	2019	"BEHANCE"	1040
+"3954"	"spain"	2019	"MEETUP"	888
+"3955"	"spain"	2019	"TED"	34
+"3956"	"spain"	2019	"TIMEPAD"	2
+"3957"	"sri lanka"	2008	"BEHANCE"	1
+"3958"	"sri lanka"	2009	"BEHANCE"	4
+"3959"	"sri lanka"	2009	"MEETUP"	1
+"3960"	"sri lanka"	2009	"TED"	1
+"3961"	"sri lanka"	2010	"BEHANCE"	20
+"3962"	"sri lanka"	2011	"BEHANCE"	33
+"3963"	"sri lanka"	2011	"MEETUP"	1
+"3964"	"sri lanka"	2011	"TED"	1
+"3965"	"sri lanka"	2012	"BEHANCE"	33
+"3966"	"sri lanka"	2012	"MEETUP"	28
+"3967"	"sri lanka"	2012	"TED"	1
+"3968"	"sri lanka"	2013	"BEHANCE"	70
+"3969"	"sri lanka"	2013	"EFLUX"	1
+"3970"	"sri lanka"	2013	"MEETUP"	31
+"3971"	"sri lanka"	2013	"TED"	2
+"3972"	"sri lanka"	2014	"BEHANCE"	105
+"3973"	"sri lanka"	2014	"MEETUP"	49
+"3974"	"sri lanka"	2014	"TED"	1
+"3975"	"sri lanka"	2015	"BEHANCE"	74
+"3976"	"sri lanka"	2015	"EFLUX"	1
+"3977"	"sri lanka"	2015	"MEETUP"	87
+"3978"	"sri lanka"	2015	"TED"	3
+"3979"	"sri lanka"	2016	"BEHANCE"	50
+"3980"	"sri lanka"	2016	"EFLUX"	1
+"3981"	"sri lanka"	2016	"MEETUP"	228
+"3982"	"sri lanka"	2016	"TED"	4
+"3983"	"sri lanka"	2017	"BEHANCE"	96
+"3984"	"sri lanka"	2017	"MEETUP"	213
+"3985"	"sri lanka"	2017	"TED"	2
+"3986"	"sri lanka"	2018	"BEHANCE"	65
+"3987"	"sri lanka"	2018	"MEETUP"	254
+"3988"	"sri lanka"	2018	"TED"	4
+"3989"	"sri lanka"	2019	"BEHANCE"	4
+"3990"	"sri lanka"	2019	"MEETUP"	46
+"3991"	"sri lanka"	2019	"TED"	2
+"3992"	"sudan"	2010	"BEHANCE"	1
+"3993"	"sudan"	2011	"TED"	4
+"3994"	"sudan"	2012	"BEHANCE"	2
+"3995"	"sudan"	2012	"TED"	5
+"3996"	"sudan"	2013	"BEHANCE"	13
+"3997"	"sudan"	2013	"TED"	12
+"3998"	"sudan"	2014	"BEHANCE"	3
+"3999"	"sudan"	2014	"TED"	4
+"4000"	"sudan"	2015	"MEETUP"	3
+"4001"	"sudan"	2015	"TED"	8
+"4002"	"sudan"	2016	"BEHANCE"	1
+"4003"	"sudan"	2016	"MEETUP"	94
+"4004"	"sudan"	2016	"TED"	5
+"4005"	"sudan"	2017	"MEETUP"	50
+"4006"	"sudan"	2017	"TED"	4
+"4007"	"sudan"	2018	"MEETUP"	21
+"4008"	"sudan"	2018	"TED"	9
+"4009"	"sudan"	2019	"MEETUP"	2
+"4010"	"sudan"	2019	"TED"	6
+"4011"	"suriname"	2010	"BEHANCE"	1
+"4012"	"suriname"	2011	"BEHANCE"	1
+"4013"	"suriname"	2013	"BEHANCE"	2
+"4014"	"suriname"	2013	"TED"	1
+"4015"	"suriname"	2014	"TED"	1
+"4016"	"suriname"	2015	"BEHANCE"	1
+"4017"	"suriname"	2015	"TED"	1
+"4018"	"suriname"	2016	"TED"	1
+"4019"	"suriname"	2017	"BEHANCE"	15
+"4020"	"suriname"	2018	"BEHANCE"	3
+"4021"	"suriname"	2018	"TED"	1
+"4022"	"sweden"	2004	"MEETUP"	1
+"4023"	"sweden"	2005	"MEETUP"	11
+"4024"	"sweden"	2006	"MEETUP"	10
+"4025"	"sweden"	2007	"BEHANCE"	16
+"4026"	"sweden"	2007	"MEETUP"	27
+"4027"	"sweden"	2008	"BEHANCE"	42
+"4028"	"sweden"	2008	"MEETUP"	46
+"4029"	"sweden"	2009	"BEHANCE"	241
+"4030"	"sweden"	2009	"MEETUP"	122
+"4031"	"sweden"	2009	"TED"	4
+"4032"	"sweden"	2010	"ART_EDUCATION"	7
+"4033"	"sweden"	2010	"BEHANCE"	335
+"4034"	"sweden"	2010	"EFLUX"	7
+"4035"	"sweden"	2010	"MEETUP"	109
+"4036"	"sweden"	2010	"TED"	27
+"4037"	"sweden"	2011	"ART_EDUCATION"	10
+"4038"	"sweden"	2011	"BEHANCE"	626
+"4039"	"sweden"	2011	"EFLUX"	4
+"4040"	"sweden"	2011	"MEETUP"	189
+"4041"	"sweden"	2011	"TED"	18
+"4042"	"sweden"	2012	"ART_EDUCATION"	4
+"4043"	"sweden"	2012	"BEHANCE"	1006
+"4044"	"sweden"	2012	"EFLUX"	7
+"4045"	"sweden"	2012	"MEETUP"	874
+"4046"	"sweden"	2012	"TED"	21
+"4047"	"sweden"	2013	"ART_EDUCATION"	6
+"4048"	"sweden"	2013	"BEHANCE"	1483
+"4049"	"sweden"	2013	"EFLUX"	5
+"4050"	"sweden"	2013	"MEETUP"	645
+"4051"	"sweden"	2013	"TED"	22
+"4052"	"sweden"	2014	"ART_EDUCATION"	5
+"4053"	"sweden"	2014	"BEHANCE"	1515
+"4054"	"sweden"	2014	"EFLUX"	4
+"4055"	"sweden"	2014	"MEETUP"	891
+"4056"	"sweden"	2014	"TED"	15
+"4057"	"sweden"	2015	"ART_EDUCATION"	1
+"4058"	"sweden"	2015	"BEHANCE"	1408
+"4059"	"sweden"	2015	"EFLUX"	4
+"4060"	"sweden"	2015	"MEETUP"	1541
+"4061"	"sweden"	2015	"TED"	24
+"4062"	"sweden"	2016	"ART_EDUCATION"	4
+"4063"	"sweden"	2016	"BEHANCE"	1467
+"4064"	"sweden"	2016	"EFLUX"	3
+"4065"	"sweden"	2016	"MEETUP"	1762
+"4066"	"sweden"	2016	"TED"	24
+"4067"	"sweden"	2017	"ART_EDUCATION"	4
+"4068"	"sweden"	2017	"BEHANCE"	1276
+"4069"	"sweden"	2017	"EFLUX"	9
+"4070"	"sweden"	2017	"MEETUP"	1731
+"4071"	"sweden"	2017	"TED"	25
+"4072"	"sweden"	2018	"ART_EDUCATION"	1
+"4073"	"sweden"	2018	"BEHANCE"	1089
+"4074"	"sweden"	2018	"EFLUX"	5
+"4075"	"sweden"	2018	"MEETUP"	2216
+"4076"	"sweden"	2018	"TED"	21
+"4077"	"sweden"	2018	"TIMEPAD"	5
+"4078"	"sweden"	2019	"BEHANCE"	166
+"4079"	"sweden"	2019	"MEETUP"	495
+"4080"	"sweden"	2019	"TED"	10
+"4081"	"switzerland"	2004	"MEETUP"	8
+"4082"	"switzerland"	2005	"MEETUP"	21
+"4083"	"switzerland"	2006	"MEETUP"	25
+"4084"	"switzerland"	2007	"BEHANCE"	7
+"4085"	"switzerland"	2007	"MEETUP"	107
+"4086"	"switzerland"	2008	"BEHANCE"	32
+"4087"	"switzerland"	2008	"MEETUP"	220
+"4088"	"switzerland"	2009	"BEHANCE"	162
+"4089"	"switzerland"	2009	"MEETUP"	250
+"4090"	"switzerland"	2009	"TED"	1
+"4091"	"switzerland"	2010	"ART_EDUCATION"	5
+"4092"	"switzerland"	2010	"BEHANCE"	242
+"4093"	"switzerland"	2010	"EFLUX"	16
+"4094"	"switzerland"	2010	"MEETUP"	383
+"4095"	"switzerland"	2010	"TED"	9
+"4096"	"switzerland"	2011	"ART_EDUCATION"	4
+"4097"	"switzerland"	2011	"BEHANCE"	455
+"4098"	"switzerland"	2011	"EFLUX"	23
+"4099"	"switzerland"	2011	"MEETUP"	574
+"4100"	"switzerland"	2011	"TED"	12
+"4101"	"switzerland"	2012	"ART_EDUCATION"	10
+"4102"	"switzerland"	2012	"BEHANCE"	790
+"4103"	"switzerland"	2012	"EFLUX"	20
+"4104"	"switzerland"	2012	"MEETUP"	933
+"4105"	"switzerland"	2012	"TED"	19
+"4106"	"switzerland"	2013	"BEHANCE"	1319
+"4107"	"switzerland"	2013	"EFLUX"	10
+"4108"	"switzerland"	2013	"MEETUP"	774
+"4109"	"switzerland"	2013	"TED"	17
+"4110"	"switzerland"	2014	"ART_EDUCATION"	2
+"4111"	"switzerland"	2014	"BEHANCE"	1195
+"4112"	"switzerland"	2014	"EFLUX"	20
+"4113"	"switzerland"	2014	"MEETUP"	1271
+"4114"	"switzerland"	2014	"TED"	18
+"4115"	"switzerland"	2015	"BEHANCE"	1046
+"4116"	"switzerland"	2015	"EFLUX"	33
+"4117"	"switzerland"	2015	"MEETUP"	1605
+"4118"	"switzerland"	2015	"TED"	24
+"4119"	"switzerland"	2015	"TIMEPAD"	1
+"4120"	"switzerland"	2016	"ART_EDUCATION"	5
+"4121"	"switzerland"	2016	"BEHANCE"	1009
+"4122"	"switzerland"	2016	"EFLUX"	25
+"4123"	"switzerland"	2016	"MEETUP"	2760
+"4124"	"switzerland"	2016	"TED"	27
+"4125"	"switzerland"	2016	"TIMEPAD"	4
+"4126"	"switzerland"	2017	"ART_EDUCATION"	4
+"4127"	"switzerland"	2017	"BEHANCE"	979
+"4128"	"switzerland"	2017	"EFLUX"	28
+"4129"	"switzerland"	2017	"MEETUP"	3280
+"4130"	"switzerland"	2017	"TED"	23
+"4131"	"switzerland"	2017	"TIMEPAD"	3
+"4132"	"switzerland"	2018	"ART_EDUCATION"	6
+"4133"	"switzerland"	2018	"BEHANCE"	787
+"4134"	"switzerland"	2018	"EFLUX"	22
+"4135"	"switzerland"	2018	"MEETUP"	4963
+"4136"	"switzerland"	2018	"TED"	32
+"4137"	"switzerland"	2018	"TIMEPAD"	3
+"4138"	"switzerland"	2019	"BEHANCE"	130
+"4139"	"switzerland"	2019	"MEETUP"	821
+"4140"	"switzerland"	2019	"TED"	9
+"4141"	"switzerland"	2019	"TIMEPAD"	1
+"4142"	"syria"	2010	"TED"	1
+"4143"	"syria"	2011	"BEHANCE"	2
+"4144"	"syria"	2012	"BEHANCE"	3
+"4145"	"syria"	2012	"TED"	2
+"4146"	"syria"	2013	"BEHANCE"	17
+"4147"	"syria"	2013	"MEETUP"	1
+"4148"	"syria"	2014	"BEHANCE"	5
+"4149"	"syria"	2015	"BEHANCE"	20
+"4150"	"syria"	2015	"TED"	5
+"4151"	"syria"	2016	"BEHANCE"	13
+"4152"	"syria"	2016	"TED"	9
+"4153"	"syria"	2017	"BEHANCE"	9
+"4154"	"syria"	2017	"EFLUX"	1
+"4155"	"syria"	2017	"TED"	6
+"4156"	"syria"	2018	"ART_EDUCATION"	1
+"4157"	"syria"	2018	"BEHANCE"	6
+"4158"	"syria"	2018	"MEETUP"	2
+"4159"	"syria"	2018	"TED"	6
+"4160"	"syria"	2019	"BEHANCE"	4
+"4161"	"syria"	2019	"TED"	4
+"4162"	"tajikistan"	2012	"TED"	1
+"4163"	"tajikistan"	2013	"TIMEPAD"	4
+"4164"	"tajikistan"	2014	"BEHANCE"	4
+"4165"	"tajikistan"	2014	"TIMEPAD"	2
+"4166"	"tajikistan"	2015	"BEHANCE"	7
+"4167"	"tajikistan"	2015	"TIMEPAD"	6
+"4168"	"tajikistan"	2016	"BEHANCE"	6
+"4169"	"tajikistan"	2016	"TIMEPAD"	5
+"4170"	"tajikistan"	2017	"BEHANCE"	4
+"4171"	"tajikistan"	2017	"TIMEPAD"	3
+"4172"	"tajikistan"	2018	"BEHANCE"	3
+"4173"	"tajikistan"	2018	"TIMEPAD"	4
+"4174"	"tajikistan"	2019	"BEHANCE"	3
+"4175"	"tajikistan"	2019	"TED"	1
+"4176"	"tajikistan"	2019	"TIMEPAD"	2
+"4177"	"tanzania"	2010	"BEHANCE"	11
+"4178"	"tanzania"	2010	"TED"	1
+"4179"	"tanzania"	2011	"TED"	1
+"4180"	"tanzania"	2012	"BEHANCE"	4
+"4181"	"tanzania"	2014	"BEHANCE"	2
+"4182"	"tanzania"	2014	"EFLUX"	1
+"4183"	"tanzania"	2014	"MEETUP"	1
+"4184"	"tanzania"	2015	"MEETUP"	4
+"4185"	"tanzania"	2015	"TED"	1
+"4186"	"tanzania"	2016	"BEHANCE"	16
+"4187"	"tanzania"	2016	"MEETUP"	1
+"4188"	"tanzania"	2016	"TED"	1
+"4189"	"tanzania"	2017	"MEETUP"	8
+"4190"	"tanzania"	2017	"TED"	1
+"4191"	"tanzania"	2018	"MEETUP"	8
+"4192"	"tanzania"	2018	"TED"	4
+"4193"	"tanzania"	2019	"TED"	1
+"4194"	"thailand"	2004	"MEETUP"	7
+"4195"	"thailand"	2005	"MEETUP"	38
+"4196"	"thailand"	2006	"MEETUP"	39
+"4197"	"thailand"	2007	"MEETUP"	107
+"4198"	"thailand"	2008	"BEHANCE"	10
+"4199"	"thailand"	2008	"MEETUP"	64
+"4200"	"thailand"	2009	"BEHANCE"	86
+"4201"	"thailand"	2009	"MEETUP"	45
+"4202"	"thailand"	2009	"TED"	1
+"4203"	"thailand"	2010	"BEHANCE"	191
+"4204"	"thailand"	2010	"MEETUP"	54
+"4205"	"thailand"	2010	"TED"	5
+"4206"	"thailand"	2011	"BEHANCE"	163
+"4207"	"thailand"	2011	"MEETUP"	78
+"4208"	"thailand"	2011	"TED"	5
+"4209"	"thailand"	2012	"BEHANCE"	423
+"4210"	"thailand"	2012	"MEETUP"	420
+"4211"	"thailand"	2012	"TED"	7
+"4212"	"thailand"	2013	"BEHANCE"	834
+"4213"	"thailand"	2013	"MEETUP"	487
+"4214"	"thailand"	2013	"TED"	5
+"4215"	"thailand"	2014	"BEHANCE"	860
+"4216"	"thailand"	2014	"MEETUP"	858
+"4217"	"thailand"	2014	"TED"	10
+"4218"	"thailand"	2015	"BEHANCE"	571
+"4219"	"thailand"	2015	"EFLUX"	1
+"4220"	"thailand"	2015	"MEETUP"	1061
+"4221"	"thailand"	2015	"TED"	7
+"4222"	"thailand"	2016	"BEHANCE"	576
+"4223"	"thailand"	2016	"EFLUX"	2
+"4224"	"thailand"	2016	"MEETUP"	1355
+"4225"	"thailand"	2016	"TED"	12
+"4226"	"thailand"	2017	"BEHANCE"	573
+"4227"	"thailand"	2017	"MEETUP"	1661
+"4228"	"thailand"	2017	"TED"	20
+"4229"	"thailand"	2017	"TIMEPAD"	11
+"4230"	"thailand"	2018	"BEHANCE"	535
+"4231"	"thailand"	2018	"EFLUX"	2
+"4232"	"thailand"	2018	"MEETUP"	2169
+"4233"	"thailand"	2018	"TED"	17
+"4234"	"thailand"	2018	"TIMEPAD"	26
+"4235"	"thailand"	2019	"BEHANCE"	72
+"4236"	"thailand"	2019	"MEETUP"	426
+"4237"	"thailand"	2019	"TED"	5
+"4238"	"the bahamas"	2006	"MEETUP"	2
+"4239"	"the bahamas"	2007	"MEETUP"	2
+"4240"	"the bahamas"	2011	"MEETUP"	1
+"4241"	"the bahamas"	2014	"MEETUP"	2
+"4242"	"the bahamas"	2015	"MEETUP"	6
+"4243"	"the bahamas"	2016	"MEETUP"	4
+"4244"	"the bahamas"	2017	"MEETUP"	3
+"4245"	"the bahamas"	2018	"MEETUP"	1
+"4246"	"the czech republic"	2007	"BEHANCE"	6
+"4247"	"the czech republic"	2008	"BEHANCE"	32
+"4248"	"the czech republic"	2009	"BEHANCE"	140
+"4249"	"the czech republic"	2009	"MEETUP"	2
+"4250"	"the czech republic"	2009	"TED"	1
+"4251"	"the czech republic"	2010	"ART_EDUCATION"	1
+"4252"	"the czech republic"	2010	"BEHANCE"	293
+"4253"	"the czech republic"	2010	"EFLUX"	2
+"4254"	"the czech republic"	2010	"TED"	2
+"4255"	"the czech republic"	2011	"ART_EDUCATION"	1
+"4256"	"the czech republic"	2011	"BEHANCE"	423
+"4257"	"the czech republic"	2011	"EFLUX"	4
+"4258"	"the czech republic"	2011	"TED"	2
+"4259"	"the czech republic"	2012	"ART_EDUCATION"	2
+"4260"	"the czech republic"	2012	"BEHANCE"	742
+"4261"	"the czech republic"	2012	"MEETUP"	1
+"4262"	"the czech republic"	2012	"TED"	7
+"4263"	"the czech republic"	2013	"ART_EDUCATION"	2
+"4264"	"the czech republic"	2013	"BEHANCE"	992
+"4265"	"the czech republic"	2013	"MEETUP"	4
+"4266"	"the czech republic"	2013	"TED"	11
+"4267"	"the czech republic"	2013	"TIMEPAD"	6
+"4268"	"the czech republic"	2014	"BEHANCE"	1030
+"4269"	"the czech republic"	2014	"EFLUX"	1
+"4270"	"the czech republic"	2014	"MEETUP"	14
+"4271"	"the czech republic"	2014	"TED"	10
+"4272"	"the czech republic"	2014	"TIMEPAD"	19
+"4273"	"the czech republic"	2015	"ART_EDUCATION"	1
+"4274"	"the czech republic"	2015	"BEHANCE"	876
+"4275"	"the czech republic"	2015	"EFLUX"	4
+"4276"	"the czech republic"	2015	"MEETUP"	20
+"4277"	"the czech republic"	2015	"TED"	13
+"4278"	"the czech republic"	2015	"TIMEPAD"	16
+"4279"	"the czech republic"	2016	"BEHANCE"	797
+"4280"	"the czech republic"	2016	"EFLUX"	6
+"4281"	"the czech republic"	2016	"MEETUP"	81
+"4282"	"the czech republic"	2016	"TED"	11
+"4283"	"the czech republic"	2016	"TIMEPAD"	113
+"4284"	"the czech republic"	2017	"BEHANCE"	728
+"4285"	"the czech republic"	2017	"EFLUX"	2
+"4286"	"the czech republic"	2017	"MEETUP"	129
+"4287"	"the czech republic"	2017	"TED"	12
+"4288"	"the czech republic"	2017	"TIMEPAD"	54
+"4289"	"the czech republic"	2018	"BEHANCE"	829
+"4290"	"the czech republic"	2018	"EFLUX"	5
+"4291"	"the czech republic"	2018	"MEETUP"	264
+"4292"	"the czech republic"	2018	"TED"	16
+"4293"	"the czech republic"	2018	"TIMEPAD"	25
+"4294"	"the czech republic"	2019	"BEHANCE"	122
+"4295"	"the czech republic"	2019	"MEETUP"	38
+"4296"	"the czech republic"	2019	"TED"	5
+"4297"	"the czech republic"	2019	"TIMEPAD"	1
+"4298"	"timor-leste"	2015	"BEHANCE"	1
+"4299"	"timor-leste"	2015	"TED"	2
+"4300"	"timor-leste"	2016	"TED"	1
+"4301"	"timor-leste"	2017	"TED"	1
+"4302"	"timor-leste"	2019	"TED"	1
+"4303"	"togo"	2017	"TED"	1
+"4304"	"togo"	2018	"TED"	1
+"4305"	"togo"	2019	"TED"	1
+"4306"	"trinidad and tobago"	2010	"BEHANCE"	4
+"4307"	"trinidad and tobago"	2010	"TED"	1
+"4308"	"trinidad and tobago"	2011	"BEHANCE"	9
+"4309"	"trinidad and tobago"	2011	"TED"	3
+"4310"	"trinidad and tobago"	2012	"BEHANCE"	48
+"4311"	"trinidad and tobago"	2012	"TED"	6
+"4312"	"trinidad and tobago"	2013	"BEHANCE"	14
+"4313"	"trinidad and tobago"	2013	"TED"	2
+"4314"	"trinidad and tobago"	2014	"BEHANCE"	5
+"4315"	"trinidad and tobago"	2014	"TED"	2
+"4316"	"trinidad and tobago"	2015	"BEHANCE"	10
+"4317"	"trinidad and tobago"	2015	"TED"	1
+"4318"	"trinidad and tobago"	2016	"BEHANCE"	6
+"4319"	"trinidad and tobago"	2016	"TED"	3
+"4320"	"trinidad and tobago"	2017	"BEHANCE"	5
+"4321"	"trinidad and tobago"	2017	"MEETUP"	1
+"4322"	"trinidad and tobago"	2017	"TED"	6
+"4323"	"trinidad and tobago"	2018	"TED"	2
+"4324"	"tunisia"	2010	"TED"	1
+"4325"	"tunisia"	2011	"TED"	7
+"4326"	"tunisia"	2012	"BEHANCE"	12
+"4327"	"tunisia"	2012	"MEETUP"	1
+"4328"	"tunisia"	2012	"TED"	17
+"4329"	"tunisia"	2013	"BEHANCE"	43
+"4330"	"tunisia"	2013	"MEETUP"	2
+"4331"	"tunisia"	2013	"TED"	15
+"4332"	"tunisia"	2014	"BEHANCE"	51
+"4333"	"tunisia"	2014	"EFLUX"	1
+"4334"	"tunisia"	2014	"MEETUP"	8
+"4335"	"tunisia"	2014	"TED"	13
+"4336"	"tunisia"	2015	"BEHANCE"	90
+"4337"	"tunisia"	2015	"MEETUP"	25
+"4338"	"tunisia"	2015	"TED"	10
+"4339"	"tunisia"	2016	"BEHANCE"	76
+"4340"	"tunisia"	2016	"MEETUP"	68
+"4341"	"tunisia"	2016	"TED"	9
+"4342"	"tunisia"	2017	"BEHANCE"	64
+"4343"	"tunisia"	2017	"MEETUP"	71
+"4344"	"tunisia"	2017	"TED"	8
+"4345"	"tunisia"	2018	"BEHANCE"	66
+"4346"	"tunisia"	2018	"MEETUP"	146
+"4347"	"tunisia"	2018	"TED"	9
+"4348"	"tunisia"	2019	"MEETUP"	31
+"4349"	"tunisia"	2019	"TED"	8
+"4350"	"turkey"	2007	"BEHANCE"	6
+"4351"	"turkey"	2008	"BEHANCE"	127
+"4352"	"turkey"	2009	"BEHANCE"	224
+"4353"	"turkey"	2009	"MEETUP"	1
+"4354"	"turkey"	2009	"TED"	2
+"4355"	"turkey"	2010	"BEHANCE"	356
+"4356"	"turkey"	2010	"MEETUP"	10
+"4357"	"turkey"	2010	"TED"	3
+"4358"	"turkey"	2011	"BEHANCE"	629
+"4359"	"turkey"	2011	"MEETUP"	2
+"4360"	"turkey"	2011	"TED"	11
+"4361"	"turkey"	2012	"BEHANCE"	1254
+"4362"	"turkey"	2012	"TED"	10
+"4363"	"turkey"	2013	"BEHANCE"	2188
+"4364"	"turkey"	2013	"MEETUP"	85
+"4365"	"turkey"	2013	"TED"	16
+"4366"	"turkey"	2014	"BEHANCE"	2548
+"4367"	"turkey"	2014	"MEETUP"	169
+"4368"	"turkey"	2014	"TED"	22
+"4369"	"turkey"	2014	"TIMEPAD"	2
+"4370"	"turkey"	2015	"BEHANCE"	2020
+"4371"	"turkey"	2015	"MEETUP"	499
+"4372"	"turkey"	2015	"TED"	22
+"4373"	"turkey"	2015	"TIMEPAD"	6
+"4374"	"turkey"	2016	"BEHANCE"	2137
+"4375"	"turkey"	2016	"EFLUX"	1
+"4376"	"turkey"	2016	"MEETUP"	555
+"4377"	"turkey"	2016	"TED"	32
+"4378"	"turkey"	2017	"BEHANCE"	2219
+"4379"	"turkey"	2017	"EFLUX"	1
+"4380"	"turkey"	2017	"MEETUP"	982
+"4381"	"turkey"	2017	"TED"	36
+"4382"	"turkey"	2017	"TIMEPAD"	9
+"4383"	"turkey"	2018	"BEHANCE"	2290
+"4384"	"turkey"	2018	"MEETUP"	1164
+"4385"	"turkey"	2018	"TED"	53
+"4386"	"turkey"	2018	"TIMEPAD"	33
+"4387"	"turkey"	2019	"BEHANCE"	345
+"4388"	"turkey"	2019	"MEETUP"	294
+"4389"	"turkey"	2019	"TED"	26
+"4390"	"turkey"	2019	"TIMEPAD"	7
+"4391"	"turkmenistan"	2018	"TIMEPAD"	1
+"4392"	"uganda"	2009	"TED"	1
+"4393"	"uganda"	2012	"TED"	6
+"4394"	"uganda"	2013	"BEHANCE"	2
+"4395"	"uganda"	2013	"TED"	5
+"4396"	"uganda"	2014	"BEHANCE"	1
+"4397"	"uganda"	2014	"TED"	4
+"4398"	"uganda"	2015	"BEHANCE"	1
+"4399"	"uganda"	2015	"MEETUP"	2
+"4400"	"uganda"	2015	"TED"	4
+"4401"	"uganda"	2016	"TED"	2
+"4402"	"uganda"	2017	"MEETUP"	1
+"4403"	"uganda"	2017	"TED"	1
+"4404"	"uganda"	2018	"MEETUP"	5
+"4405"	"uganda"	2018	"TED"	3
+"4406"	"ukraine"	2007	"BEHANCE"	2
+"4407"	"ukraine"	2008	"BEHANCE"	133
+"4408"	"ukraine"	2009	"BEHANCE"	372
+"4409"	"ukraine"	2009	"TED"	2
+"4410"	"ukraine"	2010	"BEHANCE"	535
+"4411"	"ukraine"	2010	"TED"	4
+"4412"	"ukraine"	2011	"BEHANCE"	752
+"4413"	"ukraine"	2011	"TED"	6
+"4414"	"ukraine"	2011	"TIMEPAD"	1
+"4415"	"ukraine"	2012	"BEHANCE"	1445
+"4416"	"ukraine"	2012	"EFLUX"	5
+"4417"	"ukraine"	2012	"TED"	19
+"4418"	"ukraine"	2012	"TIMEPAD"	128
+"4419"	"ukraine"	2013	"BEHANCE"	2246
+"4420"	"ukraine"	2013	"EFLUX"	2
+"4421"	"ukraine"	2013	"TED"	18
+"4422"	"ukraine"	2013	"TIMEPAD"	329
+"4423"	"ukraine"	2014	"BEHANCE"	3341
+"4424"	"ukraine"	2014	"TED"	3
+"4425"	"ukraine"	2014	"TIMEPAD"	393
+"4426"	"ukraine"	2015	"BEHANCE"	3853
+"4427"	"ukraine"	2015	"EFLUX"	2
+"4428"	"ukraine"	2015	"MEETUP"	1
+"4429"	"ukraine"	2015	"TED"	10
+"4430"	"ukraine"	2015	"TIMEPAD"	332
+"4431"	"ukraine"	2016	"BEHANCE"	5063
+"4432"	"ukraine"	2016	"EFLUX"	1
+"4433"	"ukraine"	2016	"TED"	19
+"4434"	"ukraine"	2016	"TIMEPAD"	482
+"4435"	"ukraine"	2017	"BEHANCE"	5552
+"4436"	"ukraine"	2017	"EFLUX"	1
+"4437"	"ukraine"	2017	"MEETUP"	2
+"4438"	"ukraine"	2017	"TED"	8
+"4439"	"ukraine"	2017	"TIMEPAD"	396
+"4440"	"ukraine"	2018	"BEHANCE"	5088
+"4441"	"ukraine"	2018	"EFLUX"	6
+"4442"	"ukraine"	2018	"MEETUP"	2
+"4443"	"ukraine"	2018	"TED"	7
+"4444"	"ukraine"	2018	"TIMEPAD"	243
+"4445"	"ukraine"	2019	"BEHANCE"	840
+"4446"	"ukraine"	2019	"TED"	4
+"4447"	"ukraine"	2019	"TIMEPAD"	61
+"4448"	"ukraine"	2020	"TIMEPAD"	1
+"4449"	"united arab emirates"	2005	"MEETUP"	29
+"4450"	"united arab emirates"	2006	"MEETUP"	6
+"4451"	"united arab emirates"	2007	"BEHANCE"	2
+"4452"	"united arab emirates"	2007	"MEETUP"	1
+"4453"	"united arab emirates"	2008	"BEHANCE"	41
+"4454"	"united arab emirates"	2008	"MEETUP"	18
+"4455"	"united arab emirates"	2009	"BEHANCE"	90
+"4456"	"united arab emirates"	2009	"MEETUP"	40
+"4457"	"united arab emirates"	2009	"TED"	4
+"4458"	"united arab emirates"	2010	"ART_EDUCATION"	1
+"4459"	"united arab emirates"	2010	"BEHANCE"	264
+"4460"	"united arab emirates"	2010	"EFLUX"	9
+"4461"	"united arab emirates"	2010	"MEETUP"	104
+"4462"	"united arab emirates"	2010	"TED"	11
+"4463"	"united arab emirates"	2011	"ART_EDUCATION"	3
+"4464"	"united arab emirates"	2011	"BEHANCE"	418
+"4465"	"united arab emirates"	2011	"EFLUX"	9
+"4466"	"united arab emirates"	2011	"MEETUP"	301
+"4467"	"united arab emirates"	2011	"TED"	9
+"4468"	"united arab emirates"	2012	"ART_EDUCATION"	1
+"4469"	"united arab emirates"	2012	"BEHANCE"	788
+"4470"	"united arab emirates"	2012	"EFLUX"	11
+"4471"	"united arab emirates"	2012	"MEETUP"	846
+"4472"	"united arab emirates"	2012	"TED"	24
+"4473"	"united arab emirates"	2013	"ART_EDUCATION"	1
+"4474"	"united arab emirates"	2013	"BEHANCE"	1124
+"4475"	"united arab emirates"	2013	"EFLUX"	14
+"4476"	"united arab emirates"	2013	"MEETUP"	804
+"4477"	"united arab emirates"	2013	"TED"	18
+"4478"	"united arab emirates"	2014	"ART_EDUCATION"	1
+"4479"	"united arab emirates"	2014	"BEHANCE"	901
+"4480"	"united arab emirates"	2014	"EFLUX"	12
+"4481"	"united arab emirates"	2014	"MEETUP"	1622
+"4482"	"united arab emirates"	2014	"TED"	10
+"4483"	"united arab emirates"	2015	"ART_EDUCATION"	2
+"4484"	"united arab emirates"	2015	"BEHANCE"	855
+"4485"	"united arab emirates"	2015	"EFLUX"	10
+"4486"	"united arab emirates"	2015	"MEETUP"	2028
+"4487"	"united arab emirates"	2015	"TED"	13
+"4488"	"united arab emirates"	2016	"BEHANCE"	995
+"4489"	"united arab emirates"	2016	"EFLUX"	9
+"4490"	"united arab emirates"	2016	"MEETUP"	2232
+"4491"	"united arab emirates"	2016	"TED"	29
+"4492"	"united arab emirates"	2016	"TIMEPAD"	6
+"4493"	"united arab emirates"	2017	"BEHANCE"	868
+"4494"	"united arab emirates"	2017	"EFLUX"	10
+"4495"	"united arab emirates"	2017	"MEETUP"	2440
+"4496"	"united arab emirates"	2017	"TED"	25
+"4497"	"united arab emirates"	2017	"TIMEPAD"	1
+"4498"	"united arab emirates"	2018	"BEHANCE"	739
+"4499"	"united arab emirates"	2018	"EFLUX"	18
+"4500"	"united arab emirates"	2018	"MEETUP"	3287
+"4501"	"united arab emirates"	2018	"TED"	36
+"4502"	"united arab emirates"	2018	"TIMEPAD"	1
+"4503"	"united arab emirates"	2019	"BEHANCE"	104
+"4504"	"united arab emirates"	2019	"MEETUP"	728
+"4505"	"united arab emirates"	2019	"TED"	18
+"4506"	"united kingdom"	2004	"MEETUP"	51
+"4507"	"united kingdom"	2005	"MEETUP"	257
+"4508"	"united kingdom"	2006	"MEETUP"	516
+"4509"	"united kingdom"	2007	"BEHANCE"	59
+"4510"	"united kingdom"	2007	"MEETUP"	1064
+"4511"	"united kingdom"	2008	"BEHANCE"	550
+"4512"	"united kingdom"	2008	"MEETUP"	1791
+"4513"	"united kingdom"	2009	"BEHANCE"	1979
+"4514"	"united kingdom"	2009	"MEETUP"	3676
+"4515"	"united kingdom"	2009	"TED"	21
+"4516"	"united kingdom"	2010	"ART_EDUCATION"	14
+"4517"	"united kingdom"	2010	"BEHANCE"	3288
+"4518"	"united kingdom"	2010	"EFLUX"	33
+"4519"	"united kingdom"	2010	"MEETUP"	5302
+"4520"	"united kingdom"	2010	"TED"	30
+"4521"	"united kingdom"	2011	"ART_EDUCATION"	19
+"4522"	"united kingdom"	2011	"BEHANCE"	5387
+"4523"	"united kingdom"	2011	"EFLUX"	35
+"4524"	"united kingdom"	2011	"MEETUP"	6640
+"4525"	"united kingdom"	2011	"TED"	52
+"4526"	"united kingdom"	2012	"ART_EDUCATION"	23
+"4527"	"united kingdom"	2012	"BEHANCE"	8388
+"4528"	"united kingdom"	2012	"EFLUX"	35
+"4529"	"united kingdom"	2012	"MEETUP"	10469
+"4530"	"united kingdom"	2012	"TED"	97
+"4531"	"united kingdom"	2013	"ART_EDUCATION"	22
+"4532"	"united kingdom"	2013	"BEHANCE"	12097
+"4533"	"united kingdom"	2013	"EFLUX"	43
+"4534"	"united kingdom"	2013	"MEETUP"	11881
+"4535"	"united kingdom"	2013	"TED"	109
+"4536"	"united kingdom"	2013	"TIMEPAD"	1
+"4537"	"united kingdom"	2014	"ART_EDUCATION"	21
+"4538"	"united kingdom"	2014	"BEHANCE"	12397
+"4539"	"united kingdom"	2014	"EFLUX"	31
+"4540"	"united kingdom"	2014	"MEETUP"	18614
+"4541"	"united kingdom"	2014	"TED"	99
+"4542"	"united kingdom"	2014	"TIMEPAD"	9
+"4543"	"united kingdom"	2015	"ART_EDUCATION"	20
+"4544"	"united kingdom"	2015	"BEHANCE"	9205
+"4545"	"united kingdom"	2015	"EFLUX"	35
+"4546"	"united kingdom"	2015	"MEETUP"	26292
+"4547"	"united kingdom"	2015	"TED"	151
+"4548"	"united kingdom"	2015	"TIMEPAD"	3
+"4549"	"united kingdom"	2016	"ART_EDUCATION"	21
+"4550"	"united kingdom"	2016	"BEHANCE"	9098
+"4551"	"united kingdom"	2016	"EFLUX"	42
+"4552"	"united kingdom"	2016	"MEETUP"	33151
+"4553"	"united kingdom"	2016	"TED"	149
+"4554"	"united kingdom"	2016	"TIMEPAD"	13
+"4555"	"united kingdom"	2017	"ART_EDUCATION"	16
+"4556"	"united kingdom"	2017	"BEHANCE"	8320
+"4557"	"united kingdom"	2017	"EFLUX"	38
+"4558"	"united kingdom"	2017	"MEETUP"	39345
+"4559"	"united kingdom"	2017	"TED"	169
+"4560"	"united kingdom"	2017	"TIMEPAD"	4
+"4561"	"united kingdom"	2018	"ART_EDUCATION"	17
+"4562"	"united kingdom"	2018	"BEHANCE"	7627
+"4563"	"united kingdom"	2018	"EFLUX"	33
+"4564"	"united kingdom"	2018	"MEETUP"	46031
+"4565"	"united kingdom"	2018	"TED"	157
+"4566"	"united kingdom"	2018	"TIMEPAD"	17
+"4567"	"united kingdom"	2019	"BEHANCE"	1265
+"4568"	"united kingdom"	2019	"MEETUP"	6206
+"4569"	"united kingdom"	2019	"TED"	63
+"4570"	"united kingdom"	2019	"TIMEPAD"	3
+"4571"	"united states"	2003	"MEETUP"	1
+"4572"	"united states"	2004	"MEETUP"	1167
+"4573"	"united states"	2005	"MEETUP"	4601
+"4574"	"united states"	2006	"MEETUP"	9124
+"4575"	"united states"	2007	"BEHANCE"	284
+"4576"	"united states"	2007	"MEETUP"	23837
+"4577"	"united states"	2008	"BEHANCE"	2133
+"4578"	"united states"	2008	"MEETUP"	44565
+"4579"	"united states"	2009	"BEHANCE"	4422
+"4580"	"united states"	2009	"MEETUP"	68676
+"4581"	"united states"	2009	"TED"	71
+"4582"	"united states"	2010	"ART_EDUCATION"	125
+"4583"	"united states"	2010	"BEHANCE"	8588
+"4584"	"united states"	2010	"EFLUX"	192
+"4585"	"united states"	2010	"MEETUP"	93421
+"4586"	"united states"	2010	"TED"	299
+"4587"	"united states"	2011	"ART_EDUCATION"	183
+"4588"	"united states"	2011	"BEHANCE"	12496
+"4589"	"united states"	2011	"EFLUX"	197
+"4590"	"united states"	2011	"MEETUP"	91332
+"4591"	"united states"	2011	"TED"	583
+"4592"	"united states"	2012	"ART_EDUCATION"	154
+"4593"	"united states"	2012	"BEHANCE"	22922
+"4594"	"united states"	2012	"EFLUX"	211
+"4595"	"united states"	2012	"MEETUP"	160028
+"4596"	"united states"	2012	"TED"	789
+"4597"	"united states"	2012	"TIMEPAD"	12
+"4598"	"united states"	2013	"ART_EDUCATION"	89
+"4599"	"united states"	2013	"BEHANCE"	30756
+"4600"	"united states"	2013	"EFLUX"	214
+"4601"	"united states"	2013	"MEETUP"	130882
+"4602"	"united states"	2013	"TED"	910
+"4603"	"united states"	2013	"TIMEPAD"	13
+"4604"	"united states"	2014	"ART_EDUCATION"	90
+"4605"	"united states"	2014	"BEHANCE"	31841
+"4606"	"united states"	2014	"EFLUX"	219
+"4607"	"united states"	2014	"MEETUP"	150061
+"4608"	"united states"	2014	"TED"	822
+"4609"	"united states"	2014	"TIMEPAD"	22
+"4610"	"united states"	2015	"ART_EDUCATION"	84
+"4611"	"united states"	2015	"BEHANCE"	21537
+"4612"	"united states"	2015	"EFLUX"	232
+"4613"	"united states"	2015	"MEETUP"	183650
+"4614"	"united states"	2015	"TED"	1034
+"4615"	"united states"	2015	"TIMEPAD"	26
+"4616"	"united states"	2016	"ART_EDUCATION"	85
+"4617"	"united states"	2016	"BEHANCE"	20840
+"4618"	"united states"	2016	"EFLUX"	224
+"4619"	"united states"	2016	"MEETUP"	210088
+"4620"	"united states"	2016	"TED"	1159
+"4621"	"united states"	2016	"TIMEPAD"	45
+"4622"	"united states"	2017	"ART_EDUCATION"	75
+"4623"	"united states"	2017	"BEHANCE"	19090
+"4624"	"united states"	2017	"EFLUX"	229
+"4625"	"united states"	2017	"MEETUP"	258972
+"4626"	"united states"	2017	"TED"	1000
+"4627"	"united states"	2017	"TIMEPAD"	75
+"4628"	"united states"	2018	"ART_EDUCATION"	93
+"4629"	"united states"	2018	"BEHANCE"	16662
+"4630"	"united states"	2018	"EFLUX"	244
+"4631"	"united states"	2018	"MEETUP"	295811
+"4632"	"united states"	2018	"TED"	944
+"4633"	"united states"	2018	"TIMEPAD"	57
+"4634"	"united states"	2019	"BEHANCE"	3121
+"4635"	"united states"	2019	"MEETUP"	44787
+"4636"	"united states"	2019	"TED"	442
+"4637"	"united states"	2019	"TIMEPAD"	8
+"4638"	"united states"	2020	"TIMEPAD"	1
+"4639"	"uruguay"	2008	"BEHANCE"	4
+"4640"	"uruguay"	2009	"BEHANCE"	19
+"4641"	"uruguay"	2010	"BEHANCE"	58
+"4642"	"uruguay"	2010	"TED"	1
+"4643"	"uruguay"	2011	"BEHANCE"	32
+"4644"	"uruguay"	2011	"EFLUX"	1
+"4645"	"uruguay"	2011	"TED"	2
+"4646"	"uruguay"	2012	"BEHANCE"	83
+"4647"	"uruguay"	2012	"MEETUP"	1
+"4648"	"uruguay"	2012	"TED"	2
+"4649"	"uruguay"	2013	"BEHANCE"	231
+"4650"	"uruguay"	2013	"TED"	3
+"4651"	"uruguay"	2014	"BEHANCE"	242
+"4652"	"uruguay"	2014	"MEETUP"	1
+"4653"	"uruguay"	2014	"TED"	5
+"4654"	"uruguay"	2015	"BEHANCE"	182
+"4655"	"uruguay"	2015	"TED"	4
+"4656"	"uruguay"	2016	"BEHANCE"	143
+"4657"	"uruguay"	2016	"TED"	5
+"4658"	"uruguay"	2017	"BEHANCE"	205
+"4659"	"uruguay"	2017	"TED"	4
+"4660"	"uruguay"	2018	"BEHANCE"	217
+"4661"	"uruguay"	2018	"TED"	7
+"4662"	"uruguay"	2019	"BEHANCE"	23
+"4663"	"uruguay"	2019	"TED"	3
+"4664"	"uzbekistan"	2007	"MEETUP"	2
+"4665"	"uzbekistan"	2009	"BEHANCE"	16
+"4666"	"uzbekistan"	2010	"BEHANCE"	5
+"4667"	"uzbekistan"	2011	"BEHANCE"	3
+"4668"	"uzbekistan"	2012	"BEHANCE"	8
+"4669"	"uzbekistan"	2013	"BEHANCE"	21
+"4670"	"uzbekistan"	2013	"TIMEPAD"	1
+"4671"	"uzbekistan"	2014	"BEHANCE"	34
+"4672"	"uzbekistan"	2014	"TIMEPAD"	1
+"4673"	"uzbekistan"	2015	"BEHANCE"	52
+"4674"	"uzbekistan"	2015	"TIMEPAD"	2
+"4675"	"uzbekistan"	2016	"BEHANCE"	40
+"4676"	"uzbekistan"	2016	"TIMEPAD"	22
+"4677"	"uzbekistan"	2017	"BEHANCE"	56
+"4678"	"uzbekistan"	2017	"TED"	1
+"4679"	"uzbekistan"	2017	"TIMEPAD"	8
+"4680"	"uzbekistan"	2018	"BEHANCE"	47
+"4681"	"uzbekistan"	2018	"TED"	1
+"4682"	"uzbekistan"	2018	"TIMEPAD"	74
+"4683"	"uzbekistan"	2019	"BEHANCE"	6
+"4684"	"uzbekistan"	2019	"TIMEPAD"	6
+"4685"	"vanuatu"	2014	"BEHANCE"	9
+"4686"	"vanuatu"	2016	"BEHANCE"	3
+"4687"	"vanuatu"	2017	"BEHANCE"	1
+"4688"	"venezuela"	2008	"BEHANCE"	3
+"4689"	"venezuela"	2009	"BEHANCE"	26
+"4690"	"venezuela"	2010	"ART_EDUCATION"	1
+"4691"	"venezuela"	2010	"BEHANCE"	39
+"4692"	"venezuela"	2010	"TED"	5
+"4693"	"venezuela"	2011	"ART_EDUCATION"	1
+"4694"	"venezuela"	2011	"BEHANCE"	100
+"4695"	"venezuela"	2011	"EFLUX"	1
+"4696"	"venezuela"	2011	"TED"	2
+"4697"	"venezuela"	2012	"ART_EDUCATION"	1
+"4698"	"venezuela"	2012	"BEHANCE"	148
+"4699"	"venezuela"	2012	"EFLUX"	4
+"4700"	"venezuela"	2012	"TED"	2
+"4701"	"venezuela"	2013	"BEHANCE"	218
+"4702"	"venezuela"	2013	"TED"	3
+"4703"	"venezuela"	2014	"ART_EDUCATION"	1
+"4704"	"venezuela"	2014	"BEHANCE"	235
+"4705"	"venezuela"	2014	"EFLUX"	1
+"4706"	"venezuela"	2015	"BEHANCE"	168
+"4707"	"venezuela"	2015	"EFLUX"	2
+"4708"	"venezuela"	2015	"TED"	2
+"4709"	"venezuela"	2016	"BEHANCE"	161
+"4710"	"venezuela"	2016	"TED"	4
+"4711"	"venezuela"	2017	"BEHANCE"	265
+"4712"	"venezuela"	2017	"MEETUP"	2
+"4713"	"venezuela"	2017	"TED"	3
+"4714"	"venezuela"	2018	"BEHANCE"	181
+"4715"	"venezuela"	2018	"MEETUP"	1
+"4716"	"venezuela"	2018	"TED"	7
+"4717"	"venezuela"	2019	"BEHANCE"	18
+"4718"	"vietnam"	2008	"BEHANCE"	17
+"4719"	"vietnam"	2009	"BEHANCE"	38
+"4720"	"vietnam"	2009	"MEETUP"	17
+"4721"	"vietnam"	2010	"BEHANCE"	73
+"4722"	"vietnam"	2010	"MEETUP"	164
+"4723"	"vietnam"	2010	"TED"	1
+"4724"	"vietnam"	2011	"BEHANCE"	124
+"4725"	"vietnam"	2011	"MEETUP"	20
+"4726"	"vietnam"	2011	"TED"	3
+"4727"	"vietnam"	2012	"BEHANCE"	328
+"4728"	"vietnam"	2012	"MEETUP"	28
+"4729"	"vietnam"	2012	"TED"	6
+"4730"	"vietnam"	2013	"BEHANCE"	749
+"4731"	"vietnam"	2013	"MEETUP"	125
+"4732"	"vietnam"	2013	"TED"	5
+"4733"	"vietnam"	2014	"BEHANCE"	909
+"4734"	"vietnam"	2014	"MEETUP"	221
+"4735"	"vietnam"	2014	"TED"	2
+"4736"	"vietnam"	2015	"BEHANCE"	775
+"4737"	"vietnam"	2015	"MEETUP"	319
+"4738"	"vietnam"	2015	"TED"	6
+"4739"	"vietnam"	2016	"BEHANCE"	985
+"4740"	"vietnam"	2016	"MEETUP"	442
+"4741"	"vietnam"	2016	"TED"	12
+"4742"	"vietnam"	2017	"BEHANCE"	1016
+"4743"	"vietnam"	2017	"MEETUP"	561
+"4744"	"vietnam"	2017	"TED"	10
+"4745"	"vietnam"	2018	"BEHANCE"	1004
+"4746"	"vietnam"	2018	"MEETUP"	620
+"4747"	"vietnam"	2018	"TED"	12
+"4748"	"vietnam"	2019	"BEHANCE"	153
+"4749"	"vietnam"	2019	"MEETUP"	57
+"4750"	"vietnam"	2019	"TED"	6
+"4751"	"yemen"	2012	"BEHANCE"	6
+"4752"	"yemen"	2013	"BEHANCE"	14
+"4753"	"yemen"	2013	"TED"	3
+"4754"	"yemen"	2014	"BEHANCE"	24
+"4755"	"yemen"	2014	"TED"	10
+"4756"	"yemen"	2015	"BEHANCE"	18
+"4757"	"yemen"	2015	"TED"	11
+"4758"	"yemen"	2016	"BEHANCE"	7
+"4759"	"yemen"	2016	"TED"	13
+"4760"	"yemen"	2017	"BEHANCE"	7
+"4761"	"yemen"	2017	"TED"	1
+"4762"	"yemen"	2018	"BEHANCE"	1
+"4763"	"yemen"	2018	"TED"	2
+"4764"	"zambia"	2011	"TED"	1
+"4765"	"zambia"	2012	"MEETUP"	1
+"4766"	"zambia"	2013	"EFLUX"	1
+"4767"	"zambia"	2013	"TED"	1
+"4768"	"zambia"	2015	"EFLUX"	1
+"4769"	"zambia"	2016	"TED"	3
+"4770"	"zambia"	2017	"MEETUP"	3
+"4771"	"zambia"	2017	"TED"	3
+"4772"	"zambia"	2018	"TED"	2
+"4773"	"zambia"	2019	"TED"	1
+"4774"	"zimbabwe"	2011	"TED"	2
+"4775"	"zimbabwe"	2012	"BEHANCE"	1
+"4776"	"zimbabwe"	2012	"TED"	1
+"4777"	"zimbabwe"	2013	"BEHANCE"	3
+"4778"	"zimbabwe"	2014	"ART_EDUCATION"	1
+"4779"	"zimbabwe"	2014	"BEHANCE"	11
+"4780"	"zimbabwe"	2014	"MEETUP"	1
+"4781"	"zimbabwe"	2014	"TED"	2
+"4782"	"zimbabwe"	2015	"BEHANCE"	17
+"4783"	"zimbabwe"	2015	"MEETUP"	1
+"4784"	"zimbabwe"	2015	"TED"	5
+"4785"	"zimbabwe"	2016	"BEHANCE"	4
+"4786"	"zimbabwe"	2016	"MEETUP"	2
+"4787"	"zimbabwe"	2016	"TED"	4
+"4788"	"zimbabwe"	2017	"BEHANCE"	5
+"4789"	"zimbabwe"	2017	"TED"	2
+"4790"	"zimbabwe"	2018	"BEHANCE"	6
+"4791"	"zimbabwe"	2018	"TED"	2

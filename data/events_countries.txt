@@ -1,0 +1,177 @@
+"source"	"country"	"un_country"	"macro_region"	"meso_region"	"development_level"	"gdp_per_capita"	"gdp_volume"	"hdi"	"ECI"	"year"	"events"
+"1"	"TED"	"china"	"china"	"Asia"	"Eastern Asia"	"Developing economies"	16782	23266768925142	0.758	0.691307	2009	72377
+"2"	"TED"	"united states"	"united states"	"Americas"	"Northern America"	"Developed economies"	59928	19485393853000	0.92	1.75541	2009	1976947
+"3"	"TED"	"india"	"india"	"Asia"	"Southern Asia"	"Developing economies"	7169	9596835216103	0.647	0.359807	2009	60724
+"4"	"TED"	"japan"	"japan"	"Asia"	"Eastern Asia"	"Developed economies"	41959	5319800458212	0.915	2.30938	2009	28989
+"5"	"TED"	"germany"	"germany"	"Europe"	"Western Europe"	"Developed economies"	52574	4345630753850	0.939	2.07537	2010	83015
+"6"	"TED"	"russia"	"russia"	"Europe"	"Eastern Europe"	"Transition economies"	25767	3783634636967	0.824	0.852045	2009	739574
+"7"	"TED"	"brazil"	"brazil"	"Americas"	"South America"	"Developing economies"	15662	3255144799735	0.761	0.608252	2009	50838
+"8"	"TED"	"indonesia"	"indonesia"	"Asia"	"South-eastern Asia"	"Developing economies"	12279	3249635337374	0.707	-0.305644	2010	14141
+"9"	"TED"	"united kingdom"	"united kingdom"	"Europe"	"Northern Europe"	"Developed economies"	44896	2965796011802	0.92	1.53259	2009	292591
+"10"	"TED"	"france"	"france"	"Europe"	"Western Europe"	"Developed economies"	44256	2959179910621	0.891	1.38964	2010	86499
+"11"	"TED"	"italy"	"italy"	"Europe"	"Southern Europe"	"Developed economies"	40981	2480871919343	0.883	1.11743	2010	112473
+"12"	"TED"	"mexico"	"mexico"	"Americas"	"Northern America"	"Developing economies"	19432	2424699686101	0.767	1.09955	2010	31082
+"13"	"TED"	"turkey"	"turkey"	"Asia"	"Western Asia"	"Developing economies"	27879	2261007955426	0.807	0.175726	2010	20396
+"14"	"TED"	"south korea"	"south korea"	"Asia"	"Eastern Asia"	"Developing economies"	38824	1998129726322	0.906	1.77613	2009	26473
+"15"	"TED"	"spain"	"spain"	"Europe"	"Southern Europe"	"Developed economies"	39037	1818877781763	0.893	0.777415	2010	74926
+"16"	"TED"	"saudi arabia"	"saudi arabia"	"Asia"	"Western Asia"	"Developing economies"	53693	1777204555788	0.857	0.747155	2009	2479
+"17"	"TED"	"canada"	"canada"	"Americas"	"Northern America"	"Developed economies"	46723	1707282552959	0.922	1.05671	2009	148221
+"18"	"TED"	"iran"	"iran"	"Asia"	"Southern Asia"	"Developing economies"	21011	1695063643475	0.797	-0.158038	2014	1006
+"19"	"TED"	"thailand"	"thailand"	"Asia"	"South-eastern Asia"	"Developing economies"	17917	1240047344586	0.765	0.711704	2011	13899
+"20"	"TED"	"australia"	"australia"	"Oceania"	"Oceania"	"Developed economies"	49654	1221573766769	0.938	0.0863035	2009	76085
+"21"	"TED"	"poland"	"poland"	"Europe"	"Eastern Europe"	"Developed economies"	29931	1136624204731	0.872	1.09432	2010	40874
+"22"	"TED"	"egypt"	"egypt"	"Africa"	"Northern Africa"	"Developing economies"	11742	1132433757642	0.7	-0.319753	2011	10583
+"23"	"TED"	"nigeria"	"nigeria"	"Africa"	"Western Africa"	"Developing economies"	5888	1123780567076	0.534	-1.90268	2012	1712
+"24"	"TED"	"pakistan"	"pakistan"	"Asia"	"Southern Asia"	"Developing economies"	5249	1091292607466	0.56	-0.859978	2010	2395
+"25"	"TED"	"netherlands"	"netherlands"	"Europe"	"Western Europe"	"Developed economies"	54503	933708429416	0.934	1.30343	2009	55721
+"26"	"TED"	"malaysia"	"malaysia"	"Asia"	"South-eastern Asia"	"Developing economies"	30004	933277705782	0.804	0.971372	2010	12422
+"27"	"TED"	"argentina"	"argentina"	"Americas"	"South America"	"Developing economies"	20843	918032825601	0.83	0.232335	2010	29778
+"28"	"TED"	"philippines"	"philippines"	"Asia"	"South-eastern Asia"	"Developing economies"	8340	877179868894	0.712	0.381087	2009	10258
+"29"	"TED"	"south africa"	"south africa"	"Africa"	"Southern Africa"	"Developing economies"	13464	767462904046	0.705	0.268797	2009	14073
+"30"	"TED"	"colombia"	"colombia"	"Americas"	"South America"	"Developing economies"	14507	709420539907	0.761	0.144356	2010	23675
+"31"	"TED"	"united arab emirates"	"united arab emirates"	"Asia"	"Western Asia"	"Developing economies"	73356	695942096146	0.866	0.128674	2009	21991
+"32"	"TED"	"iraq"	"iraq"	"Asia"	"Western Asia"	"Developing economies"	17415	653999308119	0.689	NA	2011	420
+"33"	"TED"	"vietnam"	"vietnam"	"Asia"	"South-eastern Asia"	"Developing economies"	6858	648742261440	0.693	-0.623084	2013	8808
+"34"	"TED"	"bangladesh"	"bangladesh"	"Asia"	"Southern Asia"	"Developing economies"	3998	638430000421	0.614	-1.71442	2014	1662
+"35"	"TED"	"algeria"	"algeria"	"Africa"	"Northern Africa"	"Developing economies"	15266	631867579050	0.759	-0.811671	2011	448
+"36"	"TED"	"belgium"	"belgium"	"Europe"	"Western Europe"	"Developed economies"	49412	562067818085	0.919	0.90581	2009	24697
+"37"	"TED"	"switzerland"	"switzerland"	"Europe"	"Western Europe"	"Developed economies"	66300	560353822654	0.946	2.24386	2010	26584
+"38"	"TED"	"venezuela"	"venezuela"	"Americas"	"South America"	"Developing economies"	18102	543891085574	0.726	-0.655229	2010	1605
+"39"	"TED"	"singapore"	"singapore"	"Asia"	"South-eastern Asia"	"Developing economies"	96553	541877633642	0.935	1.86534	2009	25785
+"40"	"TED"	"romania"	"romania"	"Europe"	"Eastern Europe"	"Developed economies"	26596	520940817179	0.816	0.713669	2009	12538
+"41"	"TED"	"sweden"	"sweden"	"Europe"	"Northern Europe"	"Developed economies"	51405	517013807222	0.937	1.80773	2009	21646
+"42"	"TED"	"kazakhstan"	"kazakhstan"	"Asia"	"Central Asia"	"Transition economies"	26491	477835906053	0.817	0.0883664	2013	2611
+"43"	"TED"	"austria"	"austria"	"Europe"	"Western Europe"	"Developed economies"	53879	474006678909	0.914	1.62894	2010	12371
+"44"	"TED"	"chile"	"chile"	"Americas"	"South America"	"Developing economies"	24249	447887103479	0.847	0.0443139	2009	11437
+"45"	"TED"	"peru"	"peru"	"Americas"	"South America"	"Developing economies"	13772	433059982554	0.759	-0.598962	2009	3655
+"46"	"TED"	"czechia"	"the czech republic"	"Europe"	"Eastern Europe"	"Developed economies"	38020	402796088544	0.891	1.6431	2012	7918
+"47"	"TED"	"ireland"	"ireland"	"Europe"	"Northern Europe"	"Developed economies"	77596	373035786125	0.942	1.40023	2009	22008
+"48"	"TED"	"ukraine"	"ukraine"	"Europe"	"Eastern Europe"	"Transition economies"	8694	369355686788	0.75	0.556886	2009	31710
+"49"	"TED"	"qatar"	"qatar"	"Asia"	"Western Asia"	"Developing economies"	124609	339525961614	0.848	0.396207	2011	2734
+"50"	"TED"	"israel"	"israel"	"Asia"	"Western Asia"	"Developed economies"	38868	338666467124	0.906	1.3146	2010	14604
+"51"	"TED"	"portugal"	"portugal"	"Europe"	"Southern Europe"	"Developed economies"	32554	335319032432	0.85	0.258555	2010	25778
+"52"	"TED"	"myanmar (burma)"	"myanmar (burma)"	"Asia"	"South-eastern Asia"	"Developing economies"	6172	329498250575	0.584	-1.27821	2010	123
+"53"	"TED"	"norway"	"norway"	"Europe"	"Northern Europe"	"Developed economies"	62183	328136868121	0.954	1.09466	2011	8708
+"54"	"TED"	"denmark"	"denmark"	"Europe"	"Northern Europe"	"Developed economies"	54356	313363852996	0.93	1.1577	2009	16939
+"55"	"TED"	"greece"	"greece"	"Europe"	"Southern Europe"	"Developed economies"	28580	307366516012	0.872	0.125884	2009	10248
+"56"	"TED"	"morocco"	"morocco"	"Africa"	"Northern Africa"	"Developing economies"	8261	298504421064	0.676	-0.89235	2011	1123
+"57"	"TED"	"kuwait"	"kuwait"	"Asia"	"Western Asia"	"Developing economies"	72622	294560359598	0.808	0.11607	2016	308
+"58"	"TED"	"hungary"	"hungary"	"Europe"	"Eastern Europe"	"Developed economies"	28799	281880134196	0.845	1.38444	2010	15691
+"59"	"TED"	"sri lanka"	"sri lanka"	"Asia"	"Southern Asia"	"Developing economies"	12879	276168455466	0.78	-0.901589	2015	1517
+"60"	"TED"	"finland"	"finland"	"Europe"	"Northern Europe"	"Developed economies"	46349	255299984722	0.925	1.70679	2010	4369
+"61"	"TED"	"uzbekistan"	"uzbekistan"	"Asia"	"Central Asia"	"Transition economies"	6645	215208283816	0.71	-0.847152	2017	406
+"62"	"TED"	"ethiopia"	"ethiopia"	"Africa"	"Eastern Africa"	"Developing economies"	1897	201867347380	0.47	-1.27445	2011	58
+"63"	"TED"	"sudan"	"sudan"	"Africa"	"Northern Africa"	"Developing economies"	4880	199180045866	0.508	-1.45787	2013	247
+"64"	"TED"	"angola"	"angola"	"Africa"	"Middle Africa"	"Developing economies"	6651	198298815204	0.574	-1.3177	2016	67
+"65"	"TED"	"new zealand"	"new zealand"	"Oceania"	"Oceania"	"Developed economies"	40439	193858465262	0.921	0.483484	2010	6108
+"66"	"TED"	"ecuador"	"ecuador"	"Americas"	"South America"	"Developing economies"	11501	193048609623	0.758	-0.933232	2010	2996
+"67"	"TED"	"oman"	"oman"	"Asia"	"Western Asia"	"Developing economies"	41068	191622190134	0.834	-0.0609077	2012	453
+"68"	"TED"	"belarus"	"belarus"	"Europe"	"Eastern Europe"	"Transition economies"	18916	179668590897	0.817	0.743075	2018	7550
+"69"	"TED"	"slovakia"	"slovakia"	"Europe"	"Eastern Europe"	"Developed economies"	32371	176074591775	0.857	1.3402	2011	3793
+"70"	"TED"	"dominican republic"	"dominican republic"	"Americas"	"Caribbean"	"Developing economies"	16452	172957195643	0.745	-0.363374	2009	674
+"71"	"TED"	"azerbaijan"	"azerbaijan"	"Asia"	"Western Asia"	"Transition economies"	17525	172694683819	0.754	-0.654587	2011	820
+"72"	"TED"	"tanzania"	"tanzania"	"Africa"	"Eastern Africa"	"Developing economies"	3090	163993183601	0.528	-1.01705	2011	66
+"73"	"TED"	"kenya"	"kenya"	"Africa"	"Eastern Africa"	"Developing economies"	3258	163629318215	0.579	-0.747829	2009	830
+"74"	"TED"	"bulgaria"	"bulgaria"	"Europe"	"Eastern Europe"	"Developed economies"	20948	148228312439	0.816	0.347659	2010	7724
+"75"	"TED"	"guatemala"	"guatemala"	"Americas"	"Central America"	"Developing economies"	8167	138141876244	0.651	-0.616793	2012	859
+"76"	"TED"	"tunisia"	"tunisia"	"Africa"	"Northern Africa"	"Developing economies"	12047	137739272459	0.739	-0.287626	2011	852
+"77"	"TED"	"ghana"	"ghana"	"Africa"	"Western Africa"	"Developing economies"	4457	129804758999	0.596	-1.15388	2011	189
+"78"	"TED"	"libya"	"libya"	"Africa"	"Northern Africa"	"Developing economies"	19057	125407569402	0.708	-0.965428	2018	14
+"79"	"TED"	"serbia"	"serbia"	"Europe"	"Southern Europe"	"Transition economies"	16433	115376917157	0.799	0.532947	2011	5973
+"80"	"TED"	"croatia"	"croatia"	"Europe"	"Southern Europe"	"Developed economies"	26296	108457018713	0.837	0.623091	2010	5001
+"81"	"TIMEPAD"	"turkmenistan"	"turkmenistan"	"Asia"	"Central Asia"	"Transition economies"	18032	103823565374	0.71	-1.19506	2018	1
+"82"	"TED"	"panama"	"panama"	"Americas"	"Central America"	"Developing economies"	24472	100500940363	0.795	0.119062	2014	93
+"83"	"TED"	"cuba"	"cuba"	"Americas"	"Caribbean"	"Developing economies"	8541	9.6851e+10	0.778	-0.379871	2015	165
+"84"	"TED"	"côte d'ivoire"	"côte d'ivoire"	"Africa"	"Western Africa"	"Developing economies"	3922	95836748084	0.516	-1.12772	2014	230
+"85"	"TED"	"lithuania"	"lithuania"	"Europe"	"Northern Europe"	"Developed economies"	33253	94052437740	0.869	0.675449	2009	4430
+"86"	"TED"	"cameroon"	"cameroon"	"Africa"	"Middle Africa"	"Developing economies"	3645	89538347743	0.563	-1.01371	2013	51
+"87"	"TED"	"jordan"	"jordan"	"Asia"	"Western Asia"	"Developing economies"	9130	89283185655	0.723	-0.149852	2011	1192
+"88"	"TED"	"paraguay"	"paraguay"	"Americas"	"South America"	"Developing economies"	12972	89077357209	0.724	-0.676455	2012	305
+"89"	"TED"	"lebanon"	"lebanon"	"Asia"	"Western Asia"	"Developing economies"	12814	87286452031	0.73	0.0803256	2012	2499
+"90"	"TED"	"costa rica"	"costa rica"	"Americas"	"Central America"	"Developing economies"	16976	84031346801	0.794	0.237988	2010	3203
+"91"	"TED"	"bolivia"	"bolivia"	"Americas"	"South America"	"Developing economies"	7480	83723411343	0.703	-1.07744	2012	226
+"92"	"TED"	"uganda"	"uganda"	"Africa"	"Eastern Africa"	"Developing economies"	1945	80075755458	0.528	-0.512514	2012	38
+"93"	"TED"	"nepal"	"nepal"	"Asia"	"Southern Asia"	"Developing economies"	2867	79194311734	0.579	NA	2015	529
+"94"	"TED"	"uruguay"	"uruguay"	"Americas"	"South America"	"Developing economies"	22728	78108553378	0.808	0.207869	2011	1478
+"95"	"TED"	"slovenia"	"slovenia"	"Europe"	"Southern Europe"	"Developed economies"	36153	74706917047	0.902	1.4319	2010	2921
+"96"	"TED"	"yemen"	"yemen"	"Asia"	"Western Asia"	"Developing economies"	2645	73631685331	0.463	-0.97195	2014	117
+"97"	"TED"	"democratic republic of the congo"	"democratic republic of the congo"	"Africa"	"Middle Africa"	"Developing economies"	889	72337232184	0.459	-1.29544	2017	4
+"98"	"TED"	"bahrain"	"bahrain"	"Asia"	"Western Asia"	"Developing economies"	47660	71208283858	0.838	NA	2011	853
+"99"	"TED"	"afghanistan"	"afghanistan"	"Asia"	"Southern Asia"	"Developing economies"	1935	70220349482	0.496	NA	2016	11
+"100"	"TED"	"zambia"	"zambia"	"Africa"	"Eastern Africa"	"Developing economies"	4090	68933607044	0.591	-0.514087	2018	17
+"101"	"TED"	"cambodia"	"cambodia"	"Asia"	"South-eastern Asia"	"Developing economies"	4020	64352721029	0.581	-1.37692	2018	209
+"102"	"TED"	"luxembourg"	"luxembourg"	"Europe"	"Western Europe"	"Developed economies"	107641	64189940522	0.909	NA	2011	709
+"103"	"TED"	"latvia"	"latvia"	"Europe"	"Northern Europe"	"Developed economies"	28362	55086300806	0.854	0.653054	2011	1688
+"104"	"TED"	"senegal"	"senegal"	"Africa"	"Western Africa"	"Developing economies"	3556	54833442984	0.514	-0.518687	2017	36
+"105"	"TED"	"el salvador"	"el salvador"	"Americas"	"Central America"	"Developing economies"	7973	50931018430	0.667	-0.336211	2012	540
+"106"	"TED"	"laos"	"laos"	"Asia"	"South-eastern Asia"	"Developing economies"	6940	48250969277	0.604	-1.25108	2017	11
+"107"	"TED"	"honduras"	"honduras"	"Americas"	"Central America"	"Developing economies"	4917	46359852557	0.623	-0.744556	2016	293
+"108"	"TED"	"bosnia and herzegovina"	"bosnia and herzegovina"	"Europe"	"Southern Europe"	"Transition economies"	13735	46033486454	0.769	0.372865	2010	829
+"109"	"TED"	"estonia"	"estonia"	"Europe"	"Northern Europe"	"Developed economies"	33448	44063633073	0.882	0.898422	2012	1898
+"110"	"TED"	"trinidad and tobago"	"trinidad and tobago"	"Americas"	"Caribbean"	"Developing economies"	31429	43499718859	0.799	-0.0506048	2012	128
+"111"	"TED"	"mali"	"mali"	"Africa"	"Western Africa"	"Developing economies"	2222	41130057354	0.427	-0.767797	2019	26
+"112"	"TED"	"syria"	"syria"	"Asia"	"Western Asia"	"Developing economies"	2033	40405006007	0.549	-0.744963	2015	117
+"113"	"TED"	"zimbabwe"	"zimbabwe"	"Africa"	"Eastern Africa"	"Developing economies"	2826	40229128006	0.563	-0.811801	2015	70
+"114"	"TED"	"madagascar"	"madagascar"	"Africa"	"Eastern Africa"	"Developing economies"	1560	39900329809	0.521	-1.45882	2012	10
+"115"	"TED"	"mongolia"	"mongolia"	"Asia"	"Eastern Asia"	"Developing economies"	12787	39816777184	0.735	-0.78801	2013	394
+"116"	"TED"	"georgia"	"georgia"	"Asia"	"Western Asia"	"Transition economies"	10674	39793370089	0.786	-0.0587891	2012	2273
+"117"	"TED"	"botswana"	"botswana"	"Africa"	"Southern Africa"	"Developing economies"	17785	39217883524	0.728	-0.790862	2015	13
+"118"	"TED"	"albania"	"albania"	"Europe"	"Southern Europe"	"Transition economies"	12930	37154193490	0.791	-0.781571	2013	147
+"119"	"TED"	"mozambique"	"mozambique"	"Africa"	"Eastern Africa"	"Developing economies"	1295	37093252342	0.446	-1.24908	2018	176
+"120"	"TED"	"gabon"	"gabon"	"Africa"	"Middle Africa"	"Developing economies"	17762	36676229905	0.702	-1.22477	2016	2
+"121"	"TED"	"nicaragua"	"nicaragua"	"Americas"	"Central America"	"Developing economies"	5687	36311830072	0.651	-1.33756	2016	324
+"122"	"TED"	"papua new guinea"	"papua new guinea"	"Oceania"	"Oceania"	"Developing economies"	4269	36025584650	0.543	-2.00821	2015	1
+"123"	"TED"	"burkina faso"	"burkina faso"	"Africa"	"Western Africa"	"Developing economies"	1866	35817942701	0.434	NA	2018	5
+"124"	"TED"	"brunei"	"brunei"	"Asia"	"South-eastern Asia"	"Developing economies"	79790	33868533039	0.845	NA	2015	14
+"125"	"TED"	"north macedonia"	"north macedonia"	"Europe"	"Southern Europe"	"Transition economies"	15299	31852356726	0.759	-0.290303	2016	720
+"126"	"TED"	"cyprus"	"cyprus"	"Europe"	"Southern Europe"	"Developed economies"	36155	31076457366	0.873	NA	2011	1161
+"127"	"TED"	"guinea"	"guinea"	"Africa"	"Western Africa"	"Developing economies"	2435	29387093923	0.466	-1.51688	2018	1
+"128"	"TED"	"tajikistan"	"tajikistan"	"Asia"	"Central Asia"	"Transition economies"	3217	28564098681	0.656	-1.10384	2012	55
+"129"	"TED"	"armenia"	"armenia"	"Asia"	"Western Asia"	"Transition economies"	9621	28331472880	0.76	NA	2011	1130
+"130"	"TED"	"mauritius"	"mauritius"	"Africa"	"Eastern Africa"	"Developing economies"	22355	28270664554	0.796	-0.579654	2017	199
+"131"	"TED"	"namibia"	"namibia"	"Africa"	"Southern Africa"	"Developing economies"	11104	26679511307	0.645	-0.381863	2015	61
+"132"	"TED"	"jamaica"	"jamaica"	"Americas"	"Caribbean"	"Developing economies"	8971	26202330526	0.726	-0.239734	2010	191
+"133"	"TED"	"benin"	"benin"	"Africa"	"Western Africa"	"Developing economies"	2277	25441421706	0.52	NA	2017	15
+"134"	"TED"	"rwanda"	"rwanda"	"Africa"	"Eastern Africa"	"Developing economies"	2082	24947828862	0.536	NA	2011	25
+"135"	"TED"	"moldova"	"moldova"	"Europe"	"Eastern Europe"	"Transition economies"	6859	24343552149	0.711	-0.464417	2012	771
+"136"	"TED"	"kyrgyzstan"	"kyrgyzstan"	"Asia"	"Central Asia"	"Transition economies"	3734	23141637562	0.674	-0.286814	2011	399
+"137"	"TED"	"malawi"	"malawi"	"Africa"	"Eastern Africa"	"Developing economies"	1270	22434950110	0.485	-0.768715	2017	29
+"138"	"TED"	"somalia"	"somalia"	"Africa"	"Eastern Africa"	"Developing economies"	NA	2.044e+10	NA	NA	2012	9
+"139"	"TED"	"haiti"	"haiti"	"Americas"	"Caribbean"	"Developing economies"	1819	19972602911	0.503	NA	2012	18
+"140"	"TED"	"south sudan"	"south sudan"	"Africa"	"Eastern Africa"	"Developing economies"	1812	19625017092	0.413	NA	2012	1
+"141"	"TED"	"malta"	"malta"	"Europe"	"Southern Europe"	"Developed economies"	41549	19444751558	0.885	NA	2011	870
+"142"	"TED"	"iceland"	"iceland"	"Europe"	"Northern Europe"	"Developed economies"	55322	18997605752	0.938	NA	2009	1592
+"143"	"TED"	"mauritania"	"mauritania"	"Africa"	"Western Africa"	"Developing economies"	4067	17415817943	0.527	-0.963114	2015	2
+"144"	"TED"	"togo"	"togo"	"Africa"	"Western Africa"	"Developing economies"	1683	12954602664	0.513	-0.462205	2017	3
+"145"	"MEETUP"	"the bahamas"	"the bahamas"	"Americas"	"Caribbean"	"Developing economies"	31581	12056433993	0.805	NA	2017	21
+"146"	"TED"	"montenegro"	"montenegro"	"Europe"	"Southern Europe"	"Transition economies"	19355	12046041760	0.816	NA	2012	162
+"147"	"TED"	"eswatini"	"eswatini"	"Africa"	"Southern Africa"	"Developing economies"	10526	11839273856	0.608	NA	2016	4
+"148"	"TED"	"sierra leone"	"sierra leone"	"Africa"	"Western Africa"	"Developing economies"	1544	11565352170	0.438	NA	2012	6
+"149"	"TED"	"timor-leste"	"timor-leste"	"Asia"	"South-eastern Asia"	"Developing economies"	7416	9220301265	0.626	NA	2019	6
+"150"	"TED"	"fiji"	"fiji"	"Oceania"	"Oceania"	"Developing economies"	10319	9054463164	0.724	NA	2017	4
+"151"	"TED"	"suriname"	"suriname"	"Americas"	"South America"	"Developing economies"	15002	8558820521	0.724	NA	2015	28
+"152"	"TED"	"burundi"	"burundi"	"Africa"	"Eastern Africa"	"Developing economies"	738	7990111828	0.423	NA	2012	2
+"153"	"TED"	"bhutan"	"bhutan"	"Asia"	"Southern Asia"	"Developing economies"	10173	7584701339	0.617	NA	2015	18
+"154"	"TED"	"maldives"	"maldives"	"Asia"	"Southern Asia"	"Developing economies"	14669	7281568559	0.719	NA	2016	38
+"155"	"TED"	"eritrea"	"eritrea"	"Africa"	"Eastern Africa"	"Developing economies"	2103	6758835465	0.434	NA	2011	2
+"156"	"TED"	"lesotho"	"lesotho"	"Africa"	"Southern Africa"	"Developing economies"	3131	6548218774	0.518	NA	2017	2
+"157"	"TED"	"monaco"	"monaco"	"Europe"	"Western Europe"	"Developed economies"	166726	6400946586	0.956	NA	2013	145
+"158"	"TED"	"guyana"	"guyana"	"Americas"	"South America"	"Developing economies"	8140	6310620920	0.67	NA	2015	1
+"159"	"TED"	"liechtenstein"	"liechtenstein"	"Europe"	"Western Europe"	"Developed economies"	165028	6214633651	0.917	NA	2013	161
+"160"	"TED"	"liberia"	"liberia"	"Africa"	"Western Africa"	"Developing economies"	1293	6081936621	0.465	-0.854269	2018	5
+"161"	"TED"	"barbados"	"barbados"	"Americas"	"Caribbean"	"Developing economies"	18526	5302755008	0.813	NA	2011	23
+"162"	"TED"	"cape verde"	"cape verde"	"Africa"	"Western Africa"	"Developing economies"	7027	3776982885	0.651	NA	2017	6
+"163"	"TED"	"andorra"	"andorra"	"Europe"	"Southern Europe"	"Developed economies"	42030	3236543909	0.857	NA	2010	108
+"164"	"TED"	"belize"	"belize"	"Americas"	"Central America"	"Developing economies"	8500	3194203642	0.72	NA	2017	20
+"165"	"BEHANCE"	"seychelles"	"seychelles"	"Africa"	"Eastern Africa"	"Developing economies"	29062	2785414459	0.801	NA	2017	4
+"166"	"TED"	"antigua and barbuda"	"antigua and barbuda"	"Americas"	"Caribbean"	"Developing economies"	25146	2399538417	0.776	NA	2015	15
+"167"	"TED"	"san marino"	"san marino"	"Europe"	"Southern Europe"	"Developed economies"	63037	2122523062	0.961	NA	2018	13
+"168"	"MEETUP"	"saint lucia"	"saint lucia"	"Americas"	"Caribbean"	"Developing economies"	10315	1876189778	0.745	NA	2011	8
+"169"	"MEETUP"	"solomon islands"	"solomon islands"	"Oceania"	"Oceania"	"Developing economies"	2339	1487935001	0.557	NA	2014	1
+"170"	"TED"	"saint kitts and nevis"	"saint kitts and nevis"	"Americas"	"Caribbean"	"Developing economies"	19829	1039875050	0.777	NA	2011	3
+"171"	"BEHANCE"	"vanuatu"	"vanuatu"	"Oceania"	"Oceania"	"Developing economies"	3110	888024689	0.597	NA	2016	13
+"172"	"TED"	"são tomé and príncipe"	"são tomé and príncipe"	"Africa"	"Middle Africa"	"Developing economies"	3313	686029522.3	0.609	NA	2015	5
+"173"	"MEETUP"	"federated states of micronesia"	"federated states of micronesia"	"Oceania"	"Oceania"	"Developing economies"	3504	390596546.3	0.614	NA	2007	3
+"174"	"TED"	"hong kong"	""	""	""	""	NA	NA	NA	NA	2017	199
+"175"	"MEETUP"	"vatican city"	"holy see"	"Europe"	"Southern Europe"	"Developed economies"	NA	NA	NA	NA	2007	3
+"176"	"BEHANCE"	"north korea"	"north korea"	"Asia"	"Eastern Asia"	"Developing economies"	NA	NA	NA	NA	2017	48
