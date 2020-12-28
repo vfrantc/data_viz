@@ -16,7 +16,7 @@
    id="svg4071"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="1.svg"
-   inkscape:export-filename="/home/franz/bitmap.png"
+   inkscape:export-filename="/home/franz/1.png"
    inkscape:export-xdpi="250.35001"
    inkscape:export-ydpi="250.35001">
   <defs
@@ -29,16 +29,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3293607"
-     inkscape:cx="119.97712"
-     inkscape:cy="195.12888"
+     inkscape:cx="31.908601"
+     inkscape:cy="178.00537"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1868"
+     inkscape:window-height="1016"
+     inkscape:window-x="1972"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata4068">
@@ -57,12 +57,15 @@
      id="layer5"
      inkscape:label="Layer 2">
     <rect
-       style="fill:#ffffff;stroke-width:0.26458332"
+       style="fill:#ffffff;stroke-width:0.26701918"
        id="rect5119"
-       width="109.99999"
-       height="85"
-       x="0"
-       y="0" />
+       width="110.99516"
+       height="85.79612"
+       x="-0.99515253"
+       y="-0.79612201"
+       inkscape:export-filename="/home/franz/1.png"
+       inkscape:export-xdpi="250.35001"
+       inkscape:export-ydpi="250.35001" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -73,7 +76,7 @@
        xml:space="preserve"
        id="flowRoot4073"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,10.548616,217.0974)"><flowRegion
+       transform="matrix(0.30305829,0,0,0.38963557,-0.66246177,203.37809)"><flowRegion
          id="flowRegion4075"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two'"><rect
            id="rect4077"
@@ -85,15 +88,16 @@
          id="flowPara4079"
          style="font-weight:bold">Vladimir Frants</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="22.092384"
-       y="259.50491"
-       id="text4083"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52512646px;line-height:1.25;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.21312815"
+       x="15.991447"
+       y="313.84882"
+       id="text4083"
+       transform="scale(1.2085172,0.8274603)"><tspan
          sodipodi:role="line"
          id="tspan4081"
-         x="22.092384"
-         y="259.50491"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Impact;-inkscape-font-specification:Impact;fill:#808080;stroke-width:0.26458332">Engineer, introvert ... misanthropist</tspan></text>
+         x="15.991447"
+         y="313.84882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.26256323px;font-family:Impact;-inkscape-font-specification:Impact;fill:#b3b3b3;stroke-width:0.21312815">Engineer, introvert ... misanthropist...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -161,7 +165,40 @@
            y="1.465805e-05"
            style="font-size:10.66666698px" /></flowRegion><flowPara
          id="flowPara4964"
-         style="fill:#666666"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';fill:#666666"
-   id="flowSpan4966">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</flowSpan>.  </flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.74395514px;font-family:Impact;-inkscape-font-specification:Impact;fill:#000000">If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.</flowPara><flowPara
+         style="font-style:normal;font-size:6.52122545px;fill:#000000"
+         id="flowPara967">                                                                                         </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89.762764"
+       y="231.1209"
+       id="text981"><tspan
+         sodipodi:role="line"
+         id="tspan979"
+         x="89.762764"
+         y="233.87009"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.602222"
+       y="231.71799"
+       id="text985"><tspan
+         sodipodi:role="line"
+         id="tspan983"
+         x="40.602222"
+         y="234.46718"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89.160927"
+       y="223.55775"
+       id="text989"><tspan
+         sodipodi:role="line"
+         id="tspan987"
+         x="89.160927"
+         y="223.55775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Impact;-inkscape-font-specification:Impact;stroke-width:0.26458332">James Cameron</tspan></text>
+  </g>
 </svg>
